@@ -3,17 +3,20 @@ from __future__ import annotations
 
 import hashlib
 import json
+import logging
 import os
 import re
 import secrets
 import shutil
+import sys
 import tempfile
+import time
 from datetime import datetime, timezone
 from functools import wraps
 from pathlib import Path
 from typing import Any
 
-from flask import Flask, abort, jsonify, redirect, request, send_file, send_from_directory, session
+from flask import Flask, abort, g, jsonify, redirect, request, send_file, send_from_directory, session
 from dotenv import load_dotenv
 
 
@@ -25,6 +28,7 @@ HISTORY_ROOT = Path(os.getenv("HISTORY_ROOT", BASE_DIR / ".studio" / "history"))
 MILVUS_HOST = os.getenv("MILVUS_HOST", "10.0.30.51")
 MILVUS_PORT = int(os.getenv("MILVUS_PORT", "19530"))
 AUTH_ENABLED = os.getenv("AUTH_ENABLED", "true").lower() != "false"
+LOG_LEVEL = os.getenv("LOG_LEVEL", "INFO").upper()
 
 DOMAINS = {
     "steps": {
@@ -44,6 +48,14 @@ DOMAINS = {
 app = Flask(__name__, static_folder="public", static_url_path="")
 app.secret_key = os.getenv("SECRET_KEY", secrets.token_hex(32))
 app.config.update(SESSION_COOKIE_HTTPONLY=True, SESSION_COOKIE_SAMESITE="Strict", MAX_CONTENT_LENGTH=50 * 1024 * 1024)
+
+logger = logging.getLogger("data_studio")
+logger.setLevel(getattr(logging, LOG_LEVEL, logging.INFO))
+logger.propagate = False
+if not logger.handlers:
+    terminal = logging.StreamHandler(sys.stdout)
+    terminal.setFormatter(logging.Formatter("%(asctime)s | %(levelname)-8s | %(message)s", datefmt="%Y-%m-%d %H:%M:%S"))
+    logger.addHandler(terminal)
 
 
 def now_iso() -> str:
@@ -224,21 +236,28 @@ def save_audit(domain: str, relative: str, chunks: list[dict[str, Any]], user: s
     with (folder / "chunks.jsonl").open("w", encoding="utf-8") as stream:
         for chunk in chunks:
             stream.write(json.dumps(chunk, ensure_ascii=False) + "\n")
+    logger.info("AUDIT_SAVED domain=%s source=%s chunks=%d user=%s directory=%s", domain, relative, len(chunks), user, folder)
     return folder
 
 
 def sync_milvus(domain: str, relative: str, chunks: list[dict[str, Any]]) -> dict[str, Any]:
     if os.getenv("MILVUS_SYNC_ENABLED", "true").lower() != "true":
+        logger.warning("MILVUS_DISABLED domain=%s source=%s chunks=%d", domain, relative, len(chunks))
         return {"status": "disabled", "host": MILVUS_HOST}
     try:
         from pymilvus import MilvusClient, DataType
         from sentence_transformers import SentenceTransformer
         model_name = os.getenv("EMBEDDING_MODEL", "intfloat/multilingual-e5-large")
+        logger.info("EMBEDDING_START domain=%s source=%s chunks=%d model=%s device=%s", domain, relative, len(chunks), model_name, os.getenv("EMBEDDING_DEVICE", "cpu"))
+        started = time.perf_counter()
         model = SentenceTransformer(model_name, device=os.getenv("EMBEDDING_DEVICE", "cpu"))
         vectors = model.encode(["passage: " + c["content"] for c in chunks], normalize_embeddings=True).tolist() if chunks else []
+        logger.info("EMBEDDING_COMPLETE domain=%s source=%s vectors=%d duration_ms=%d", domain, relative, len(vectors), round((time.perf_counter() - started) * 1000))
         client = MilvusClient(uri=f"http://{MILVUS_HOST}:{MILVUS_PORT}", token=os.getenv("MILVUS_TOKEN") or None)
         collection = DOMAINS[domain]["collection"]
+        logger.info("MILVUS_CONNECTED host=%s port=%d collection=%s", MILVUS_HOST, MILVUS_PORT, collection)
         if not client.has_collection(collection):
+            logger.warning("MILVUS_COLLECTION_CREATE collection=%s", collection)
             schema = client.create_schema(auto_id=False, enable_dynamic_field=False)
             schema.add_field("chunk_id", DataType.VARCHAR, is_primary=True, max_length=64)
             schema.add_field("embedding", DataType.FLOAT_VECTOR, dim=len(vectors[0]) if vectors else 1024)
@@ -250,11 +269,40 @@ def sync_milvus(domain: str, relative: str, chunks: list[dict[str, Any]]) -> dic
             client.create_collection(collection, schema=schema, index_params=index)
         escaped = relative.replace("\\", "\\\\").replace('"', '\\"')
         client.delete(collection_name=collection, filter=f'source_path == "{escaped}"')
+        logger.info("MILVUS_OLD_SOURCE_DELETED collection=%s source=%s", collection, relative)
         if chunks:
             client.insert(collection_name=collection, data=[{"chunk_id": c["chunk_id"], "embedding": vector, "source_path": relative, "section_title": c["section_title"], "content": c["content"], "metadata": {k: v for k, v in c.items() if k not in {"content", "section_title", "chunk_id"}}} for c, vector in zip(chunks, vectors)])
+        logger.info("MILVUS_SYNC_COMPLETE collection=%s source=%s chunks=%d", collection, relative, len(chunks))
         return {"status": "synced", "host": MILVUS_HOST, "collection": collection, "chunks": len(chunks)}
     except Exception as exc:
+        logger.exception("MILVUS_SYNC_FAILED domain=%s source=%s collection=%s error=%s", domain, relative, DOMAINS[domain]["collection"], exc)
         return {"status": "failed", "host": MILVUS_HOST, "collection": DOMAINS[domain]["collection"], "error": str(exc)}
+
+
+@app.before_request
+def log_request_start():
+    g.request_started = time.perf_counter()
+    g.request_id = request.headers.get("X-Request-ID") or secrets.token_hex(4)
+    user = session.get("username", "anonymous")
+    logger.info("REQUEST_START id=%s method=%s path=%s remote=%s user=%s content_length=%s", g.request_id, request.method, request.path, request.remote_addr, user, request.content_length or 0)
+
+
+@app.after_request
+def log_request_complete(response):
+    duration = round((time.perf_counter() - getattr(g, "request_started", time.perf_counter())) * 1000)
+    response.headers["X-Request-ID"] = getattr(g, "request_id", "unknown")
+    logger.info("REQUEST_COMPLETE id=%s method=%s path=%s status=%d duration_ms=%d", getattr(g, "request_id", "unknown"), request.method, request.path, response.status_code, duration)
+    return response
+
+
+@app.errorhandler(Exception)
+def log_unhandled_error(error):
+    from werkzeug.exceptions import HTTPException
+    if isinstance(error, HTTPException):
+        logger.warning("HTTP_ERROR id=%s method=%s path=%s status=%d message=%s", getattr(g, "request_id", "unknown"), request.method, request.path, error.code, error.description)
+        return jsonify(error=error.description), error.code
+    logger.exception("UNHANDLED_ERROR id=%s method=%s path=%s", getattr(g, "request_id", "unknown"), request.method, request.path)
+    return jsonify(error="Internal server error", request_id=getattr(g, "request_id", "unknown")), 500
 
 
 @app.get("/")
@@ -274,13 +322,16 @@ def login():
     username, password = clean_text(body.get("username")), str(body.get("password", ""))
     roles = USER_ROLES.get(username.lower(), [])
     if not username or not password or not roles or not ldap_login(username, password):
+        logger.warning("AUTH_FAILED username=%s remote=%s assigned_roles=%s", username or "missing", request.remote_addr, roles)
         return jsonify(error="Invalid credentials or no assigned data access"), 401
     session.clear(); session.update(username=username, roles=roles)
+    logger.info("AUTH_SUCCESS username=%s remote=%s roles=%s", username, request.remote_addr, roles)
     return jsonify(user=current_user())
 
 
 @app.post("/api/auth/logout")
 def logout():
+    logger.info("AUTH_LOGOUT username=%s remote=%s", session.get("username", "anonymous"), request.remote_addr)
     session.clear(); return jsonify(ok=True)
 
 
@@ -328,11 +379,13 @@ def save_file(domain):
     if path.exists():
         backup = HISTORY_ROOT / domain / datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S.%fZ") / path.relative_to(root)
         backup.parent.mkdir(parents=True, exist_ok=True); shutil.copy2(path, backup)
+        logger.info("SOURCE_BACKUP domain=%s source=%s backup=%s user=%s", domain, path.relative_to(root).as_posix(), backup, current_user()["username"])
     path.parent.mkdir(parents=True, exist_ok=True)
     with tempfile.NamedTemporaryFile("w", encoding="utf-8", dir=path.parent, delete=False, suffix=".tmp") as stream:
         json.dump(data, stream, ensure_ascii=False, indent=2); temp = Path(stream.name)
     temp.replace(path)
     relative = path.relative_to(root).as_posix(); chunks = make_chunks(domain, path, relative)
+    logger.info("SOURCE_SAVED domain=%s source=%s user=%s chunks=%d", domain, relative, current_user()["username"], len(chunks))
     audit = save_audit(domain, relative, chunks, current_user()["username"]); sync = sync_milvus(domain, relative, chunks)
     status = 200 if sync["status"] != "failed" else 202
     return jsonify(ok=True, chunks=len(chunks), audit=str(audit), milvus=sync), status
@@ -349,8 +402,10 @@ def upload_file(domain):
     if path.exists():
         backup = HISTORY_ROOT / domain / datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%S.%fZ") / path.relative_to(root)
         backup.parent.mkdir(parents=True, exist_ok=True); shutil.copy2(path, backup)
+        logger.info("SOURCE_BACKUP domain=%s source=%s backup=%s user=%s", domain, path.relative_to(root).as_posix(), backup, current_user()["username"])
     path.parent.mkdir(parents=True, exist_ok=True); upload.save(path)
     relative = path.relative_to(root).as_posix(); chunks = make_chunks(domain, path, relative)
+    logger.info("SOURCE_UPLOADED domain=%s source=%s filename=%s bytes=%d user=%s chunks=%d", domain, relative, upload.filename, path.stat().st_size, current_user()["username"], len(chunks))
     audit = save_audit(domain, relative, chunks, current_user()["username"]); sync = sync_milvus(domain, relative, chunks)
     return jsonify(ok=True, chunks=len(chunks), audit=str(audit), milvus=sync), (200 if sync["status"] != "failed" else 202)
 
@@ -360,9 +415,14 @@ def upload_file(domain):
 def reindex(domain):
     root, path = safe_target(domain, (request.get_json(silent=True) or {}).get("path", ""))
     relative = path.relative_to(root).as_posix(); chunks = make_chunks(domain, path, relative)
+    logger.info("REINDEX_STARTED domain=%s source=%s user=%s chunks=%d", domain, relative, current_user()["username"], len(chunks))
     audit = save_audit(domain, relative, chunks, current_user()["username"]); sync = sync_milvus(domain, relative, chunks)
     return jsonify(ok=True, chunks=len(chunks), audit=str(audit), milvus=sync), (200 if sync["status"] != "failed" else 202)
 
 
 if __name__ == "__main__":
-    app.run(host=os.getenv("HOST", "127.0.0.1"), port=int(os.getenv("PORT", "4173")), debug=os.getenv("FLASK_DEBUG", "false").lower() == "true")
+    host, port = os.getenv("HOST", "127.0.0.1"), int(os.getenv("PORT", "4173"))
+    logger.info("APPLICATION_START service=capital-data-studio host=%s port=%d auth_enabled=%s data_root=%s audit_root=%s milvus=%s:%d roles=%s", host, port, AUTH_ENABLED, DATA_ROOT, AUDIT_ROOT, MILVUS_HOST, MILVUS_PORT, sorted(USER_ROLES))
+    for domain, config in DOMAINS.items():
+        logger.info("DOMAIN_CONFIG domain=%s root=%s collection=%s", domain, config["root"], config["collection"])
+    app.run(host=host, port=port, debug=os.getenv("FLASK_DEBUG", "false").lower() == "true")

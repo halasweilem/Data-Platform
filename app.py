@@ -262,6 +262,12 @@ def index():
     return send_from_directory(app.static_folder, "index.html") if current_user() else redirect("/login.html")
 
 
+@app.get("/health")
+def health():
+    """Unauthenticated health probe for the service manager/reverse proxy."""
+    return jsonify(status="ok", service="capital-data-studio", time=now_iso())
+
+
 @app.post("/api/auth/login")
 def login():
     body = request.get_json(silent=True) or {}

@@ -1,4 +1,5 @@
 Flask>=3.0,<4
+gunicorn>=23,<24
 python-dotenv>=1.0,<2
 ldap3>=2.9,<3
 pymilvus>=2.5,<3

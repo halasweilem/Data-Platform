@@ -1,0 +1,21 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to unblock card pin",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select debit card from drop down list",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Click on unblock pin & Confirm request",
+      "image": "step_3.png"
+    }
+  ]
+}

@@ -1,0 +1,9 @@
+{
+  "tips": [
+    "1- Account selected from dashboard is the debit account number",
+    "2- Debit account number can be changed from preview / confirm screen ",
+    "3- If debit account currency is different than credit account currency, customer can choose currency needed (only credit / debit currencies displayed) to proceed transfer",
+    "4- FX displayed in retrieved from bank’s list  ",
+    "5- If cross currency transfer applied, actual amount and equivalent amounts will be displayed in preview / confirm screen. "
+  ]
+}

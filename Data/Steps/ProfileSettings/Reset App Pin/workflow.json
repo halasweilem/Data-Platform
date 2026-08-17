@@ -1,0 +1,36 @@
+{
+  "topic": "Reset App Pin",
+  "title": "Steps to Reset App Pin",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on reset app pin",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter current pin",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter new pin",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Confirm new pin",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Enter OTP received at the registered mobile number in core",
+      "image": null
+    }
+  ]
+}

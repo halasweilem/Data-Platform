@@ -1,0 +1,11 @@
+{
+  "topic": "App Rating ",
+  "title": "Steps to rate application feature after processing payments ",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to Mobile Application  , Process any transfer",
+      "image": "step_1.png"
+    }
+  ]
+}

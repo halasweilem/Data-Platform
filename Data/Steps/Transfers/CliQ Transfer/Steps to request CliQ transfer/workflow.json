@@ -1,0 +1,36 @@
+{
+  "topic": "CliQ Transfer ",
+  "title": "Steps to request CliQ transfer. ",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click 'request money. '",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Enter amount.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Customer has two options for selecting beneficiary.  \n a. Add new beneficiary: click on manage CliQ beneficiaries. ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Select beneficiary from list. ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Select purpose of request from drop down list. ",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Preview screen , Confirm request. ",
+      "image": "step_6.png"
+    }
+  ]
+}

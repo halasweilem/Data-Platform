@@ -1,0 +1,55 @@
+{
+    "topic": "Open Additional Account",
+    "title": "Steps to Open Additional Account",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to the mobile application & click on profile settings.",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on Open Additional Account to start the process.",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Fill in the required account details.",
+            "fields": [
+                {
+                    "name": "Account Type",
+                    "type": "selection",
+                    "options": [
+                        "Current",
+                        "Saving"
+                    ]
+                },
+                {
+                    "name": "Product Type",
+                    "type": "dropdown"
+                },
+                {
+                    "name": "Account Currency",
+                    "type": "selection"
+                },
+                {
+                    "name": "Purpose of Account Opening",
+                    "type": "input"
+                },
+                {
+                    "name": "Account Nickname",
+                    "type": "input"
+                }
+            ],
+            "actions": [
+                "Tap 'Next' to proceed"
+            ],
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Preview request details & submit",
+            "image": "step_4.png"
+        }
+    ]
+}

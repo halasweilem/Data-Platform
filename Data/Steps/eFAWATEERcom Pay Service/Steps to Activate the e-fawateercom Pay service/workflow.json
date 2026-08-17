@@ -1,0 +1,59 @@
+{
+    "topic": "eFAWATEERcom Pay Service",
+    "title": "Steps to Activate the e-fawateercom Pay service",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Navigate to the “Pay Bill Tab” Section: \n - Log in to the mobile application. \n  - From the account dashboard, navigate to the 'Pay bill' section and click on it.",
+            "image": "step_1.png"
+        },
+        {
+            "step": 2,
+            "text": "A new tab will appear for EP Service ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "When the user clicks EP Service, new page displays to activate the service (first time) ",
+            "image": null
+        },
+        {
+            "step": 4,
+            "text": "User must choose the account and fill the account nickname ",
+            "image": null
+        },
+        {
+            "step": 5,
+            "text": "Once confirmed by user with OTP the service will be activated",
+            "image": null
+        },
+        {
+            "step": 6,
+            "text": "After activating the service, the user will be able to manage the service with options : ",
+            "steps": [
+                {
+                "step": 1,
+                "text": "Deactivate the service (setting icon beside active) ",
+                "image": "step_6_1.png"
+                },
+                {
+                "step": 2,
+                "text": "Edit nick name (3 dots beside nick name)" ,
+                "image": "step_6_2.png"
+                },
+                {
+                "step": 3,
+                "text": "Change linked account (3 dots beside account)",
+                "image": "step_6_3.png"
+                }
+            ],
+            "image": "step_6.png"
+        },
+        {
+            "Note": 1,
+            "text": "**if the account is deactivated then next log in to the service the page will be displayed as first time and user must choose the account and fill the nickname ",
+            "image": null
+        }
+
+    ]
+}

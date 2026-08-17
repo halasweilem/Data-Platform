@@ -1,0 +1,17 @@
+{
+  "tips": [
+    {
+      "title": "Details displayed when consent is accepted",
+      "items": [
+        "Customer name",
+        "Account type",
+        "Bank name and address",
+        "City"
+      ]
+    },
+    {
+      "title": "Consent revocation policy",
+      "text": "Once consent is accepted through the mobile application, it cannot be revoked from the app. The customer must contact the call center to remove the flag from the core system."
+    }
+  ]
+}

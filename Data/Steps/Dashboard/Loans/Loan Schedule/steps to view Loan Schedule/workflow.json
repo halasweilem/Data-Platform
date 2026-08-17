@@ -1,0 +1,16 @@
+{
+  "topic": "Loan schedule",
+  "title": "Steps to view loan schedule",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on Loans dashboard",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on loan schedule",
+      "image": "step_2.png"
+    }
+  ]
+}

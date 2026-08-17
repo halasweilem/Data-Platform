@@ -1,0 +1,26 @@
+{
+  "topic": "CliQ Transfer ",
+  "title": "Steps to create CliQ transfer – New beneficiary.",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click Transfer",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on New beneficiary ,Enter CliQ ID (Alias or Mobile) / IBAN ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter amount and fill transfer details. ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on next to preview transfer details \n a. Confirm: proceed with transfer  \n b. Back arrow to edit transfer details ",
+      "image": "step_4.png"
+    }
+  ]
+}

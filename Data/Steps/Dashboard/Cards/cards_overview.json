@@ -1,0 +1,57 @@
+{
+  "topic": "Cards",
+  "description": "Cards Overview",
+  "features": [
+    {
+      "name": "View Cards Balance",
+      "details": [
+        "To view card masked number",
+        "To view card expiry date",
+        "To view card available balance",
+        "To view card type"
+      ]
+    },
+    {
+      "name": "View Card Details",
+      "details": [
+        "To view card last payment, issuance date, card status, card currency, payment due date, settlement percentage, card limit, due amount, EPP installment"
+      ]
+    },
+    {
+      "name": "View Card Transactions",
+      "details": [
+        "To view credit card transaction"
+      ]
+    },
+    {
+      "name": "Settle Credit Card Payments",
+      "details": [
+        "To settle credit card per",
+        "Minimum due amount",
+        "Outstanding amount",
+        "Any amount"
+      ]
+    },
+    {
+      "name": "Request / View Virtual Prepaid Card",
+      "details": [
+        "To create new virtual prepaid card transaction",
+        "To manage virtual card (Withdraw, Top-up)",
+        "To view card details via receiving OTP"
+      ]
+    },
+    {
+      "name": "Manage Cards Limits",
+      "details": [
+        "To manage card online, POS, ATM withdrawal and Contactless limits"
+      ]
+    },
+    {
+      "name": "Manage Cards Features",
+      "details": [
+        "To freeze/unfreeze card",
+        "To unblock card pin"
+      ]
+    }
+  ]
+}

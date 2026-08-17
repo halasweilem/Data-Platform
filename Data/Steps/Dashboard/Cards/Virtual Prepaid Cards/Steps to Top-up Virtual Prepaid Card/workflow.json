@@ -1,0 +1,31 @@
+{
+  "topic": "Virtual Prepaid Cards",
+  "title": "Steps to Top-up Virtual Prepaid Card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Select the needed card & click on 'Top-up' button",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Select debit account (top-up from)",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter top-up amount",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Review details and click 'Confirm'",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "View successful message",
+      "image": "step_5.png"
+    }
+  ]
+}

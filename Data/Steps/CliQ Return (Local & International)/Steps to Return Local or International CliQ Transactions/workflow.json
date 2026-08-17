@@ -1,0 +1,51 @@
+{
+  "topic": "CliQ Return (Local & International)",
+  "title": "Steps to Return Local or International CliQ Transactions",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Navigate to the “CliQ Tab” Section: \n -  Log in to the mobile application. \n - From the account dashboard, navigate to the ' CliQ ' section and click on it. ",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "A new action button will appear:\n  - CliQ Transfer (existing) \n -  Manage my CliQ (existing) \n - CliQ Transactions History (NEW)",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "When the user taps CliQ Transactions History, two tabs will appear: \n - Inward \n - Outward  ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Under each Inward CliQ payment (Local or International), a Return Payment button appears only if the transaction is within the allowed period (7 days from recipient)  ",
+      "image": null
+    },
+    {
+      "step": 5,
+      "text": "When a user clicks on the return button for eligible transaction to return it, the pop-up page appears with: \n - Transaction details: Description, Date, Amount, Status  \n - And the Reason dropdown list for customer to select from: ( ▪ Unrecognized payment from a stranger , ▪ Unrecognized payment from a known contact , ▪ Wrong Amount ) ",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "For Cross Border (International CliQ transactions) only full amount return is allowed. ",
+      "image": null
+    },
+    {
+      "step": 7,
+      "text": "For Local CliQ transactions, Partial or full return is allowed and the partial for one time only ",
+      "image": null
+    },
+    {
+      "step": 8,
+      "text": "Once the return reason is selected customer can confirm to proceed “Return Payment” or cancel, noting the Return is subject to OTP authentication. ",
+      "image": "step_8.png"
+    },
+    {
+      "step": 9,
+      "text": "Once transaction is returned, it becomes ineligible for further returns and the button disappears",
+      "image": "step_9.png"
+    }
+  ]
+}

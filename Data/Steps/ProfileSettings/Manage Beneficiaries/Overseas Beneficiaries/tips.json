@@ -1,0 +1,10 @@
+{
+  "tips": [
+    "1- Bank name, SWIFT code, bank country will be auto retrieved from account number / IABN.",  
+    "2- Beneficiary name must be two syllables with minimum 3 characters each.",  
+    "3- If destination country is united states of America, routing number will be displayed once country is chosen.",  
+    "4- If destination country is Canada, transit number will be displayed as mandatory field once country is chosen.",  
+    "5- If destination country is Australia, BSB number will be displayed as a mandatory field once country is chosen.",  
+    "6- If destination country is India, IFSC code will be displayed as a mandatory field once country is chosen."
+  ]
+}

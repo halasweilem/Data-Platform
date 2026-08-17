@@ -1,0 +1,36 @@
+{
+  "topic": "Virtual Prepaid Cards",
+  "title": "Steps to create Virtual Prepaid Card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select Prepaid Card from drop down list",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Customer will click on 'Get Started' (In case customer doesn’t have any existing cards of any other type)",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Fill in Card Holder Name & linked mobile number & card currency (JOD / USD)",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Review card details and click 'Confirm'",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Card is created successfully",
+      "image": "step_6.png"
+    }
+  ]
+}

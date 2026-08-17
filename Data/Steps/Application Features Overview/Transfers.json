@@ -1,0 +1,57 @@
+{
+  "section": "Application Features Overview",
+  "type": "Transfers",
+  "services": [
+    {
+      "Type": "Transfers",
+      "service": "Own Account Transfer",
+      "description": [
+        "This feature allows customer to transfer between his/her accounts (current and savings)",
+        "FX transfers allowed.",
+        "OTP not available",
+        "24/7 service available"
+      ]
+    },
+    {
+      "service": "Transfer within bank",
+      "description": [
+        "This feature allows customer to transfer between Capital bank customer’s eligible accounts (current and savings)",
+        "Only beneficiary account number is needed (4xxxxxx)",
+        "FX transfers allowed.",
+        "OTP available when saving a new beneficiary.",
+        "24/7 service available"
+      ]
+    },
+    {
+      "service": "Domestic Transfer",
+      "description": [
+        "This feature allows customer to transfer between Jordan’s local banks.",
+        "Only valid IABN number is needed.",
+        "FX transfers allowed.",
+        "OTP available when saving a new beneficiary.",
+        "Transfers processes during working hours and business days only",
+        "Verify beneficiary’s IBAN"
+      ]
+    },
+    {
+      "service": "Overseas Transfer",
+      "description": [
+        "This feature allows customers to transfer to overseas beneficiaries.",  
+        "Only valid IABN number is needed for IABN countries.",  
+        "Only valid SWIFT code is needed for non IABN countries.",  
+        "FX transfers allowed.",  
+        "OTP available when saving a new beneficiary.", 
+        "Transfers processes during working hours and business days only"
+      ]
+    },
+    {
+      "service": "CliQ Transfers",
+      "description": [
+        "This feature allows customer to transfer via CliQ network between Jordan’s local banks only.",  
+        "FX transactions not allowed.", 
+        "Up to 5 Aliases ( Nickname/ Mobile number) ",  
+        "OTP available when saving a new beneficiary"
+      ]
+    }
+  ]
+}

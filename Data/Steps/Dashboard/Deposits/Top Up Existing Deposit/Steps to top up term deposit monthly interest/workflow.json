@@ -1,0 +1,41 @@
+{
+  "topic": "Top Up Existing Deposit",
+  "title": "Steps to top up term deposit monthly interest",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application,Land on deposits dashboard",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select  “Term Deposit Monthly Interest”type ,Click on details to check deposit details and click on top-up button",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select funding account ",
+      "image": "step_3.png"
+    },
+{
+      "step": 4,
+      "text": "Enter required top-up amount ,Click on update interest rate ,then Click 'Next'",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": " Review top-up details , Confirm the “Terms and Conditions” , Confirm the interest rate for related tier ,Then Click 'Confirm'",
+      "image": "step_5.png"
+    },
+    {
+    "step": 6,
+    "text": "verify Mobile , then Click 'Next'",
+    "image": "step_6.png"
+    },
+    {
+    "step": 7,
+    "text": " Term Deposit topped up successfully",
+    "image": "step_7.png"
+    }
+  ]
+}

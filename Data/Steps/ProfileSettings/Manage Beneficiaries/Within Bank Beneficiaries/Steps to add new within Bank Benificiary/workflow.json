@@ -1,0 +1,38 @@
+{
+  "topic": "Manage Beneficiaries",
+  "title": "Steps to Add New Within Bank Beneficiary",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Tap on 'Within CBoJ Beneficiaries'.",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Tap on the (+) icon at the bottom right corner.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter beneficiary details, then tap 'Next'.",
+      "fields": [
+        "IBAN / Account Number",
+        "Nickname",
+        "Name"
+      ],
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Review the entered details.",
+      "options": [
+        "Go back and edit details",
+        "Add a profile image for the beneficiary"
+      ],
+      "actions": [
+        "Tap 'Confirm' to complete the request"
+      ],
+      "image": "step_4.png"
+    }
+  ]
+}

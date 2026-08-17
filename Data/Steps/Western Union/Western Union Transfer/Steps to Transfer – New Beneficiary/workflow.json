@@ -1,0 +1,70 @@
+{
+    "topic": "Western Union Transfer",
+    "title": "Steps to Transfer - New Beneficiary",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to Mobile Application ",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on Western Union  ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "View WU Fraud message   ,  Click on New Beneficiary   ",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Review Sender Details ",
+            "image": "step_4.png"
+        },
+        {
+            "step": 5,
+            "text": "Select destination Country",
+            "image": "step_5.png"
+        },
+        {
+            "step": 6,
+            "text": "Enter Amount ",
+            "image": "step_6.png"
+        },
+        {
+            "step": 7,
+            "text": "Select delivery method \n a. Money In Minutes \n b. Direct to Bank  \n c. Mobile Money Transfer ",
+            "options": [
+                {
+                "option": "Money In minutes :\n - Beneficiary Mobile country code  \n - Beneficiary Mobile number",
+                "image": null
+                },
+                {
+                "option": "Direct to Bank  :\n  - Bank Name  \n - Account Number \n - District \n - Branch Name  \n - Receiver’s mobile country code \n - Receiver mobile number ",
+                "image": null
+                },
+                {
+                "option": "Mobile Money Transfer : \n - Mobile wallet name  \n - Receiver mobile country code \n - Receiver mobile number  ",
+                "image": null 
+                }
+            ],
+            "image": "step_7.png"
+        },
+        {
+            "step": 8,
+            "text": "Fill in Beneficiary Details (Common Details) \n  a. Beneficiary first name  \n b. Beneficiary last name  \n c. Beneficiary Nationality  \n  d. Select purpose of transfer \n then  Fill in beneficiary details per delivery method  ",
+            "image": null
+        },
+        {
+            "step": 9,
+            "text": " Review Transfer details  ",
+            "image": "step_9.png"
+        },
+        {
+            "step": 10,
+            "text": "Enter OTP  , then Review successful message  ",
+            "image": "step_10.png"
+        }
+    ]
+}

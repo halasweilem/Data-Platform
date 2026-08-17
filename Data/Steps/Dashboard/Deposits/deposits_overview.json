@@ -1,0 +1,37 @@
+{
+  "topic": "Deposits",
+  "description": "Deposits Overview",
+  "features": [
+    {
+      "name": "Create New Deposit",
+      "details": [
+        "Request new deposit and this can be of two types:\n .Regular Term Deposit \n .Term Deposit Monthly Interest (Capital Return) "
+      ]
+    },
+    {
+      "name": "Top-Up Existing Deposit ",
+      "details": [
+        "Add additional funds to an existing deposit"
+      ]
+    },
+    {
+      "name": "Fully Break Existing Deposit (Currently Disabled)",
+      "details": [
+        "Withdraw the entire deposit amount and close deposit account"
+      ]
+    },
+    {
+      "name": "Partially Break Existing Deposit (Currently Disabled) ",
+      "details": [
+        "Withdraw a partial amount of the deposit ",
+        "Note: only available for regular term deposit"
+      ]
+    },
+    {
+      "name": "Manage Deposit ",
+      "details": [
+        "Control settings of deposit including: \n .Accounts\n.Auto Renewal"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps for PIN Reminder",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Scroll between cards using left and right arrows to choose the desired card.",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Tap on 'Card Settings'.",
+      "options": [
+        "Manage Card PIN",
+        "Manage Card Limits"
+      ],
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Tap on 'Manage Card PIN'.",
+      "options": [
+        {
+          "choice": "Unblock PIN",
+          "note": "Old feature"
+        },
+        {
+          "choice": "PIN Reminder",
+          "note": "New feature"
+        }
+      ],
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Enter the OTP for verification and submit.",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "The PIN will be displayed on screen for 30 seconds.",
+      "image": "step_6.png"
+    }
+  ]
+}

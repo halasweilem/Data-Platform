@@ -1,0 +1,26 @@
+{
+  "topic": "Virtual Prepaid Cards",
+  "title": "Steps to manage card limits",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Select the card & click on 'Card Limits' button",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Enable the toggle for e-commerce limits",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Set the needed limit not to exceed the assigned limit by the bank (5000 JOD / 7000 USD)",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on save",
+      "image": "step_4.png"
+    }
+  ]
+}

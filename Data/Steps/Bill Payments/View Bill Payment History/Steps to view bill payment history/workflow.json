@@ -1,0 +1,26 @@
+{
+  "topic": "View Bill payment history",
+  "title": "Steps to View Bill Payment History",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number)",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on view history.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Click on search to search for a particular biller.  ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click search ",
+      "image": "step_4.png"
+    }
+  ]
+}

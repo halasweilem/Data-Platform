@@ -1,0 +1,31 @@
+{
+    "topic": "Cardless withdrawal",
+    "title": "Steps to create Cardless withdrawal request",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to application , Land on accounts dashboard (account landed in the debit account number)",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on cardless withdrawal. ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Enter amount ",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Select debit account , then Click ' Confirm' ",
+            "image": "step_4.png"
+        },
+        {
+            "step": 5,
+            "text": "Withdraw cardless is successful",
+            "image": "step_5.png"
+        }
+    ]
+}

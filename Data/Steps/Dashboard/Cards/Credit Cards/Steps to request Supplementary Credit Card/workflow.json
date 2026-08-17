@@ -1,0 +1,46 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to request Supplementary Credit Card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select Credit Card. Then Click on “Apply Supplementary Card”",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select Card Limit \nSelect relationship to supplementary cardholder “Parents \nSiblings” / “Spouse or Children” \nSelect supplementary cardholder name from dropdown list \nEnter supplementary cardholder mobile number \nClick Next",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Select Card Type",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Accept Terms and Conditions",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Click on Confirm",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Verify Mobile",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Your request is submitted successfully",
+      "image": "step_8.png"
+    }
+  ]
+}

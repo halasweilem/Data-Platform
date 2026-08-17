@@ -1,0 +1,51 @@
+{
+  "topic": "Update Mobile Number",
+  "title": "Steps to Update Mobile Number",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and open profile settings.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Tap on 'Update Mobile Number'.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter National ID or Customer ID.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter debit card number and card PIN.",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Enter the new mobile number.",
+      "fields": [
+        {
+          "name": "Country Code",
+          "type": "dropdown",
+          "default": "Jordan"
+        },
+        {
+          "name": "Mobile Number",
+          "type": "input"
+        }
+      ],
+      "rules": [
+        "Mobile number must be at least 9 digits",
+        "Mobile number must start with 7"
+      ],
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Tap 'Next'. An OTP will be sent to verify the new mobile number.",
+      "image": "step_6.png"
+    }
+  ]
+}

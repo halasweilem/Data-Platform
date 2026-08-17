@@ -1,0 +1,21 @@
+{
+  "topic": "Virtual Prepaid Cards",
+  "title": "Steps to cancel card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Select the card & click on 'Cancel Card' button",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "If card has balance, customer will select credit account to credit balance",
+      "image": ["step_2_a.png", "step_2_b.png"]
+    },
+    {
+      "step": 3,
+      "text": "If card has no balance card will be canceled",
+      "image": "step_3.png"
+    }
+  ]
+}

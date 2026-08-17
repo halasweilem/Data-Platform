@@ -1,0 +1,41 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to view credit card subscriptions",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on ‘My Subscriptions’ in the action board",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "View the subscriptions your card is currently linked to. If no active subscriptions, nothing will appear.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "If you have active subscriptions, it will show. To view a subscription, click on it which will give you the merchants information ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "From the ‘Active’ subscriptions page, you can view each merchant, their information and stop payment for a set amount of time: 3 months, 6 months, 9 months.",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "From the main dashboard, you can view your stopped payments. This page will give you information about when you stopped payment and when the end date is.",
+      "image": ["step_6a.png", "step_6b.png"]
+    },
+    {
+      "step": 7,
+      "text": "You can remove stop payment as well. This will authorize the merchant to collect payment. ",
+      "image": ["step_7a.png", "step_7b.png"]
+    }
+  ]
+}

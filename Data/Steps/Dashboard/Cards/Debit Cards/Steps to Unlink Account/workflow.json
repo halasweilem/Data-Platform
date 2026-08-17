@@ -1,0 +1,41 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to Unlink Account",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select debit card from drop down list",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Click on ‘Card Settings’",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on Unlink Account",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Click on – icon next to the account to be unlinked",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Click on Confirm",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Account unlinked successfully",
+      "image": "step_7.png"
+    }
+  ]
+}

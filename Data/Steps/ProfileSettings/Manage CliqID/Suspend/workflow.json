@@ -1,0 +1,16 @@
+{
+  "topic": "CliqID",
+  "title": " Suspend",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on setting icon at the right top corner.",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on suspend CliQ id → id status will be suspended. ",
+      "image": "step_2.png"
+    }
+  ]
+}

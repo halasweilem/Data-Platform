@@ -1,0 +1,36 @@
+{
+  "topic": "Prepaid Bill ",
+  "title": "Steps to Pay new single Prepaid bill",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number)",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on pay bill (prepaid) – New Biller ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter Biller details.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Bill amount will be automatically retrieved. Click on 'Pay' ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "review the payment and confirm.", 
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Successful message will be displayed. ,  Save bill ",
+      "image": "step_6.png"
+    }
+  ]
+}

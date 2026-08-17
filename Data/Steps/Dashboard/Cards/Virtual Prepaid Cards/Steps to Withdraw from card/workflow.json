@@ -1,0 +1,31 @@
+{
+  "topic": "Virtual Prepaid Cards",
+  "title": "Steps to Withdraw from Virtual Prepaid Card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Select the needed card & click on 'Withdraw' button",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Select credit account (withdraw to)",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter withdraw amount & click 'Next'",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Check the details and click 'Confirm'",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Withdraw successful",
+      "image": "step_5.png"
+    }
+  ]
+}

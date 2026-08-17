@@ -1,0 +1,33 @@
+{
+  "topic": "Trade with capital invest account",
+  "title": "Steps to trade with capital invest account",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Land on Investment dashboard ,  click on 'Trade' button.",
+      "image": "step_2.png"
+    },
+    {
+    "step": 3,
+    "text": "A popup screen will be displayed to redirect customer to Capital Trading Application",
+    "options": [
+        {
+        "option": "Confirm",
+        "result": "Customer will be redirected to trading application",
+        "image": "step_3_a.png"
+        },
+        {
+        "option": "Cancel",
+        "result": "Request will be canceled",
+        "image": null
+        }
+        ],
+    "image":"step_3.png"
+    }
+  ]
+}

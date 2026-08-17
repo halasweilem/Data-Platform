@@ -1,0 +1,36 @@
+{
+  "topic": "Access to Application",
+  "title": "Reactivate User Access",
+  "steps": [
+    {
+      "step": 1,
+      "text": "When user click on Login, access disabled message will be displayed to reactivate credentials ",
+      "image": "step_1.png" 
+    },
+    {
+      "step": 2,
+      "text": "Once click on activate, user will enter National ID / Customer ID",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter Debit Card number and card PIN",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter OTP",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Access will be reactivated",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Customer will click on Continue to proceed with Login",
+      "image": "step_6.png"
+    }
+  ]
+}

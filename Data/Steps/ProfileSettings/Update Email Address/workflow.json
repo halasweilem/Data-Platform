@@ -1,0 +1,31 @@
+{
+  "topic": "Update Email Address",
+  "title": "Steps to Update Email Address",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application then click on profile settings.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on Update Email Address",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter the new email address",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "OTP will be sent to new email address “Sender: Capital Bank Notification” ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Enter OTP and click on submit",
+      "image": "step_5.png"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "topic": "Access to Application",
+  "title": "Login",
+  "steps": [
+    {
+      "step": "1_a",
+      "text": "Click on Login, If customer enabled biometrics, fingerprint or face id screen will be displayed.  ",
+      "image": "step_1_a.png" 
+    },
+    {
+      "step": "1_b",
+      "text": "If customer passed bio-metrics enablement, personal pin screen will be displayed.",
+      "image": "step_1_b.png"
+    }
+  ]
+}

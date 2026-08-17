@@ -1,0 +1,26 @@
+{
+  "topic": "Postpaid Bill ",
+  "title": "Steps to Pay new single Postpaid bill payment",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number)",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on pay bill (postpaid) , Select bill from saved list",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Due payment amount will be auto retrieved. , If biller allows to pay partial amount, enter amount between minimum and maximum  and click on 'Pay' to review payment.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click confirm to submit payment.",
+      "image": "step_4.png"
+    }
+  ]
+}

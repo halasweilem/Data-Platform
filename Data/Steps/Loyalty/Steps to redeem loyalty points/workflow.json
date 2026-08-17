@@ -1,0 +1,36 @@
+{
+    "topic": "Loyalty",
+    "title": "Steps to redeem loyalty points",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to application , Land on accounts dashboard ",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on Capital Rewards , and Click on Redeem Points ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Select the needed credit account / card  ,  Enter number of points to transfer , then  Click Next",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Check the details and confirm ",
+            "image": "step_4.png"
+        },
+        {
+            "step": 5,
+            "text": "Redeemed Points are reflected on history", 
+            "image": "step_5.png"  
+        },
+        {
+            "step": 6,
+            "text": "equivalent cashback is credited to the selected account / card ",
+            "image": "step_6.png" 
+        }
+    ]
+}   

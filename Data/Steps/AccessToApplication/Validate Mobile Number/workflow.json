@@ -1,0 +1,21 @@
+{
+  "topic": "Access to Application",
+  "title": "Login",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Once customer click on login, a message to validate mobile number will be displayed",
+      "image": "step_1.png" 
+    },
+    {
+      "step": 2,
+      "text": "Enter OTP",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Mobile number will be validated",
+      "image": "step_3.png"
+    }
+  ]
+}

@@ -1,0 +1,76 @@
+{
+  "section": "Application Features Overview",
+  "type": "Access to Mobile Application",
+  "services": [
+    {
+      "service": "Accounts",
+      "description": [
+        "This feature allows customers to view all their account types (current / saving) in all allowed currencies.", 
+        "Accounts summary and details",  
+        "Accounts transactions history.",  
+        "Share account details",  
+        "Share account details with social security",  
+        "Edit account nickname",  
+        "Open additional account"
+      ]
+    },
+    {
+      "service": "Cards",
+      "description": [
+        "This feature allows customer to view all their credit / Debit / Virtual Prepaid card (primary / supplementary) in all allowed currencies.",  
+        "Cards summary and details",  
+        "Cards weekly spendings",  
+        "Cards payments",  
+        "Cards Top-up / Withdraw",  
+        "Cards transactions",  
+        "Edit Cards limits (ATM, POS, Contactless)",  
+        "Link / Unlink accounts on debit card",  
+        "Issue supplementary credit card",  
+        "Debit and credit card replacement"  
+      ]
+    },
+    {
+      "service": "Loans",
+      "description": [
+        "This feature allows customer to view all their loan types (personal / cars / housing loans)",  
+        "Loans summary and details",  
+        "Loans schedule",  
+        "Loan tenor details"   
+      ]
+    },
+    {
+      "service": "Deposits",
+      "description": [
+        "This feature allows customers to view all their deposits.",  
+        "Create online deposit",  
+        "Top-up deposit",  
+        "Manage deposit"
+      ]
+    },
+    {
+      "service": "Overdraft",
+      "description": [
+        "This feature allows customers to view all their overdraft accounts.",  
+        "Accounts summary and details",  
+        "Accounts transactions history.",  
+        "Share account details"  
+      ]
+    },
+    {
+      "service": "Capital Investment Integration",
+      "description": [
+        "Link Capital Investment account with Capital Bank accounts to be displayed in Mobile Application",  
+        "Fund Capital Invest accounts from Capital Bank accounts directly from mobile application.",  
+        "Withdraw funds from Capital Invest accounts to Capital Bank accounts based on approve / reject bases from Capital Invest operations team",
+        "Trading with Capital Investment directly from Mobile application for Regional and International Markets",
+        "View Portfolio with Capital Invest for the last three months for eligible markets"
+      ]
+    },
+    {
+      "service": "Capital Investment Web Direction",
+      "description": [
+        "Capital Investments Onboarding (CI) – Web redirection: Once the customer logs in to CBOJ mobile app, from Investments tab, he can select to open a CI account and will be redirected to CI website to instantly start the onboarding process."
+      ]
+    }
+  ]
+}

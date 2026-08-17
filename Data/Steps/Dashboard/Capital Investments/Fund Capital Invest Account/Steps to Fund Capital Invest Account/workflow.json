@@ -1,0 +1,41 @@
+{
+  "topic": "Fund capital invest account",
+  "title": "Steps to fund capital invest account",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Land on Investment dashboard , Scroll to desired account to be funded and click on 'fund' button.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select Capital Bank debit account",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text":"Enter amount and click on Next",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Review and confirm detail",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "OTP will be received on mobile number with Capital Invest ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Successful message will be displayed ",
+      "image": "step_7.png"
+    }
+  ]
+}

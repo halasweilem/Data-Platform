@@ -1,0 +1,31 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to unblock card pin",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select debit card from drop down list",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Click on ‘Activate Card’ toggle ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click ‘Proceed’ to proceed with activating the card.",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Card will be active, and toggle becomes blue. The status will also be changed to Active in green.",
+      "image": "step_5.png"
+    }
+  ]
+}

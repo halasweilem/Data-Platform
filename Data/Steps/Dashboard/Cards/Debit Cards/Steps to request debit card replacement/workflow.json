@@ -1,0 +1,61 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to request debit card replacement",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select debit card from drop down list",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Click on ‘Card Replacement’",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Select reason from the available options & Click Next",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Check the details and click Confirm",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Select account to pay fee ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Verify mobile and Click Next",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Your request is received successfully, Click on Set Pin",
+      "image": "step_8.png"
+    },
+    {
+      "step": 9,
+      "text": "Your request is received successfully, Click on Set Pin",
+      "image": "step_9.png"
+    },
+    {
+      "step": 10,
+      "text": "Your request is received successfully, Click on Set Pin",
+      "image": "step_10.png"
+    },
+    {
+      "step": 11,
+      "text": "Your request is received successfully, Click on Set Pin",
+      "image": "step_11.png"
+    }
+  ]
+}

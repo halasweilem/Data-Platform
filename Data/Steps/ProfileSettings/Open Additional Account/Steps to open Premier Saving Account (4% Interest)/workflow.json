@@ -1,0 +1,51 @@
+{
+  "topic": "Open Additional Account",
+  "title": "Steps to Open Premier Saving Account (4% Interest)",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application.",
+      "image": null 
+    },
+    {
+      "step": 2,
+      "text": "Then click on “Open Additional Account”",
+      "image": "step_2.png"
+    },
+    {
+      "step": 2,
+      "text": "Then click on “Open Additional Account”",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select “Saving” Account Type",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Select “Premier Savings Account” product type from dropdown list",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Select account currency",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Enter account nickname & Select the purpose of account opening from dropdown ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Preview Request Details , Approve the terms and conditions noting that the minimum average balance to earn interest is 10,000 JOD or equivalent, clicking on submit",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Account is opened successfully",
+      "image": "step_8.png"
+    }
+  ]
+}

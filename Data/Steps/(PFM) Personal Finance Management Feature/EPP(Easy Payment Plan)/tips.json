@@ -1,0 +1,13 @@
+{
+  "tips": [
+    "Through EPP feature, customers will be able to install JOD credit card transactions wither Online or POS transactions.",
+    "1- Customers will be able to install eligible transactions and view installment history online from Mobile Application.",
+    "2- Eligible transactions will only be displayed ( Online and POS). ",
+    "3- JOD credit card transactions can be installed online via Mobile Application. ",
+    "4- Installments tenor are 3,6,9,12,24,36 months with their relevant interest rates.",
+    "5- Eligible transactions will be displayed before cycle date of each month (24th).",
+    "6- Installed transactions cannot be fully paid at once through mobile application, customer needs to refer to call center agents.",
+    "7- Installment request successfully sent cannot be canceled / deleted through mobile application, customer needs to refer to call center agents.  "
+
+  ]
+}

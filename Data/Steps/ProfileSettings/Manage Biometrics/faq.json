@@ -1,0 +1,6 @@
+[
+  {
+    "question": " can i use application with only username and password?",
+    "answer": " unfortunately, no, for authentication purposes either biometrics (face id / fingerprint) or personal pin needs to use. "
+  }
+]

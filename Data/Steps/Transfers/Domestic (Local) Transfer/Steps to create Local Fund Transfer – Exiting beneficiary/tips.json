@@ -1,0 +1,11 @@
+{
+  "tips": [
+    "1- Account selected from dashboard is the debit account number ",
+    "2- Debit account number can be changed from preview / confirm screen ",
+    "3- FX displayed in retrieved from bank’s list ",
+    "4- If cross currency transfer applied, actual amount and equivalent amounts will be displayed in preview / confirm screen.  ",
+    "5- SHA charges selected when charges transfer needs to be shared between issuer and beneficiary. ",
+    "6- Our charges selected when transfer charges need to be issuer only. ",
+    "7- Currencies allowed 13 currencies "
+  ]
+}

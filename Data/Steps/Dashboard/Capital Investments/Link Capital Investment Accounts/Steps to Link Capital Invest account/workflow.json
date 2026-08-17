@@ -1,0 +1,36 @@
+{
+  "topic": "link capital investment account",
+  "title": "Steps to link capital invest account",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Land on dashboard and click on Investment tab and click on Let’s Get Started",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter Capital Invest account number and click on Proceed.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text":"An OTP will be sent to mobile number registered at Capital Invest not Capital Bank ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Once OTP is verified, click on submit and successful message will be displayed ",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "You can view Capital Investment accounts dashboard ",
+      "image": "step_6.png"
+    }
+  ]
+}

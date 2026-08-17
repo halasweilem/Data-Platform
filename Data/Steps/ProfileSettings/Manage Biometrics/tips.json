@@ -1,0 +1,6 @@
+{
+  "tips": [
+    "1- If customer disabled biometrics and once logged in again to application, personal pin must be entered for authentication.", 
+    "2- If customer enabled biometrics and once logged in again to application, fingerprint / face id screen must be entered for authentication."
+  ]
+}

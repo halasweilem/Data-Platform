@@ -1,0 +1,16 @@
+{
+  "topic": "Local Beneficiaries",
+  "title": "Steps to Manage Existing Local Beneficiaries",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on beneficiary name.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Customer can:\na. Edit nickname and click save.\nb. Delete this beneficiary.",
+      "image": "step_2.png"
+    }
+  ]
+}

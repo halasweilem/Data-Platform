@@ -1,0 +1,31 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps for Card-on-File for viewing Subscriptions",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Scroll between card using left and right arrows to choose card & Click on \"My Subscriptions\" ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "View a list of the selected credit card's subscriptions per \ncard \nFor each subscription, the app shows the following details: \n• Merchant name \n• Transaction date/time \n• Last transaction amount \n• Last transaction currency \n• Merchant address \n• The general subscription logo\"My Subscriptions\" ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "If the customer wants to manage their subscriptions, a note \nis displayed, instructing them to visit the merchant's \nwebsite for actions like card updates or removal.\"My Subscriptions\" ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "The customer can then choose to proceed with managing \ntheir subscriptions externally on the merchant's website by \nfollowing the provided instructions.",
+      "image": null
+    }
+  ]
+}

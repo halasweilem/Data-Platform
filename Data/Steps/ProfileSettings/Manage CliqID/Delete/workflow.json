@@ -1,0 +1,26 @@
+{
+  "topic": "CliqID",
+  "title": " Edit",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on setting icon at the right top corner.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on delete CliQ id ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Click on confirmation button in confirmation screen  ",
+      "image": "step_3.png"
+    },
+    {
+    "step": 4,
+    "text": "CliQ id will be deleted and no longer available in the list. ",
+    "image": null
+    }
+  ]
+}

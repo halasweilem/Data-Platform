@@ -1,0 +1,173 @@
+{
+  "topic": "update_customer_information",
+  "title": "Update Customer Information",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on “Profile” ",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on “Customer Information” ",
+      "image": "step_2.png"
+    },
+    {
+      "Note": 1,
+      "text": "NOTE: User can receive an update information request upon login ",
+      "image": "Note_1_a.png , Note_1_b.png"
+    },
+    {
+      "step": 3,
+      "text": "View Account Information which includes the following: \\na. Name \\nb. Branch \\nc. Account opening date \\nd. Last update date",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on FATCA Information to update the following: \\na. I am a US Citizen \\nb. I am a green cardholder \\nc. I have a POA issued to someone with a US address \n- Power of attorney is a legal document that allows someone else to act on their behalf. \\nd. I have a US address or mobile number ",
+      "image": "step_4.png"
+    },
+    {
+      "Note": 2,
+      "text": "NOTE: if any question from FATCA section is answered yes and no W9 previously signed, user is referred to branch after clicking Submit ",
+      "image": "Note_2.png"
+    },
+     {
+      "step": 5,
+      "text": "Click on Personal Information to update the following",
+      "image": "step_5.png",
+        "substeps": [
+            {
+            "step": "5.a",
+            "text": "I have an additional nationality.",
+            "image": "step_5_a.png"
+            },
+            {
+            "step": "5.b",
+            "text": "I am or any of my first-degree family members are a Politically Exposed Person (PEP) \\n- If yes, then it is mandatory for the user to enter his or family member information including: \\n Relationship with PEPs \\n Name of PEP \\n Role of PEP .",
+            "image": "step_5_b.png"
+            },
+            {
+            "step": "5.c",
+            "text": "I have a disability\\n- User is required to specify disability type ",
+            "image": "step_5_c.png"
+            },
+            {
+            "step": "5.d",
+            "text": "I am not the beneficial account owner \\n- User cannot proceed with the update and will be redirected to refer to branch message after clicking Submit ",
+            "image": "step_5_d.png"
+            },
+            {
+            "step": "5.e",
+            "text": "I have a POA? \\n- User cannot proceed with the update and will be redirected to refer to branch message after clicking Submit",
+            "image": "step_5_e.png"
+            }   
+        ]
+    },
+    {
+      "step": 6,
+      "text": "Click on Residential and Contact Information to update the following: \\na. Country \\nb. City \\nc. District (Area) \\nd. Street Name \\ne. Building Number \\nf. Building Name (optional) \\ng. P.O Box (Optional) \\nh. Mobile Number  \n- Noneditable, can be updated by clicking on the “update mobile number” from profile \\ni. Email \n- Noneditable, can be updated by clicking on the “Update Email” from profile ",
+      "image": "step_6.png"
+    },
+    {
+      "Note": 3,
+      "text": "NOTE: if the user selects another residential country other than Jordan, then they will be required to enter the following fields: \\n- Home country fields and it needs to be Jordan \\n- The user must fill the following as well: \n Home City \n Home District  \n Home building name/floor/unit \n Home street name \n Home P.O Box (Optional) \n Home postal code (Optional) ",
+      "image": "Note_3.png"
+    },
+    {
+      "step": 7,
+      "text": "Click on Employment Information to update the following: \\na. Employment Status \n- If Full-time Employee then user specifies: \n Occupation \n Employer Name \n Annual Income \n Employer Country  \n Employer City \n- If Business Owner then user specifies: \n Business Type \n Business annual income \n Business name \n Business country \n Business city \n- If Freelance then user specifies: \n Business type \n Business annual income \n- If Unemployed then user specifies: \n Select source of income \n Total annual income \n- If Retired then user specifies  \n Total annual income \\nb. Do you have any additional source of income? \n- If yes, user is requested to specify additional income source ",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Tick the checkbox to confirm information  ",
+      "image": null
+    },
+    {
+      "step": 9,
+      "text": "Click on “Submit” to continue ",
+      "image": null
+    },
+    {
+      "Note": 4,
+      "text": "NOTE: if user is ineligible for online KYC, then they are requested to visit the branch",
+      "image": "Note_4.png"
+    },
+    {
+      "step": 10,
+      "text": "Prepare to scan National ID  ",
+      "image": null
+    },
+    {
+      "step": 11,
+      "text": "Click on “Next”   ",
+      "image": "step_11.png"
+    },
+    {
+      "step": 12,
+      "text": "Scan the front of the ID by fitting it within the frame   ",
+      "image": "step_12.png"
+    },
+    {
+      "step": 13,
+      "text": "Scan the back of the ID by fitting it within the frame  ",
+      "image": "step_13.png"
+    },
+    {
+      "step": 14,
+      "text": "Check scanned ID Information ",
+      "image": "step_14.png"  
+    },
+    {
+      "step": 15,
+      "text": "Click on “Confirm” ",
+      "image": null
+    },
+    {
+      "step": 16,
+      "text": "Upload supporting documents if requested including: \\na. Proof of Passport \\nb. Proof of Income \\nc. Proof of Address \\nd. Proof of Residency",
+      "image": "step_16.png"
+    },
+    {
+      "step": 17,
+      "text": "Click “Upload Document” to upload from files ",
+      "image": null
+    },
+    {
+      "step": 18,
+      "text": "Click “Take Photo” to open camera ",
+      "image": "step_18.png"
+    },
+    {
+      "step": 19,
+      "text": " Click “Next” to proceed  ",
+      "image": null
+    },
+    {
+      "step": 20,
+      "text": " Verify information update through OTP ",
+      "image": "step_20.png"
+    },
+    {
+      "step": 21,
+      "text": " Information is updated successfully and reflected on core   ",
+      "image": null
+    },
+    {
+      "Note": 5,
+      "text": " NOTE: Some requests will be sent to branch support and/or compliance for review for rejection or approval",
+      "image": "Note_5_a.png , Note_5_b.png"
+    },
+    {
+      "Note": 6,
+      "text": "NOTE: In case of rejection, the user will receive the rejection message upon login and can make another update request",
+      "image": "Note_6.png"
+    },
+    {
+      "Note": 7,
+      "text": "NOTE: in case of approval, the user’s information will be reflected on core and is informed that his information has been successfully updated  ",
+      "image": "Note_7.png"
+    }
+  ]
+}

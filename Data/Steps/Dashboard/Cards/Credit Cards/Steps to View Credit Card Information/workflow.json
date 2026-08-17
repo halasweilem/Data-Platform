@@ -1,0 +1,21 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to View Credit Card Information",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Scroll between card using left and right arrows to choose card Click on \"Credit Card Info” from the actions bar",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "View credit card information including: \n• Card Status \n• Card Limit \n• Available Balance \n• Payment Due Date \n• Payment Date Due Amount \n• EPP Total Amount \n• EPP Total Installment \n• Settlement Percentage \n• Card Type \n• Issuance Date \n• Minimum Payment and days countdown till next \npayment \n6. Use can click on “Settle Card Now” to settle the card amount",
+      "image": "step_3.png"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "topic": "Open Banking Consent",
+  "title": "Open Banking Consent",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click local bank beneficiaries",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on (+) at the bottom right corner",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select domestic",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter beneficiary details –> next  /n a. Enter IABN/ account number  /n b. Enter beneficiary name. /n c. Enter beneficiary nickname.  /n d. Enter beneficiary address",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "In review screen, all details entered will be reviewed with the possibility of: /n a. Go back and edit details.   /n b. Add profile image for beneficiary.  /n c. Confirm.",
+      "image": "step_5.png"
+    }
+  ]
+}

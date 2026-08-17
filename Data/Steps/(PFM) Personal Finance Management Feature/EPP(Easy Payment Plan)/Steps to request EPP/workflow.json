@@ -1,0 +1,31 @@
+{
+    "topic": "EPP (Easy Payment Plan )",
+    "title": "Steps to request EPP",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to mobile application , Click on Cards dashboard ",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on Easy Payment Installment , Click on Request Installments to view eligible transactions for installments ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Click on arrow under each transaction amount ",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Select installment tenor ",
+            "image": "step_4.png"
+        },
+        {
+            "step": 5,
+            "text": "View installment request and click confirm",
+            "image": "step_5.png" 
+        }
+    ]
+}

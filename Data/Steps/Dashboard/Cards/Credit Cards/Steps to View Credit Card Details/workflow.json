@@ -1,0 +1,31 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to Vew Credit Card Details",
+  "steps": [
+    {
+      "Note": 1,
+      "text": "This service allows customers to view their debit and credit card details (PAN, expiry date, CVV2) that is shown for specific period (1 Min) and customers can close screen within period.",
+      "image": null
+    },
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on ‘Card Details’ from Action Bar.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter OTP",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Now you can view your credit card details.",
+      "image": "step_4.png"
+    }
+  ]
+}

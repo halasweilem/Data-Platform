@@ -1,0 +1,11 @@
+{
+  "tips": [
+    "1- OTP validation: \n a. If this is a new beneficiary, OTP will be sent to mobile number registered on core for validation. \n b. If existing beneficiary is selected, payment will be processed without OTP",
+    "2- Account selected from dashboard is the debit account number. ",
+    "3- FX displayed in retrieved from bank’s list.  ",
+    "4- If cross currency transfer applied, actual amount and equivalent amounts will be displayed in preview / confirm screen. ",
+    "5- SHA charges selected when charges transfer needs to be shared between issuer and beneficiary. ",
+    "6- Our charges selected when transfer charges need to be issuer only. ",
+    "7- Currencies allowed 13 currencies "
+  ]
+}

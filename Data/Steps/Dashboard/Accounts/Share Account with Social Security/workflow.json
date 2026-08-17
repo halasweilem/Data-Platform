@@ -1,0 +1,31 @@
+{
+  "topic": "Accounts",
+  "title": "Share Account with Social Security",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the application.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Land on the dashboard, select the desired account, open account details, and scroll to the bottom of the screen.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Tap on 'Share my IBAN to Social Security Corporation'.",
+      "outcomes": [
+        {
+          "condition": "First-time share",
+          "result": "A success message will be displayed confirming the account has been shared."
+        },
+        {
+          "condition": "Already shared",
+          "result": "A message will be displayed indicating that the account has already been shared with the Social Security Corporation."
+        }
+      ],
+      "image": "step_3.png"
+    }
+  ]
+}

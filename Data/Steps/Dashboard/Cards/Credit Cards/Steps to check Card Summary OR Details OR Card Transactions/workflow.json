@@ -1,0 +1,40 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to check Card Summary OR Details OR Card Transactions",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Land on cards dashboard page. Scroll between card using left and right arrows to display cards available balance.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Cards details tab is selected by default where customer can view the following:",
+      "details_displayed": [
+        "Name on card",
+        "Card number",
+        "Expiry date",
+        "Last payment",
+        "Amount due",
+        "Available balance",
+        "Issuance date",
+        "Card type and currency",
+        "Payment due date",
+        "Used balance",
+        "Settlement percentage",
+        "Card limit"
+      ],
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on Transactions",
+      "image": "step_4.png"
+    }
+  ]
+}

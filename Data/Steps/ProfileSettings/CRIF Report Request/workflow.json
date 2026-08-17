@@ -1,0 +1,51 @@
+{
+  "topic": "CRIF Report Request",
+  "title": "Steps to Request CRIF Report",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on CRIF Report",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Click on Get Started",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Accept Terms and Conditions",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Select Debit account for CRIF charges",
+      "image": null
+    },
+    {
+      "step": 6,
+      "text": "Select report language",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Click Next and review entered details",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Click Confirm and Download Report",
+      "image": "step_8.png"
+    },
+    {
+      "step": 9,
+      "text": "SMS with password will be sent to registered mobile number, click on download report and enter report password ",
+      "image": null
+    }
+  ]
+}

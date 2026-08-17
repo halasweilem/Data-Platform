@@ -1,0 +1,21 @@
+{
+    "topic": "Accounts",
+    "title": "Steps to change account nick name",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to application",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Land on accounts dashboard page. Scroll between card using left and right arrows to choose account",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "From details screen, tab on space next to account nick name. Now enter the needed name.",
+            "image": "step_3.png"
+        }
+    ]
+}

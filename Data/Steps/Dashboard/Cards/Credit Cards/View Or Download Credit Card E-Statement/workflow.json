@@ -1,0 +1,36 @@
+{
+  "topic": "Credit Cards",
+  "title": "View or Download Credit Card E-Statement",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select the desired credit card and tap on 'E-Statement'.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select the year and month, then tap 'Generate'.",
+      "fields": [
+        {
+          "name": "Year",
+          "type": "selection"
+        },
+        {
+          "name": "Month",
+          "type": "selection"
+        }
+      ],
+      "actions": [
+        "Tap 'Generate' to create the e-statement",
+        "View the generated PDF",
+        "Share or download the PDF"
+      ],
+      "image": "step_3.png"
+    }
+  ]
+}

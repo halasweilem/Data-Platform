@@ -1,0 +1,41 @@
+{
+  "topic": "My Transfer",
+  "title": "Steps to view transactions from My Transfer",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application then click on profile settings.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on My Transfers",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Click on Capital bank to view transfers within bank history",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on Overseas to view Overseas transfers details",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Click on Domestic to view: Domestic transfers & CliQ transfers",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Click on Transfer from Domestic / Overseas",
+      "image": null
+    },
+    {
+      "step": 7,
+      "text": "Click on View Swift Image",
+      "image": "step_7.png"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to View Settled or Unsettled Transactions on Credit Card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Scroll between cards using left and right arrows to choose the desired card.",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Tap on \"View More\" at the bottom of the screen.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Switch between the displayed \"Settled\" and \"Unsettled\" transactions.",
+      "image": "step_4.png"
+    }
+  ]
+}

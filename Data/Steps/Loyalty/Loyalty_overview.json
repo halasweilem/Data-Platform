@@ -1,0 +1,15 @@
+{
+  "topic": "Loyalty ",
+  "description": "This feature allows customer to manage and view loyalty points gained from financial / non-financial transaction processed by the bank",
+  "features": [
+    {
+      "name": "Loyalty ",
+      "details": [
+        "• Number of points collected",
+        "• Total Cashback redeemed in JOD",
+        "• View points history ",
+        "• Loyalty Steps "
+      ]
+    }
+  ]
+}

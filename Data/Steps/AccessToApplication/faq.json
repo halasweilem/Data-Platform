@@ -1,0 +1,34 @@
+[
+    {
+        "question": "I forgot my password?",
+        "answer": "Forget password flow can be used from login screen by entering debit card number and pin code"
+    },
+    {
+        "question": "I have changed my device, do i need to register to application",
+        "answer": "No, once you download application from store and same credentials are entered, application will send you a new OTP to verify your identity and ask for new biometrics to be enabled."
+    },
+    {
+        "question": "I forgot my username?",
+        "answer": "Call center agent can retrieve it from bank employee portal and give it to customer after asking security questions."
+    },
+    {
+        "question": "Can i keep same password in Capital mobile application?",
+        "answer": "Yes, same password can be used"
+    },
+    {
+        "question": "Do i need to enter my username / password every time i login?",
+        "answer": "No, it’s just one time to complete the migration flow as the biometrics/ personal pin flow will be used."
+    },
+    {
+        "question": "What happens after three unsuccessful login attempts?",
+        "answer": "After three unsuccessful login attempts, user’s credentials will be blocked for 10 min which will unblocked automatically afterwards."
+    },
+    {
+        "question": "What happens if a bank employee blocks username access?",
+        "answer": "If Bank’s employee blocked username access for any internal procedurals measure, only bank employee can unblock this user and not automatically by application counter."
+    },
+    {
+        "question": "How can I reset my password?",
+        "answer": "Reset password can be done directly from application by using change password / forget password features"
+    }
+]

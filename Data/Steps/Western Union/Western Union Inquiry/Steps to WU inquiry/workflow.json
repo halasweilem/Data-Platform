@@ -1,0 +1,54 @@
+{
+    "topic": "Western Union Inquiry",
+    "title": "Steps to WU inquiry",
+    "steps": [
+        {
+            "step": 1,
+            "text": " Login to Mobile Application ",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": " Click on Western Union   ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": " Click on Inquiry  ",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Click on Transaction to view Status  ",
+            "options": [
+                {
+                "option": "Available Status: Transaction is actionable:",
+                "options": [
+                    {
+                    "option": "Edit Beneficiary name",
+                    "image": "step_4_1_a"
+                    },
+                    {
+                    "option": "Refund / Cancel",
+                    "image": "step_4_1_b"
+                    }
+                ],
+                "image": "step_4_1.png"
+                },
+                {
+                "option": " In progress Status : Transfer is under processing by Western Union ",
+                "image": "step_4_2"
+                },
+                {
+                "option": " Hold Status: Transfer is on Hold with Western Union for investigation ",
+                "image": "step_4_3"
+                },
+                {
+                "option": "Refunded Status: Transfer is refunded to customer’s account  ",
+                "image": "step_4_4"
+                }
+            ],
+            "image": null
+        }
+    ]
+}

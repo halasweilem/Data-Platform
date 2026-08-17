@@ -1,0 +1,41 @@
+{
+  "topic": "Send / View secure messages",
+  "title": "Steps to send / view secure messages",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on Message icon",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "For sending / viewing messages click on Inbox & For viewing notifications click on notifications ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on “+” sign to send new message",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Select “I need to” ",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Select “ About” ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Write message and click send",
+      "image": "step_7.png"
+    }
+  ]
+}

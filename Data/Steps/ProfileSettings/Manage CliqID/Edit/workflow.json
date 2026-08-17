@@ -1,0 +1,26 @@
+{
+  "topic": "CliqID",
+  "title": " Edit",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on setting icon at the right top corner.",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on edit CliQ id and edit to the desired CliQ id / mobile number.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "An OTP will be received to registered mobile number on core.",
+      "image": null
+    },
+    {
+    "step": 4,
+    "text": "Once OTP verified, CliQ alias / mobile number will be changed.",
+    "image": "step_4.png"
+    }
+  ]
+}

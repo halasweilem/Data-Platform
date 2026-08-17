@@ -1,0 +1,46 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to Link Account",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select debit card from drop down list",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Click on ‘Card Settings’",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click on Link Account",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Click on + icon",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Select the needed accounts up to 5 accounts & Click Next",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Click on Confirm",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Accounts are linked successfully",
+      "image": "step_8.png"
+    }
+  ]
+}

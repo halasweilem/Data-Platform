@@ -1,0 +1,173 @@
+{
+  "topic": "Digital Onboarding",
+  "description": "Application Restrictions, Limits, and Eligibility - APPENDIX 1",
+  "features": [
+    {
+      "name": "Eligibility Criteria",
+      "details": [
+        "Eligible segments: Regular, Upper Regular, Select, Private"
+      ]
+    },
+    {
+      "name": "Login limitation - Username policy",
+      "details": [
+        "Username can be: Numbers only, Alphabets only, Alphanumeric, a combo of alphanumeric and special characters",
+        "Minimum of 7 characters and maximum of 20 characters",
+        "No spaces allowed",
+        "Username must be unique",
+        "English characters only"
+      ]
+    },
+    {
+      "name": "Login limitation - Password policy",
+      "details": [
+        "Must not match the username",
+        "Must be case sensitive",
+        "Must be eight characters minimum length ",
+        "Must contain at least one number, one special character, one capital letter, and one small letter , Allowed special characters:  ~ ! @ # $ % ^ & *_ - + = ` | ( ) { } [ ] : ; \" ' < > , . ? / \\",
+        "Must not contain a space",
+        "Cannot be any of the previous six passwords",
+        "Cannot contain Arabic characters"
+      ]
+    },
+    {
+      "name": "Application limits - Transfer ",
+      "details": [
+        "Maximum transaction limit for Regular customer: JOD 25,000 or equivalent",
+        "Maximum transaction limit for Select customer: JOD 50,000 or equivalent"
+      ]
+    },
+    {
+      "name": "Features limits - Cardless Withdrawal",
+      "details": [
+        "Minimum amount: JOD 10",
+        "Maximum amount: JOD 1,000"
+      ]
+    },
+    {
+      "name": "Features limits - Loyalty",
+      "details": [
+        "No minimum Current_Fees_Branch s"
+      ]
+    },
+    {
+      "name": "Features limits - CliQ Payments",
+      "details": [
+        { "To": "IBAN", "Purpose_of_Payment ": "All", "limit_jod": 10000 },
+        { "To": "Alias", "Purpose_of_Payment ": "Transfer to Friend or Family at a bank", "limit_jod": 10000 },
+        { "To": "Alias", "Purpose_of_Payment ": "Transfer to Own Account at a bank", "limit_jod": 10000 },
+        { "To": "Alias", "Purpose_of_Payment ": "Goods/Services payment from an individual account to an individual account via online/mobile banking ", "limit_jod": 2000 },
+        { "To": "Alias", "Purpose_of_Payment ": "Transfer to Own Account via online/mobile banking for loan installment at another bank", "limit_jod": 10000 },
+        { "To": "Alias", "Purpose_of_Payment ": "Transfer for Aid or Charity or Grant from an individual account to an individual account via online/mobile banking", "limit_jod": 10000 },
+        { "To": "Personal Wallet", "Purpose_of_Payment ": "Transfer to Friend or Family from individual to a personal wallet ", "limit_jod": 2000 },
+        { "To": "Personal Wallet", "Purpose_of_Payment ": "Transfer from my personal account at the bank to my Personal wallet", "limit_jod": 2000 },
+        { "To": "Personal Wallet", "Purpose_of_Payment ": "Goods/Services payment to a personal wallet via online/mobile banking", "limit_jod": 10000 },
+        { "To": "Personal Wallet", "Purpose_of_Payment ": "Transfer for Aid or Charity or Grant to a personal wallet via online/mobile banking", "limit_jod": 2000 },
+        { "To": "Personal Wallet", "Purpose_of_Payment ": "Transfer for Aid or Charity or Grant to a business wallet via online/mobile banking", "limit_jod": 10000 },
+        { "To": "Merchant Wallet", "Purpose_of_Payment ": "Transfer from my personal account at the bank to my merchant wallet ", "limit_jod": 5000 },
+        { "To": "Merchant Wallet", "Purpose_of_Payment ": "Goods/Services payment to a merchant wallet via online/mobile banking", "limit_jod": 5000 },
+        { "To": "Merchant Wallet", "Purpose_of_Payment ": "QR purchase from an individual account to a merchant acquired by a bank or an mPSP or an acquirer", "limit_jod": 5000 },
+        { "To": "Business Wallet", "Purpose_of_Payment ": "Transfer from my personal account at the bank to my business wallet", "limit_jod": 10000 },
+        { "To": "Business Wallet", "Purpose_of_Payment ": "Goods/Services payment from an individual account to a BWALLET (P2B) via online/mobile banking ", "limit_jod": 10000 },
+        { "To": "Business Wallet", "Purpose_of_Payment ": "Loan installment payment from an individual to a BWALLET (lending entity) via online/mobile banking (P2B) ", "limit_jod": 10000 },
+        { "To": "Company", "Purpose_of_Payment ": "Transfer from my personal account at the bank to my business account", "limit_jod": 10000 },
+        { "To": "Company", "Purpose_of_Payment ": "Goods/Services purchases from an individual account to a legal account via online/mobile ", "limit_jod": 10000 },
+        { "To": "Company", "Purpose_of_Payment ": "QR purchase from an individual account to a merchant acquired by a bank or an mPSP or an acquirer ", "limit_jod": 10000 },
+        { "To": "Company", "Purpose_of_Payment ": "Loan installment payment from an individual to business entity (lending entity) (P2B) ", "limit_jod": 10000 },
+        { "To": "Company", "Purpose_of_Payment ": "Transfer for Aid or Charity or Grant from an individual account to an individual account via online/mobile banking", "limit_jod": 10000 }
+      ]
+    },
+    {
+      "name": "Features limits - Capital Investment",
+      "details": [
+        "Allowed currencies for funds: JOD, USD, GBP, CHF, IQD, CAD, SAR, AED, AUD, EUR, BHD, KWD, QAR, OMR, EGP",
+        "Allowed currencies for withdrawal: JOD, USD, GBP, CHF, IQD, CAD, SAR, AED, AUD, EUR, BHD, KWD, QAR, OMR, EGP",
+        "FX is not allowed for withdrawal"
+      ]
+    },
+    {
+      "name": "Features limits - VPC Limits",
+      "details": [
+        "Customer can create 5 VPCs only"
+      ]
+    },
+    {
+      "name": "Features limits - Open Additional Account - Allowed Types",
+      "details": [
+        { "Description_From_Core  ": "Regular-Current Non-Int Bearing", "Description_On_To  ": "Current", "segment": "Regular" },
+        { "Description_From_Core  ": "Regular-Payroll Non-Int Bearing", "Description_On_To  ": "Payroll", "segment": "Regular" },
+        { "Description_From_Core  ": "Regular-Standard Saving-NIB", "Description_On_To  ": "Saving", "segment": "Regular" },
+        { "Description_From_Core  ": "Upper Regular-Current Non-Int Bearing", "Description_On_To  ": "Current", "segment": "Upper Regular" },
+        { "Description_From_Core  ": "Upper Regular-Payroll Non-Int Bearing", "Description_On_To  ": "Payroll", "segment": "Upper Regular" },
+        { "Description_From_Core  ": "Upper Regular-Standard Saving-NIB", "Description_On_To  ": "Saving", "segment": "Upper Regular" },
+        { "Description_From_Core  ": "Select-Current Non-Int Bearing", "Description_On_To  ": "Current", "segment": "Select" },
+        { "Description_From_Core  ": "Select-Payroll Non-Int Bearing", "Description_On_To  ": "Payroll", "segment": "Select" },
+        { "Description_From_Core  ": "Cap Select-Standard Saving-NIB", "Description_On_To  ": "Saving", "segment": "Select" },
+        { "Description_From_Core  ": "Private-Current Non-Int Bearing", "Description_On_To  ": "Current", "segment": "Private" },
+        { "Description_From_Core  ": "Private-Standard Saving-IB", "Description_On_To  ": "Saving", "segment": "Private" }
+      ]
+    },
+    {
+      "name": "Features limits - Open Additional Account - Allowed Currencies",
+      "details": [
+        "JOD, USD, GBP, CHF, CAD, SAR, AED, AUD, EUR, BHD, KWD, QAR, OMR, JPY, SEK, DKK, NOK"
+      ]
+    },
+    {
+      "name": "Features limits - Open Additional Account - Product Limitations per Currency",
+      "details": [
+        { "currency": "JOD", "Current_Account ": 1, "Saving_Account ": 2 },
+        { "currency": "USD", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "GBP", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "CHF", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "CAD", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "SAR", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "AED", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "AUD", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "EUR", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "BHD", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "KWD", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "QAR", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "OMR", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "JPY", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "SEK", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "DKK", "Current_Account ": 1, "Saving_Account ": 1 },
+        { "currency": "NOK", "Current_Account ": 1, "Saving_Account ": 1 }
+      ]
+    },
+    {
+      "name": "Products Charges - CRIF Report Charge",
+      "details": [
+        "Bank will charge customer JOD 2 for every report requested"
+      ]
+    },
+    {
+      "name": "Products Charges - Transfers (local / overseas) - Domestic Transfer - Foreign Currencies (ACH Limit below 50,000K (EUR, USD,GBP))",
+      "details": [
+        { "range_jod": "Up to 1,000 JOD", "equivalents": { "USD": "1,412", "EUR": "1,290", "GBP": "1,110" }, "Current_Fees_Branch ": "2.82 USD", "eligible": null },
+        { "range_jod": "1,001 - 5,000 JOD", "equivalents": { "USD": "7,061", "EUR": "6,452", "GBP": "5,554" }, "Current_Fees_Branch ": "2.999 USD", "eligible": null },
+        { "range_jod": "5,001 - 20,000 JOD", "equivalents": { "USD": "28,244", "EUR": "25,824", "GBP": "22,234" }, "Current_Fees_Branch ": "5.64 USD", "eligible": "All customers" },
+        { "range_jod": "20,001 - 50,000 JOD", "equivalents": {}, "Current_Fees_Branch ": "5.64 USD", "eligible": "Private and Select " },
+        { "range_jod": "RTGS Limit 50,000k or above (EUR, USD,GBP)", "equivalents": {}, "Current_Fees_Branch ": "18.20 USD", "eligible": null}
+      ]
+    },
+    {
+      "name": "Products Charges - Transfers (local / overseas) - Domestic Transfer - Local Currency (ACH Limit below 100,000 JOD)",
+      "details": [
+        { "range_jod": "Up to 1,000 JOD", "Current_Fees_Branch ": "2 JOD", "eligible": null },
+        { "range_jod": "1,001 - 5,000 JOD", "Current_Fees_Branch ": "3 JOD", "eligible": null },
+        { "range_jod": "5,001 - 20,000 JOD", "Current_Fees_Branch ": "4 JOD", "eligible": "All customers" },
+        { "range_jod": "20,001 - 50,000 JOD", "Current_Fees_Branch ": "4 JOD", "eligible": "Private and Select " },
+        { "range_jod": "RTGS Limit above 100,000 JOD", "Current_Fees_Branch ": "13 JOD", "eligible": null }
+      ]
+    },
+    {
+      "name": "Products Charges -International Transfer Current_Fees_Branch s",
+      "details": [
+        { "range_jod": "Up to 500 JOD", "Current_Fees_Branch ": "5 JOD" },
+        { "range_jod": "500 - 5,000 JOD", "Current_Fees_Branch ": "14.1 USD" },
+        { "range_jod": "More than 5,000 JOD", "Current_Fees_Branch ": "31.81 USD" }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "topic": "Loyalty",
+    "title": "Loyalty Steps",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to application , Land on accounts dashboard ",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on Claim Steps Points",
+            "image": null
+        },
+        {
+            "step": 3,
+            "text": "Customer can redeem loyalty points by collecting 10,000 steps to be added as 2 points",
+            "image": "step_3.png"
+        }
+    ]
+}   

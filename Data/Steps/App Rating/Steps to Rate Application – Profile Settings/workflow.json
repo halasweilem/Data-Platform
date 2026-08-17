@@ -1,0 +1,26 @@
+{
+  "topic": "App Rating ",
+  "title": "Steps to Rate Application – Profile Settings ",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to Mobile Application ",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on user profile ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Customer can rate the overall application an / or specific feature from drop down list ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click Submit",
+      "image": "step_4.png"
+    }
+  ]
+}

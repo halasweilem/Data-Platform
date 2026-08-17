@@ -1,0 +1,26 @@
+{
+    "topic": "EPP (Easy Payment Plan )",
+    "title": "Steps to View Installments ",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to mobile application , Click on Cards dashboard ",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on Easy Payment Installment ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Click on View Installments \n    a. Outstanding transactions will be displayed in orange showing (Number of paid Installments/number of total installments ) \n b. Completed transactions will be displayed in Green",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Click on any transaction to view installment details  \n a. Merchant details  \n b. Transaction amount  \n c. Transaction date  \n d. Installments start date \n  e. Instatements end date \n f. Repayment schedule   ",
+            "image": "step_4.png"
+        }
+    ]
+}

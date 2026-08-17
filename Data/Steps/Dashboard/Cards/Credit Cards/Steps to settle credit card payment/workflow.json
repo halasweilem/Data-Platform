@@ -1,0 +1,50 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to Settle Credit Card Payment",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Land on the cards dashboard page. Scroll between cards using left and right arrows to choose the card, then tap on 'Settle Card'.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select the debit account and choose the payment option.",
+      "fields": [
+        {
+          "name": "Debit Account",
+          "type": "selection",
+          "method": "Left / Right arrows"
+        }
+      ],
+      "options": [
+        {
+          "choice": "Minimum Amount Due"
+        },
+        {
+          "choice": "Total Outstanding",
+          "description": "To settle all used balance"
+        },
+        {
+          "choice": "Any Amount"
+        }
+      ],
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Review the payment details on the preview screen.",
+      "actions": [
+        "Tap 'Next' to proceed with payment confirmation",
+        "Tap 'Back' to edit payment details",
+        "Tap 'Confirm' to complete the payment"
+      ],
+      "image": "step_4.png"
+    }
+  ]
+}

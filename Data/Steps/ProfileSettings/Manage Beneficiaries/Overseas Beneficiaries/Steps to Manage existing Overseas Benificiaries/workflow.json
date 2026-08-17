@@ -1,0 +1,26 @@
+{
+  "topic": "Manage Beneficiaries",
+  "title": "Steps to Manage Existing Overseas Beneficiaries",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Tap on the beneficiary name.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Choose the desired action.",
+      "options": [
+        {
+          "choice": "Edit Nickname",
+          "action": "Update the nickname and tap 'Save'."
+        },
+        {
+          "choice": "Delete Beneficiary",
+          "action": "Delete the selected beneficiary."
+        }
+      ],
+      "image": "step_2.png"
+    }
+  ]
+}

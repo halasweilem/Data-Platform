@@ -1,0 +1,36 @@
+{
+  "topic": "Domestic (Local) Transfer",
+  "title": "Steps to create Local Fund Transfer – New Beneficiary",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click Transfer",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on New beneficiary ,and enter IBAN",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter beneficiary details (Name , Address, Purpose of transfer , Charges option)",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter amount",
+      "image": "step_4.png"
+    },
+    {
+        "step": 5,
+        "text": "Transfer currency can be selected from drop down list  Enter description (optional field) ",
+        "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Click on next to preview transfer details \n a. Confirm: proceed with transfer  \n b. Back arrow to edit transfer details , then Transaction will be submitted ",
+      "image": "step_6.png"
+    }
+  ]
+}

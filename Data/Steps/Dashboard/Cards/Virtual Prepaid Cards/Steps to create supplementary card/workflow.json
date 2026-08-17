@@ -1,0 +1,26 @@
+{
+  "topic": "Virtual Prepaid Cards",
+  "title": "Steps to create supplementary card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on 'Add New Card' button",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Fill in Card Holder Name, linked mobile number and review card detail",
+      "image":"step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Review card details and confirm",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Card will be created",
+      "image": "step_4.png"
+    }
+  ]
+}

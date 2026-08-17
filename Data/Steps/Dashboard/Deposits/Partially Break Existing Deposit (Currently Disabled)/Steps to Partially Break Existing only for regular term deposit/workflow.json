@@ -1,0 +1,36 @@
+{
+  "topic": "Partially Break Existing Deposit (Currently Disabled)",
+  "title": "Steps to Partially Break Existing only for regular term deposit",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application,Land on deposits dashboard",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select “Regular Term Deposit” type , Click on 'break' button",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text":"Select break partially , then Click 'Next'",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Review original deposit details , breakage details and remaining deposit details , Confirm the 'Term and Conditions ' , interest rate for related tier ,and penalty fees  then Click ' Confirm'",
+      "image": "step_4.png"
+    },
+    {
+    "step": 5,
+    "text": "verify Mobile , then Click 'Next'",
+    "image": "step_5.png"
+    },
+    {
+    "step": 6,
+    "text": " Term Deposit partially broken successfully",
+    "image": "step_6.png"
+    }
+  ]
+}

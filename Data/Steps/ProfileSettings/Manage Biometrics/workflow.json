@@ -1,0 +1,23 @@
+{
+  "topic": "Manage Biometrics",
+  "title": "Steps to Manage Biometrics",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Choose whether to enable or disable biometrics from the settings screen.",
+      "options": [
+        {
+          "choice": "Disable Biometrics",
+          "action": "Tap on the blue toggle next to 'Enable Biometrics'.",
+          "result": "A success message will be displayed indicating that biometrics has been disabled."
+        },
+        {
+          "choice": "Enable Biometrics",
+          "action": "Tap on the grey toggle next to 'Enable Biometrics'.",
+          "result": "A success message will be displayed indicating that biometrics has been enabled."
+        }
+      ],
+      "image": "step_1.png"
+    }
+  ]
+}

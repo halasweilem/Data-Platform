@@ -1,0 +1,21 @@
+{
+    "topic": "Loyalty",
+    "title": "Steps to check loyalty points",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to application , Land on accounts dashboard ",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on Capital Rewards",
+            "image": "step_2.png"
+        },
+        {
+            "Note": 1,
+            "text": "Note: User can check frequently asked questions to know more about this service available at the right corner by clicking on ' ? ' icon",
+            "image": "note_1.png"
+        }
+    ]
+}   

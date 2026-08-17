@@ -1,0 +1,51 @@
+{
+  "topic": "Travel Insurance",
+  "title": "Steps to Apply for Travel Insurance",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Navigate to the Insurance Section: \n - Log in to the mobile application. \n - From the main dashboard, navigate to the 'Insurance' section and select Travel.",
+      "image": null 
+    },
+    {
+      "step": 2,
+      "text": "Start a New Application: \n - Tap on ' Get Travel Insurance Now' .",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Fill in Travel and Personal Details: \n - Choose who the insurance is for (I am buying for myself or I am buying for someone else). \n Enter the travel details:  ( ▪ Destination: Select the travel location (e.g., Turkey or Egypt) , ▪ Travel Start and End Dates: Specify the duration of the trip ) \n  - Enter personal details (auto-filled for registered users):  (▪ Name on Passport , ▪ Date of Birth , ▪ Passport Number , ▪ Nationality , ▪ Email Address ) \n - Tap Continue. ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Verify Passport Details: \n - Review and ensure all passport details are accurate. \n - Tap Ok to confirm or Check Again to modify. ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Choose a Plan: \n - Review the available travel insurance plans (e.g., Sky Plus Travel Insurance). \n - Check the details of the plan, including: ( ▪ Coverage options (e.g., worldwide coverage, medical emergencies, luggage delays). , ▪ Pricing. ) \n - Tap Apply Now.",
+      "image": null
+    },
+    {
+      "step": 6,
+      "text": "Select Payment Method: \n - Choose the account to pay from (e.g., Saving Account). \n - Confirm the payment selection by tapping 'Confirm' . ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Review and Agree to Terms: \n - Verify the payment amount and travel insurance details. \n - Agree to the terms and conditions by selecting the checkboxes. \n - Tap ' Pay Insurance ' to complete the payment. ",
+      "image": null
+    },
+    {
+      "step": 8,
+      "text": "Verify Payment:\n - Enter the 6-digit verification code sent via SMS. \n - Tap ' Next ' to proceed.",
+      "image": null
+    },
+    {
+      "step": 9,
+      "text": "Confirmation: \n - View the confirmation screen showing: (▪ Reference Number , ▪ Insurance Type ,  ▪ Amount Paid ) \n - Tap Back to Dashboard to return or ' Download Insurance Policy ' to save a copy. ",
+      "image": "step_9.png"
+    }
+  ]
+}

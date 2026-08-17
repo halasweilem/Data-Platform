@@ -1,0 +1,16 @@
+{
+  "topic": "Virtual Prepaid Cards",
+  "title": "Steps to (Freeze / Unfreeze) card or (activate / deactivate)",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Land on cards dashboard & click toggle to freeze card",
+       "image": ["step_1_a.png", "step_1_b.png", "step_1_c.png"]
+    },
+    {
+      "step": 2,
+      "text": "Click toggle to unfreeze card",
+      "image": "step_2.png"
+    }
+  ]
+}

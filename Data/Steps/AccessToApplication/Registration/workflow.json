@@ -1,0 +1,46 @@
+{
+  "topic": "Access to Application",
+  "title": "Registration",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Download application from app/play stores and Huawei gallery.",
+      "image": "step_1.png" 
+    },
+    {
+      "step": 2,
+      "text": "Land on login screen → click on register.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter National ID and Customer ID",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter Debit Card number and Card PIN",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Enter OTP",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Enter username / password and reconfirm password",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Enable biometrics / personal pin (6 digits pin).",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Create App Pin and Lands on dashboard",
+      "image": "step_8.png"
+    }
+  ]
+}

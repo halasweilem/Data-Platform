@@ -1,0 +1,46 @@
+{
+  "topic": "Transfer Within Bank",
+  "title": "Steps to create Transfer Within Bank – New Beneficiary",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click Transfer",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on New beneficiary – Enter Capital bank account number ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "A message will be displayed asking if this “Is a transfer within Capital Bank?” so  Customer must enter Yes to proceed ",
+      "image": "step_3.png"
+    },
+   {
+      "step": 4,
+      "text": "Enter beneficiary details ( Name, Purpose of Transfer) , Enter description (optional field)  ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Enter amount ",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Click on next to preview transfer details \n a. Confirm: proceed with transfer  \n b. Back arrow to edit transfer details ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Confirm Transfer and save beneficiary , Click on Add as Beneficiary  ",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Enter beneficiary nick name ",
+      "image": "step_8.png"
+    }
+  ]
+}

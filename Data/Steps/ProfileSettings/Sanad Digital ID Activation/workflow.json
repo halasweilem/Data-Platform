@@ -1,0 +1,21 @@
+{
+  "topic": "Sanad Digital ID Activation",
+  "title": "Steps to Activate Sanad Digital ID",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, and click on profile icon",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Enable Sanad Digital ID",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Confirm Sanad Message after verifying National ID number",
+      "image": "step_3.png"
+    }
+  ]
+}

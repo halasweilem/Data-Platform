@@ -1,0 +1,11 @@
+{
+  "tips": [
+    "1- Linked default account number is customer’s main default account at Capital bank. Can be changed to any eligible accounts available.",
+    "2- Alias must be minimum of 3 characters, maximum of 10 with at least 1 letter and can be alphanumeric.",
+    "3- Disclaimer to inform customers that their own personal information’s (name, IBAN) will be shared with issuer of CliQ transaction. ",
+    "4- Suspended id will not be able to receive any CliQ transactions. ",
+    "5- Only 5 Aliases ( Nickname/ Mobile number) are allowed per customer.  ",
+    "6- If Alias was suspended for more than 3 months It will be deleted. ",
+    "7- Alias must not be a commercial name.  "
+  ]
+}

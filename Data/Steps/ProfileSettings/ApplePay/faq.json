@@ -1,0 +1,21 @@
+[
+  {
+    "question": "Where can we use Apple Pay?",
+    "answer": "Apple Pay works anywhere that accepts contactless payments. If you see the contactless payments symbol or the Apple Pay symbol near readers at the checkout, they will accept Apple Pay."
+  },
+  {
+    "question": "Is there a limit for Apple Pay?",
+    "answer": "No. Unlike contactless card payments that limit you to a JOD 300 spend, there is no limit for Apple Pay."
+  },
+  {
+    "question": "How to use Apple Pay on the device ? ",
+    "answer": "Apple Pay requires the Near Field Communication (NFC) antenna and Touch ID or Face ID on iPhone 6 and later. It will depend on which iPhone you have as to how you launch Apple Pay. Each transaction has to be authorized by either Touch ID, Face ID or your passcode.For iPhones with Touch ID, double tap the Touch ID home button and keep your finger on it until your screen says \"Hold Near Reader\". If your fingerprint isn't recognized, you can choose the \"Pay with Passcode\" option. Once your iPhone says hold near reader, you can just place your iPhone near a contactless terminal and a subtle vibration or a ping if your phone isn't on silent confirms payment. A receipt is recorded in the Wallet app so you can see what your latest transactions. There's no need to open an app or wake your iPhone's display to launch Apple Pay, no matter which iPhone model you have."
+  },
+  {
+    "question": "How to change the default card on Apple Pay",
+    "answer": "To change the default card on Apple Pay, head to the Settings app on your iPhone and scroll down to Wallet & Apple Pay. On this screen, you will see a list of settings under the header \"Transaction Defaults\". The first setting is \"Default Card\". Click on this and you can choose which card you want to select as your default Apple Pay card, though it is easy enough to switch between them when you launch Apple Pay."
+  },
+  {
+    "question": "How to set Apple Pay on Apple Products? ",
+    "answer": "You need to use the Apple Wallet app or Capital Bank of Jordan application to setup Apple Pay on your Apple devices. The Apple Wallet will then store your credit cards, debit cards and prepaid cards, by pulling the data when you authenticate Apple Pay to pay for goods. On your iPhone, open Wallet. On your iPad, go to Settings > Wallet & Apple Pay. Tap Add Credit or Debit Card or the \"+\" in the top right corner and hit \"Continue\". You can use your device's camera to capture the information on your credit, debit, or store card. Then fill in any additional information needed. 1. Click on Apple Wallet >  2. Choose the “+” on the top right corner and hit “Continue” > 3. Add to Wallet will appear > 4. Choose the type of card you need to add, and you may use your camera to capture the details of the cards. Capital Bank  will verify the information. Client may need to provide additional verification which can mean the client will have to contact  the Call Center, or will receive a text message with a unique code (OTP) that you'll need to enter. "
+  }]

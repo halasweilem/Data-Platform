@@ -1,0 +1,26 @@
+{
+  "topic": "CliQ Transfer ",
+  "title": "Steps to process QR payment.",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and Camera access needs to be given to Capital mobile application.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on QR pay.",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Application will open a camera window to scan QR.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Once scanned, payment details will be auto displayed for the customer to confirm and pay. ",
+      "image": null
+    }
+  ]
+}

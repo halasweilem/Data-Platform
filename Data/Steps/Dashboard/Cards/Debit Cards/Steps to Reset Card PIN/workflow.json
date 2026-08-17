@@ -1,0 +1,41 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to Reset Card PIN",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select debit card from drop down list & Click on ‘Card Settings’ consisting of Manage Card PIN and Manage Card Limits",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Click on ‘Manage Card PIN’ \nIncludes: \n1- Unblock Card PIN (old feature) \n2- Reset Card PIN (new feature)",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Select the “Reset Card PIN” feature",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Customer enters a new 4 digit PIN",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Customer confirms the new PIN by re-entering it",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Then enter the OTP correctly for verification and submit it",
+      "image": "step_7.png"
+    }
+  ]
+}

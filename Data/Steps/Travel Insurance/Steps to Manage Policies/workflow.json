@@ -1,0 +1,27 @@
+{
+    "topic": "Travel Insurance",
+    "title": " Steps to Manage Policies ",
+    "steps": [
+        {
+            "step": 1,
+            "text": "View Policy History: \n -  Navigate to the ' Travel Insurance ' section. \n -  Scroll to the Policy History section to view active and inactive policies. ",
+            "image": "step_1.png"
+        },
+        {
+            "step": 2,
+            "text": "Download Policies: \n - Tap on Download Policy for any listed policy to save a copy of the insurance details.  ",
+            "image": "step_2.png"
+        },
+        {
+            "Note": 1,
+            "text": " Ensure all details (e.g., travel dates, destination, and passport information) are accurate before proceeding. ",
+            "image": null
+        },
+        {
+            "Note": 2,
+            "text": "Refer to the terms and conditions for detailed coverage and exclusions. ",
+            "image": null
+        }
+
+    ]
+}

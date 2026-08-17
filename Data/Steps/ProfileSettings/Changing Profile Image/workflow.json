@@ -1,0 +1,30 @@
+{
+  "topic": "Changing Profile Image",
+  "title": "Steps to Change Profile Image",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Tap on the profile abbreviation circle, then select 'Change Profile Image'.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Choose how you want to update your profile image.",
+      "options": [
+        "Take a new photo",
+        "Select an image from the gallery",
+        "Remove the current photo and keep abbreviations"
+      ],
+      "actions": [
+        "Tap 'Choose' to confirm the update",
+        "Tap 'Cancel' to discard the changes"
+      ],
+      "image": "step_3.png"
+    }
+  ]
+}

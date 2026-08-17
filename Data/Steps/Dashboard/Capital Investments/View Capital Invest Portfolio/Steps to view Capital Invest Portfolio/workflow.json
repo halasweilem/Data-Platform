@@ -1,0 +1,21 @@
+{
+  "topic": "View capital invest portfolio",
+  "title": "Steps to view capital invest portfolio",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Land on Investment Dashboard and click on 'Portfolio' button",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Portfolio view will be displayed for the last three months including: \n a. Local Markets \nb. International / FX / Mutual fund markets  \nc. Cash  \n d. Total Portfolio \ne. Growth Percentage ",
+      "image": "step_3.png"
+    }
+  ]
+}

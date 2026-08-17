@@ -1,0 +1,26 @@
+{
+  "topic": "CliqID",
+  "title": "Share",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on setting icon at the right top corner .",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on share id .",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Select any sharing channel (social media, email …etc.).",
+      "image": "step_3.png"
+    },
+    {
+    "step": 4,
+    "text": "Proceed with sharing ",
+    "image": null
+    }
+  ]
+}

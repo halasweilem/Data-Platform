@@ -1,0 +1,26 @@
+{
+    "topic": "Adding New Assets and Liabilities ",
+    "title": "Steps to Add Assets or Liabilities",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Select the appropriate option. Click on “Add Assets” or “Add Liabilities,” depending on the current screen option.",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Enter asset or liability details. For example, when adding an asset, choose the product type, currency, and provide a name.",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Confirmation screen. A success message will appear confirming that the new asset or liability has been added.",
+            "image": null
+        },
+        {
+            "step": 4,
+            "text": "View updates. Returning to the dashboard, the customer will see the newly added assets reflected in their total assets and overall net worth. ",
+            "image": null
+        }
+    ]
+}

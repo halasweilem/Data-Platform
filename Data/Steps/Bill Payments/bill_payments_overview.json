@@ -1,0 +1,24 @@
+{
+  "topic": "Bill Payments",
+  "description": "Bill Payments Overview",
+  "features": [
+    {
+      "name": "PostPaid Bill Payments",
+      "details": [
+        "• Pay Postpaid single bill.",
+        "• Pay Postpaid multiple bill.  ",
+        "• Save Postpaid bill payment.  ",
+        "• View postpaid bill payment history  "
+      ]
+    },
+    {
+      "name": "Prepaid Bill Payments",
+      "details": [
+        "• Pay Prepaid single bill.  ",
+        "• Pay Prepaid multiple bill.  ",
+        "• Save Prepaid bill payment.  ",
+        "• View Prepaid bill payment history.  "
+      ]
+    }
+  ]
+}

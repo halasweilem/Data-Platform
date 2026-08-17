@@ -1,0 +1,31 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to Replace Credit Card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on ‘Card Replacement’ in the action board. ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select the reason to replace the credit card. There are four options: Lost, Stolen, Fraud, Damage. Then Confirm your selection",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter OTP received on your registered phone number.",
+      "image": ["step_4a.png", "step_4b.png"]
+    },
+    {
+      "step": 5,
+      "text": "Confirmation screen that your card has been replaced and customer will receive their new card via mail.",
+      "image": null
+    }
+  ]
+}

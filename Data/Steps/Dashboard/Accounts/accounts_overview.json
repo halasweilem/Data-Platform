@@ -1,0 +1,46 @@
+{
+  "topic": "Accounts",
+  "description": "From Accounts Dashboard, Customer can view Current / Saving Account summary, details and transactions.",
+  "features": [
+    {
+      "name": "View Accounts Summary",
+      "details": [
+        "To view account available balance",
+        "To view account number",
+        "To view account nickname"
+      ]
+    },
+    {
+      "name": "View Account Details",
+      "details": [
+        "To view account IBAN",
+        "To view account holder name",
+        "To view account open date"
+      ]
+    },
+    {
+      "name": "View Account Transactions",
+      "details": [
+        "To view account transactions"
+      ]
+    },
+    {
+      "name": "View Account e-Statement",
+      "details": [
+        "To retrieve or download account e-Statement"
+      ]
+    },
+    {
+      "name": "Share Account Details",
+      "details": [
+        "To share account details via social media channels"
+      ]
+    },
+    {
+      "name": "Share Account Details with Social Security",
+      "details": [
+        "To share account details with Social Security Corporation"
+      ]
+    }
+  ]
+}

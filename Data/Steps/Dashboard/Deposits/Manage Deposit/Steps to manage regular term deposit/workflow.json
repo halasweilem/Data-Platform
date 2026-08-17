@@ -1,0 +1,36 @@
+{
+  "topic": "Manage Deposit",
+  "title": "Steps to manage regular term deposit",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application,Land on deposits dashboard",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Select “Regular Term Deposit” type , Click on 'manage deposit' button",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text":"Select  the interest payout account ,the payout after maturity account.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Manage auto renewal (On / Off). If turned on, select either 'Renew principal amount only' or 'Renew principal amount and credit interest'. , then Confirm the 'Terms and conditions' and Click 'Save'",
+      "image": "step_4.png"
+    },
+    {
+    "step": 5,
+    "text": "verify Mobile , then Click 'Next'",
+    "image": "step_5.png"
+    },
+    {
+    "step": 6,
+    "text": " Term Deposit details updated successfully",
+    "image": "step_6.png"
+    }
+  ]
+}

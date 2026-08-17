@@ -1,0 +1,19 @@
+{
+  "tips": [
+    {
+      "tip": 1,
+      "text": "Bill reference will guide customer what to enter.",
+      "image": []
+    },
+    {
+      "tip": 2,
+      "text": "Customer can save bill immediately after entering bill details by adding a bill nickname.",
+      "image": []
+    },
+    {
+      "tip": 3,
+      "text": "Deleting saved bills is available by scrolling to the left on the same bill.",
+      "image": ["tip_1.png"]
+    }
+  ]
+}

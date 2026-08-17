@@ -1,0 +1,49 @@
+{
+  "topic": "Capital Investments",
+  "description": "Capital Investments Overview",
+  "features": [
+    {
+      "name": "Link Capital Investment Accounts ",
+      "details": [
+        "To link Capital Investment account directly via mobile application "
+      ]
+    },
+    {
+      "name": "View Account Balance",
+      "details": [
+        "To view Capital Investment account balances"
+      ]
+    },
+    {
+      "name": "View Account Details",
+      "details": [
+        "To view Capital Investment account details"
+      ]
+    },
+    {
+      "name": "View Account Transactions",
+      "details": [
+        "To view Capital Investment account transactions"
+      ]
+    },
+    {
+      "name": "TopUp / Withdraw",
+      "details": [
+        " To TopUp Capital Investment account ",
+        "To withdraw from Capital Investment account "
+      ]
+    },
+    {
+      "name": "Trading ",
+      "details": [
+        "Start trading with Capital Investment online via mobile application for Regional and International Markets"
+      ]
+    },
+    {
+      "name": "Capital Investment Portfolio View",
+      "details": [
+        "View total portfolio records for the last three months  "
+      ]
+    }
+  ]
+}

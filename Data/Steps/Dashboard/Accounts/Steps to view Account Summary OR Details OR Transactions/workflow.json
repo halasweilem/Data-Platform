@@ -1,0 +1,38 @@
+{
+    "topic": "Accounts",
+    "title": "Steps to view Account Summary OR Details OR Transactions",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to application",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Land on accounts dashboard page. Scroll between card using left and right arrows to display account balance.",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Account details tab is selected by default where the customer can view the following:",
+            "details_displayed": [
+                "Edit account name",
+                "Account holder name",
+                "IBAN",
+                "Account number",
+                "Date opened"
+            ],
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Click on Transactions",
+            "image": "step_4.png"
+        },
+        {
+            "step": 5,
+            "text": "Click on View more to see more transactions with filter criteria",
+            "image": "step_5.png"
+        }
+    ]
+}

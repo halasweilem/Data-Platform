@@ -1,0 +1,31 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to View Debit Card Details",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application & Land on cards dashboard page",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Navigate to Debit Cards",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": "Click on ‘Card Details’ from Action Bar",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter OTP",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Now you can view your debit card details",
+      "image": "step_5.png"
+    }
+  ]
+}

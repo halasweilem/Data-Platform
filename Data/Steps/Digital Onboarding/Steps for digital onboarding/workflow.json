@@ -1,0 +1,63 @@
+{
+    "topic": "Digital Onboarding",
+    "title": "Steps for digital onboarding ",
+    "steps": [
+        {
+            "step": 1,
+            "text": " Customer will download application from App Store / Play Store / Huawei Gallery. , then Customer will click on “Join Capital” from main screen.",
+            "image": "step_1.png"
+        },
+        {
+            "step": 2,
+            "text": "Customer will start the journey by entering the below details. \n a. Username (This username will be used to login to mobile application). \n     i. Minimum of 7 alphanumeric characters and a maximum of 20 without any spaces. \n b. Mobile number  \n c. Email  \n d. Password / Re-Enter password (This password will be used to login to mobile application).  \n       i. Minimum of 8 characters with combination of at least 1 uppercase, 1 lowercase, 1 symbol and 1 digit.  ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Enter OTP received on the entered mobile number \n  a. If OTP expired, click on resend code ",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Scan National ID card and accept sharing national ID image for verification  \n a. Access to Camera must be granted  \n b. Scan Front and Back (application will display at button of page which side to scan) ",
+            "image": "step_4.png"
+        },
+        {
+            "step": 5,
+            "text": "Verify retrieved National card details and confirm all details are correct.  , Take a selfie image for verification  \n a. Customer needs to keep his/her face close to frame  \n b. Must be in a good lightning condition  \n then Enable Biometric / personal PIN for application subsequent logins after onboarding  ",
+            "image": null
+        },
+        {
+            "step": 6,
+            "text": "Start with onboarding Journey ",
+            "steps": [
+                {
+                "step": 1,
+                "text": "Selecting account type to be created (Current / Saving)",
+                "image": ["step_6_1.png"]
+                },
+                {
+                "step": 2,
+                "text": "Answering personal details questions:\n\n- Beneficial owner of the account toggle is set to Yes by default.  If customer selected no, Journey would stop and customer to be asked to visit the branch\n\n- Residency country:\n  • If Jordan is selected,  customer will not be asked for any documents  \n  • If any other country is selected, customer will be asked for supporting documents (Proof of address, proof of income, residency card).\n  • PEP validation.\n  • Marital status (retrieved directly from Ahwal).\n  • Employment status.\n\n- Residential details: City, Country, Area, Street name, Building number",
+                "image": ["step_6_2.png"]
+                },
+                {
+                "step": 3,
+                "text": "Adding income details:\n- Business type\n- Total annual income\n- Business name, country, and Business city\n- Additional source of income (if any)",
+                "image": ["step_6_3.png"]
+                }
+            ],
+            "image": null
+        },
+        {
+            "step": 7,
+            "text": "Answering Taxation details (for US Nationality customers) \n  a. All questions toggles will be disabled as default  ",
+            "image": "step_7.png"
+        },
+        {
+            "step": 8,
+            "text": "Review and confirm details to open account and issue debit card.",
+            "image": "step_8.png"
+        }
+    ]
+}

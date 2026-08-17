@@ -1,0 +1,11 @@
+{
+  "topic": "Debit Cards",
+  "title": "Steps to manage cards limits",
+  "steps": [
+    {
+      "step": 1,
+      "text": "1. Atm withdrawal limit  \na. Customer can disable atm withdrawal limit as its \nenabled by default  \nb. Customer can enter the desired limit not to exceed \nmax limit set by the bank.  \n2. Card payment limit  \na. Customer can disable card payment limit as its \nenabled by default  \nb. Customer can enter the desired limit not to exceed \nmax limit set by the bank.  \n3. Online purchase limit  \na. Customer can disable card online purchase limit as \nits enabled by default  \nb. Customer can enter the desired limit not to exceed \nmax limit set by the bank.  \n4. Contactless limit  \na. Customer can edit contactless limit  \nb. Customer can enter any amount below 300",
+      "image": "step_1.png"
+    }
+  ]
+}

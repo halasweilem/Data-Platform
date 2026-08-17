@@ -1,0 +1,46 @@
+{
+  "topic": "International (Overseas) Transfer",
+  "title": "Steps to create International Fund Transfer – New Beneficiary – Non IBAN Countries",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click Transfer",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on New beneficiary ,and enter account number ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "A message will be displayed “ Is this transfer within Capital Bank ?” , Customer must answer No to proceed.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Select country",
+      "image": "step_4.png"
+    },
+    {
+        "step": 5,
+        "text": "Enter amount ",
+        "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Transfer currency can be selected from drop down list ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Enter beneficiary details ( name , address, purpose codes ) , Enter description (optional field)  ",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Click on next to preview transfer details \n a. Confirm: proceed with transfer  \n b. Back arrow to edit transfer details ",
+      "image": "step_8.png"
+    }
+  ]
+}

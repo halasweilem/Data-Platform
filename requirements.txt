@@ -1,0 +1,8 @@
+Flask>=3.0,<4
+python-dotenv>=1.0,<2
+ldap3>=2.9,<3
+pymilvus>=2.5,<3
+sentence-transformers>=3.0,<6
+pandas>=2.2,<4
+openpyxl>=3.1,<4
+PyMuPDF>=1.24,<2

@@ -1,0 +1,51 @@
+{
+  "topic": "apple_pay_add_card",
+  "title": "Add card to Apple Pay",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Customer will click on Apple Pay feature from profile settings.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Customer will click on Apple Pay to start setup process.",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Cards will be displayed for customer to click on “ Add to Apple Wallet",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Apple Pay screen will be displayed for customer to continue",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Once clicked, customer will be asked to select to add iPhone, Apple Watch.",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Customer will be asked to confirm name of card and card last 4 numbers.",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "Card will start loading process.",
+      "image": null
+    },
+    {
+      "step": 9,
+      "text": "Screen will be displayed if customer wants selected card to be used as default once Apple Pay is clicked.",
+      "image": "step_9.png"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+    "topic": " (PFM) Personal Finance Management Feature ",
+    "title": "Editing or Deleting Assets and Liabilities",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Swipe to edit or delete. To modify or remove a newly added asset or liability, swipe left on the item. ",
+            "image": "step_1.png"
+        },
+        {
+            "step": 2,
+            "text": "Confirmation for deletion. If the customer chooses to delete, a pop-up will appear to confirm the deletion of the selected asset or liability. ",
+            "image": "step_2.png"
+        },
+        {
+            "step": 3,
+            "text": "Dashboard update. The overall net worth on the dashboard will be updated accordingly ",
+            "image": null
+        }
+    ]
+}

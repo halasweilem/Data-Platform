@@ -1,0 +1,36 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to Activate & Deactivate Credit Card",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and land on the cards dashboard page.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Scroll between card using left and right arrows to choose card  ",
+      "image": null
+    },
+    {
+      "step": 3,
+      "text": " Click on \"Deactivate Card\" toggle",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Click ‘Confirm’ to proceed with freezing card",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Card will be Deactivated and toggle becomes blue",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "The user can activate the card anytime by switching the toggle button again",
+      "image": "step_6.png"
+    }
+  ]
+}

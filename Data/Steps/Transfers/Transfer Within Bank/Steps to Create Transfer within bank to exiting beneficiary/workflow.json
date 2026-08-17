@@ -1,0 +1,31 @@
+{
+  "topic": "Transfer Within Bank",
+  "title": "Steps to create Transfer Within Bank – New Beneficiary",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click Transfer",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "From Exiting Beneficiary  ,  Select Beneficiary from List ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Enter beneficiary details (Purpose of transfer , description ) ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "Enter amount ,  Enter description (optional field)",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Click on next to preview transfer details \n a. Confirm: proceed with transfer  \n b. Back arrow to edit transfer details ",
+      "image": "step_5.png"
+    }
+  ]
+}

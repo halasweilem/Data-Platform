@@ -1,0 +1,31 @@
+{
+  "topic": "IBAN Consent",
+  "title": "Steps to Accept or Refuse IBAN Consent",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Log in to the mobile application and open profile settings.",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Tap on the IBAN Consent toggle.",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Choose whether to accept or refuse the IBAN consent terms.",
+      "options": [
+        {
+          "choice": "Accept",
+          "result": "A success message will be displayed."
+        },
+        {
+          "choice": "Refuse",
+          "result": "Account details will not be shared with any beneficiary, and local banks will not be able to inquire about the account."
+        }
+      ],
+      "image": "step_3.png"
+    }
+  ]
+}

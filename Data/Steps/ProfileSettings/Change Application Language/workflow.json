@@ -1,0 +1,21 @@
+{
+  "topic": "Change Password",
+  "title": "Steps to Change Password",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on change app language",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select English / Arabic radio button (English is set as default), then Click apply",
+      "image": "step_3.png"
+    }
+  ]
+}

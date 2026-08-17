@@ -1,0 +1,18 @@
+<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Capital Data Studio</title><link rel="stylesheet" href="/styles.css"></head>
+<body>
+<header><div class="brand"><span class="mark">C</span><div><strong>Capital Data Studio</strong><small>Knowledge operations</small></div></div><div class="top-meta"><span class="server"><i></i> Milvus · 10.0.30.51</span><span id="user"></span><button id="logout" class="quiet">Log out</button></div></header>
+<nav id="domains" aria-label="Data areas"></nav>
+<main>
+  <aside><div class="aside-head"><div><p class="eyebrow">AVAILABLE DATA</p><h1 id="areaTitle">Library</h1></div><span id="count">0</span></div><label class="search"><span>⌕</span><input id="search" placeholder="Search files and workflows"></label><div id="files" class="files"></div><button id="newWorkflow" class="upload" hidden>＋ New workflow</button><button id="uploadBtn" class="upload">＋ Replace or add source</button><input id="upload" type="file" hidden></aside>
+  <section class="workspace">
+    <div id="empty" class="empty"><div class="empty-icon">⌁</div><h2>Select a data source</h2><p>Choose an item from the library to review, edit, validate and synchronize it.</p></div>
+    <div id="editor" hidden>
+      <div class="editor-head"><div><p id="breadcrumb" class="eyebrow"></p><h2 id="docTitle"></h2><p id="docMeta" class="muted"></p></div><div class="actions"><button id="reindex" class="secondary">Re-chunk</button><button id="rawToggle" class="secondary">JSON view</button><button id="save">Save & sync</button></div></div>
+      <div id="notice" class="notice" hidden></div>
+      <div id="visual"></div><textarea id="raw" class="raw" hidden spellcheck="false"></textarea>
+    </div>
+  </section>
+</main>
+<dialog id="uploadDialog"><form method="dialog"><button class="close">×</button><p class="eyebrow">SOURCE DATA</p><h2>Add or replace a file</h2><p class="muted">Saving a source creates timestamped local chunks and synchronizes them to Milvus.</p><label>Destination path<input id="uploadPath" placeholder="Folder/file.json"></label><label>File<input id="uploadFile" type="file"></label><div class="dialog-actions"><button value="cancel" class="secondary">Cancel</button><button id="confirmUpload" value="default">Upload & chunk</button></div></form></dialog>
+<div id="toast"></div><script src="/app.js"></script><script>document.querySelector('#newWorkflow').onclick=async()=>{const topic=prompt('Framework or topic name');if(!topic)return;const title=prompt('Workflow title');if(!title)return;const safe=s=>s.replace(/[<>:"/\\|?*]+/g,' ').trim();const path=`${safe(topic)}/${safe(title)}/workflow.json`;try{const d=await api(`/api/data/steps/file?path=${encodeURIComponent(path)}`,{method:'PUT',body:JSON.stringify({data:{topic,title,steps:[{step:1,text:'Describe the first step',image:null}]}})});await selectDomain('steps');await openFile(path);showResult(d);toast('Workflow created')}catch(e){toast(e.message)}}</script></body></html>

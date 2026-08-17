@@ -1,0 +1,8 @@
+.env
+.studio/
+node_modules/
+.env
+.venv/
+__pycache__/
+data_chunks/
+.studio/

@@ -1,0 +1,31 @@
+{
+  "topic": "Open Banking Consent",
+  "title": "Open Banking Consent",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Entry Point: Navigate to “Consent Management” under the profile settings",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "If no consent is granted the following screen will be displayed “You do not have any consent granted”",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "If customer has granted consent via the web, the following information will be displayed:\n- Consent type (AIS: Account information Service, CAF: Customer availably of funds, PIS\n- TPP Name\n- Expiry date\n- Consent initiation date\n- Consent status\n- Revoke option",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text": "More details will be displayed upon clicking on each consent as the shared accounts in the third image.",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Customer can revoke an active consent as following image.",
+      "image": "step_5.png"
+    }
+  ]
+}

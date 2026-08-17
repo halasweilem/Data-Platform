@@ -1,0 +1,31 @@
+{
+    "topic": "Accounts",
+    "title": "Account e-statement",
+    "steps": [
+        {
+            "step": 1,
+            "text": "Login to application",
+            "image": null
+        },
+        {
+            "step": 2,
+            "text": "Click on view more from account transaction screen",
+            "image": null
+        },
+        {
+            "step": 3,
+            "text": "Click on e-statement",
+            "image": "step_3.png"
+        },
+        {
+            "step": 4,
+            "text": "Select year / month and click on generate",
+            "image": "step_4.png"
+        },
+        {
+            "step": 5,
+            "text": "Share and view PDF",
+            "image": null
+        }
+    ]
+}

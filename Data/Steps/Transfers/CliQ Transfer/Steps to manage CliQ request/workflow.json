@@ -1,0 +1,31 @@
+{
+  "topic": "CliQ Transfer ",
+  "title": "Steps to manage CliQ transfer. ",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click ' CliQ '",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on requests. ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "All request histories will be available with different statuses. \n a. Pending requests showing sender name / amount with accept / reject option. \ni. Accept: transfer amount will be debited from customer account  \n ii. Reject: customer needs to select ejected reason from a list \n  iii. Customer has two options for selecting beneficiary. ",
+      "image": null
+    },
+    {
+      "step": 4,
+      "text": "Accepted requests.",
+      "image": null
+    },
+    {
+      "step": 5,
+      "text": "Rejected requests.",
+      "image": null
+    }
+  ]
+}

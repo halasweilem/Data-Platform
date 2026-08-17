@@ -1,0 +1,30 @@
+{
+  "topic": "Loans",
+  "description": "Loans Overview",
+  "features": [
+    {
+      "name": "View Loans Balance",
+      "details": [
+        "To view loan balance"
+      ]
+    },
+    {
+      "name": "View Loan Details",
+      "details": [
+        "To view loan currency, next payment date, next payment amount, interest rate, maturity date, loan tenor, disbursement date, loan original amount"
+      ]
+    },
+    {
+      "name": "View Loan Schedule",
+      "details": [
+        "To view loan payments from the disbursement date till maturity date"
+      ]
+    },
+    {
+      "name": "Instant Loan",
+      "details": [
+        "To apply for a preapproved loan after checking eligibility"
+      ]
+    }
+  ]
+}

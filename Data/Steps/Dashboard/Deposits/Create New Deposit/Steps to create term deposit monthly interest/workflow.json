@@ -1,0 +1,61 @@
+{
+  "topic": "Create New Deposit",
+  "title": "Steps to create term deposit monthly interest",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application,Land on deposits dashboard",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Select Term Deposit Monthly Interest” type , Click Select",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select funding account",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text":"Select 'Use the same account as funding' if needed, Click Next",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "Select interest payout account",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Select payout after maturity account",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Enter required deposit amount , Note: Minimum deposit amount is 5000 JOD",
+      "image": "step_7.png"
+    },
+    {
+    "step": 8,                      
+    "text": "Select period-interest return and   Select auto renew upon maturity if needed If selected, then “renew principal amount only” is displayed as the only option , then click 'Next'",
+    "image": "step_8.png"
+    },
+    {
+    "step": 9,      
+    "text": "Review deposit details , Confirm the “Terms and Conditions”  then Click 'Confirm'",
+    "image": "step_9.png"
+    },
+    {
+    "step": 10,
+    "text": "verify Mobile , then Click 'Next'",
+    "image": "step_10.png"
+    },
+    {
+    "step": 11,
+    "text": " Term Deposit is created successfully",
+    "image": "step_11.png"
+    }
+  ]
+}

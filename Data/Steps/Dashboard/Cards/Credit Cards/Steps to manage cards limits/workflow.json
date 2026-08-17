@@ -1,0 +1,41 @@
+{
+  "topic": "Credit Cards",
+  "title": "Steps to Manage Card Limits",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Manage card limits from the limits screen.",
+      "sections": [
+        {
+          "name": "ATM Withdrawal Limit",
+          "options": [
+            "Customer can disable ATM withdrawal limit (enabled by default)",
+            "Customer can enter the desired limit not to exceed the maximum limit set by the bank"
+          ]
+        },
+        {
+          "name": "Card Payment Limit",
+          "options": [
+            "Customer can disable card payment limit (enabled by default)",
+            "Customer can enter the desired limit not to exceed the maximum limit set by the bank"
+          ]
+        },
+        {
+          "name": "Online Purchase Limit",
+          "options": [
+            "Customer can disable online purchase limit (enabled by default)",
+            "Customer can enter the desired limit not to exceed the maximum limit set by the bank"
+          ]
+        },
+        {
+          "name": "Contactless Limit",
+          "options": [
+            "Customer can edit contactless limit",
+            "Customer can enter any amount below 300"
+          ]
+        }
+      ],
+      "image": "step_1.png"
+    }
+  ]
+}

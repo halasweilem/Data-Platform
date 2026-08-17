@@ -1,0 +1,71 @@
+{
+  "topic": "Instant Loan",
+  "title": "Steps to obtain Instant Loan",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to application,Land on loans dashboard",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Eligible users can click on'Proceed'",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text":  "Verify email Address ,Click on 'Confirm'",
+      "image": "step_3.png"
+    },
+    {
+      "Note": 1,
+      "text": "In case the customer is not eligible, they will not be able to proceed",
+      "image": "Note_1.png"
+    },
+    {
+      "step": 4,
+      "text": "Consent to CRIF Inquiry ,Click 'Agree'",    
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": " Confirm through OTP",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "Select desired Loan Amount from min/max allowed amount and desired Loan Tenor from min/max tenor , View settlement account ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "Click 'Calculate' to view the following:\na.  Installment Amount \nb. Loan Interest\nc. Contract amount & Click 'Apply' to proceed",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": "All loan details, charges, and terms are presented to the user, then the user clicks on \"View Loan Schedule\" to view monthly loan details, ticks the checkbox to agree to the terms and conditions, and clicks on \"Confirm\" to continue.",
+      "image": "step_8.png"
+    },
+    {
+      "step": 9,
+      "text": " View the Loan Contract,Tick the checkbox to confirm Loan Contract,Click on 'Approve Contract'",
+      "image": "step_9.png"
+    },
+    {
+      "step": 10,
+      "text":" Verify the Instant Loan through OTP",
+      "image": "step_10.png"
+    },
+    {
+      "step": 11,
+      "text": "Loan is disbursed",
+      "image": "step_11.png"
+    },
+    {
+      "step": 12,
+      "text": " View loan details and schedule through loans dashboard",
+      "image": "step_12.png"
+    }
+  ]
+}

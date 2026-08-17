@@ -1,0 +1,5 @@
+{
+  "tips": [
+    " OTP validation: \n a. If this is a new beneficiary, OTP will be sent to mobile number registered on core for validation. \n b. If existing beneficiary is selected, payment will be processed without OTP"
+  ]
+}

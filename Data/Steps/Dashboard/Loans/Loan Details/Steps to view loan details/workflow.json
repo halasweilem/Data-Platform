@@ -1,0 +1,16 @@
+{
+  "topic": "Loan Details",
+  "title": "Steps to view loan details",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on Loans dashboard",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Loan details will be clicked by default to display following details: \n a. Contract type / number\n b. Currency\n c. Next payment date / amount\n d. Interest rate\n e. Outstanding amount\n f. Maturity date\n g. Late payment charge \n h. Loan  tenor \n i. Disbursement date\n j. Contract amount",
+      "image": "step_2.png"
+    }
+  ]
+}

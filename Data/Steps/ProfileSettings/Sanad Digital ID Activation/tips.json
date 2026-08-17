@@ -1,0 +1,12 @@
+{
+  "tips": [
+    {
+      "title": "SANAD registration requirement",
+      "text": "Only SANAD-registered customers can activate ID online. If the customer is not registered, a message will be displayed directing them to register via the SANAD application."
+    },
+    {
+      "title": "Age requirement",
+      "text": "Only customers aged 18 years and above can use this feature."
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "topic": "Transfers",
+  "description": "Transfers Overview",
+  "features": [
+    {
+      "name": "Own Account Transfer ",
+      "details": [
+        " Process transfer between own accounts  "
+      ]
+    },
+    {
+      "name": "Transfer Within Bank ",
+      "details": [
+        "Process transfer to new beneficiaries within Capital Bank of Jordan ",
+        "Process transfer to existing beneficiaries within Capital Bank of Jordan "
+      ]
+    },
+    {
+      "name": "Local Fund Transfer ",
+      "details": [
+        "Process transfers to new Local beneficiaries ",
+        "Process transfers to existing beneficiaries ",
+        "Validate IBAN"
+      ]
+    },
+    {
+      "name": "Overseas Fund Transfer",
+      "details": [
+        "Process transfers to new overseas beneficiaries  ",
+        "Process  transfers to existing overseas beneficiaries "
+      ]
+    },
+    {
+      "name": "CliQ Transfers ",
+      "details": [
+        "Process transfers to new CliQ beneficiaries",
+        "Process transfer to exiting CliQ beneficiaries "
+      ]
+    }
+  ]
+}

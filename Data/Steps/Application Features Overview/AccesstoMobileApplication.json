@@ -1,0 +1,35 @@
+{
+  "section": "Application Features Overview",
+  "type": "Access to Mobile Application",
+  "services": [
+    {
+      "service": "Registration",
+      "description": [
+        "Registration feature used for existing bank customers with no access to Capital mobile applications.",
+        "Prerequisites: valid active debit card and card PIN.",
+        "New username will be created.",
+        "New password will be set.",
+        "Biometrics will be set."
+      ]
+    },
+    {
+      "service": "Login",
+      "description": [
+        "This feature will be used as a subsequent login using biometrics or personal PIN."
+      ]
+    },
+    {
+      "service": "Forget Username / Password flow",
+      "description": [
+        "This feature allows the user to retrieve username.",
+        "This feature allows the user to enter a new password."
+      ]
+    },
+    {
+      "service": "Reactivate User Access",
+      "description": [
+        "This feature will reactivate user’s credentials after no activity (receiving OTP) for 120 days."
+      ]
+    }
+  ]
+}

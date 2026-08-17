@@ -1,0 +1,31 @@
+{
+  "topic": "Own Account Transfers",
+  "title": "Steps to create Own Account Transfer",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to the mobile application, Land on accounts dashboard (account landed in the debit account number) and click Transfer",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": "Click on Own Account ",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select Credit Account ",
+      "image": "step_3.png"
+    },
+   {
+      "step": 4,
+      "text": "Enter amount and click Next  \n a. If credit amount currency is different than debit amount currency, customer can select payment currency from a drop-down list ",
+      "image":[ "step_4.png","step_4_a.png"]
+    },
+    {
+      "step": 5,
+      "text": "Enter description (optional field)  \n a. Confirm: proceed with transfer \n b. Back arrow to edit transfer details ",
+      "image": "step_5.png"
+    }
+  ]
+}

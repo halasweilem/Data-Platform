@@ -1,0 +1,31 @@
+{
+  "topic": "Access to Application",
+  "title": "Forget Username OR Password Flow",
+  "steps": [
+    {
+      "step": "1",
+      "text": "Login to mobile application",
+      "image": "step_1.png" 
+    },
+    {
+      "step": "2",
+      "text": "Click on forget password & Enter National ID and Customer ID",
+      "image": "step_2.png"
+    },
+    {
+      "step": "3",
+      "text": "Enter Debit Card number and card PIN",
+      "image": "step_3.png"
+    },
+    {
+      "step": "4",
+      "text": "Enter OTP",
+      "image": "step_4.png"
+    },
+    {
+      "step": "5",
+      "text": "Enter / Re-enter new password",
+      "image": "step_5.png"
+    }
+  ]
+}

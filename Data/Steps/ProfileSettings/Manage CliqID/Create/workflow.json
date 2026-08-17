@@ -1,0 +1,37 @@
+{
+  "topic": "CliqID",
+  "title": "Create",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Click on manage CliQ id .",
+      "image": "step_1.png"
+    },
+    {
+      "step": 2,
+      "text": "Click on (+) at the bottom right corner .",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Select default linked account.",
+      "image": null
+    },
+    {
+    "step": 4,
+    "text": "Select ID type by clicking on the radio button → Next.\n\na. Alias – enter alias.\n\nb. Mobile number – enter mobile number in the required format.",
+    "image": "step_4.png"
+    },
+
+     {
+    "step": 5,
+    "text": "From preview screen customer can: \n\na. Change default linked account number by using left / right arrows. \n\nb. Edit CliQ alias and/or mobile number. \n\nc. Accept disclaimer consent. ",
+    "image": null 
+    },
+    {
+      "step": 6,
+      "text": "Confirm ",
+      "image": "step_6.png"
+    }
+  ]
+}

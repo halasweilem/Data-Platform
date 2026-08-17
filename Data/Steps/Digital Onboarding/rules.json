@@ -1,0 +1,10 @@
+{
+  "Rules": [
+    "1.  Only allowed for Jordanians (residents and nonresidents) ",
+    "2.  If customer is not the beneficial owner of this account, process will not be processed and must visit the branch to open account. ",
+    "3.  Customers who answered FATCA questions (minimum one) as YES, their accounts will be created with Post no Debit / Credit posting restrictions until their details are verified by compliance team. ",
+    "4.  Customer who are either themselves or first degree related to PEP, their accounts will be created with Post no Debit / Credit posting restrictions until their details are verified by compliance team.  ",
+    "5.  Customer who didn’t pass facial recognition allowed percent will be asked to visit branch and cannot complete their digital onboarding flow digitally.  "
+
+  ]
+}

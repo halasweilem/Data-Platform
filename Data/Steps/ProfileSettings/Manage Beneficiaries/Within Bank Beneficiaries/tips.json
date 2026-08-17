@@ -1,0 +1,7 @@
+{
+  "tips": [
+    "1- IABN or account number at Capital bank can be used.",  
+    "2- Bank name, SWIFT code, bank country will be auto retrieved from account number.",  
+    "3- Beneficiaries are available by name entered with related abbreviations. "
+  ]
+}

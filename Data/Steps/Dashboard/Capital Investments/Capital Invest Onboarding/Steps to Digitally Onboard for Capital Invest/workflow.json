@@ -1,0 +1,81 @@
+{
+  "topic": "Capital Invest Onboarding",
+  "title": "Steps to digitally onboard for capital invest",
+  "steps": [
+    {
+      "step": 1,
+      "text": "Login to mobile application , Land on Investment dashboard ",
+      "image": null
+    },
+    {
+      "step": 2,
+      "text": " 2 options available: \n  a. “Link Account” with Capital Investments (already available) \n b. “Open Capital Invest Account” \n then  Click on “Open Capital Invest Account”",
+      "image": "step_2.png"
+    },
+    {
+      "step": 3,
+      "text": "Read The Instructions , then  Click Lets Get Started ",
+      "image": "step_3.png"
+    },
+    {
+      "step": 4,
+      "text":"User confirm email address \n\n NOTE: incase email is out of date customer will go to update email ",
+      "image": "step_4.png"
+    },
+    {
+      "step": 5,
+      "text": "User starts the account opening flow ",
+      "image": "step_5.png"
+    },
+    {
+      "step": 6,
+      "text": "User will check the 'Residential Details' \n a. County of Residence \n b. Governates \n c. City \n d. Area \n e. Building Name/Floor/Unit \n f. Street Name \n g. PO Box \n h. ZIP Code \n i. Home Landline No. \n j. Email Address ",
+      "image": "step_6.png"
+    },
+    {
+      "step": 7,
+      "text": "User will check the Employment Details \n a. Employment Status \n b. Occupation \n c. Employer Name \n d. Annual Income \n e. Employer Country \n f. Employer City ",
+      "image": "step_7.png"
+    },
+    {
+      "step": 8,
+      "text": " User will check Additional Details \n a. I am or any of my first degree relatives are a Politically Exposed Person (PEP) \n b. I am not the Sole Beneficiary of the Account \n c. I hold a US citizenship, I am a Green Card holder, I am subject to FATCA \n d. I have an additional nationality \n\n NOTE: If the answer is positive customer will be blocked from proceeding with opening the account via the app, but will be asked to open the account via CI website",
+      "image": "step_8.png"
+    },
+    {
+      "step": 9,
+      "text": " User will check Relationship Management  \n a. Are you an employee or board member of Capital Investment? \n b. Are you an employee or a board member of Capital Bank? \n c. Are you an employee or a board member of any Brokerage company \n d. What is the anticipated Annual amount of trading in JOD? \n e. Anticipated Annual Amount of Trading ",
+      "image": "step_9.png"
+    },
+    {
+      "step": 10,
+      "text": "User will check Account Details:\n\na. Type of Account\n- Brokerage\n- Fixed Income\n- Brokerage and Fixed Income\n\nb. Account Opening Reason\n- Trading Investment\n- IPO’s\n- Selling International Shares\n\nc. Preferred Brokerage Trading Region\n- Local\n- Regional\n- International\n- All Markets\n\nd. How did you hear about us\n- Capital Bank or Capital Investment Employees\n- Capital Bank or Capital Investment Clients\n- Social media\n- Advertising\n- Acquaintances and Friends",
+      "image": "step_10.png"
+    },
+    {
+      "step": 11,
+      "text": "User agrees to all T&Cs by ticking the checkboxes on each to proceed ", 
+      "image": "step_11.png"
+    },
+    {
+      "step": 12,
+      "text": "User Scanned front and back of National ID ",
+      "image": "step_12.png"
+    },
+    {
+      "step": 13,
+      "text": " User Verifies National ID captures info by ticking the checkbox  then clicks ‘Next’",
+      "image": "step_13.png"
+    },
+    {
+      "step": 14,
+      "text": "User enters an OTP correctly for final verification then  clicks ‘Next’ ",
+      "image": "step_14.png"
+    },
+    {
+      "step": 15,
+      "text": " Account is Opened Successfully so  User can download the application by clicking on ‘Download Capital Invest Trading’ and  User can be navigated by to dashboard by clicking on ‘Back to Dashboard’",
+      "image": "step_15.png"
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "title": "test",
+  "sections": [
+    {
+      "path": [
+        "test"
+      ],
+      "section": "test",
+      "section_title": "test",
+      "display_title": "test",
+      "content": "Tag: Personal\n\nItems:\n• gfd Eligibility criteria: gdfg Required documents: fgbdf Terms & conditions: dfhdf",
+      "images": [],
+      "language": "en",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tag: Personal"
+        },
+        {
+          "type": "bullet_list",
+          "label": "Items",
+          "items": [
+            "gfd Eligibility criteria: gdfg Required documents: fgbdf Terms & conditions: dfhdf"
+          ]
+        }
+      ]
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-test-582fa647",
+  "name": "test",
+  "source": {},
+  "content": [
+    {
+      "id": "section-test-dbf437c6",
+      "type": "section",
+      "title": "test",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "Tag: Personal"
+        },
+        {
+          "type": "bullet_list",
+          "label": "Items",
+          "items": [
+            "gfd Eligibility criteria: gdfg Required documents: fgbdf Terms & conditions: dfhdf"
+          ]
+        }
+      ],
+      "source": {
+        "images": [],
+        "language": "en"
+      }
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "test",
+    "children": [
+      {
+        "type": "section",
+        "title": "test",
+        "section_index": 0,
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "Tag: Personal"
+          },
+          {
+            "type": "bullet_list",
+            "label": "Items",
+            "items": [
+              "gfd Eligibility criteria: gdfg Required documents: fgbdf Terms & conditions: dfhdf"
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

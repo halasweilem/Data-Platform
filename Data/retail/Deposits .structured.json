@@ -1,0 +1,169 @@
+{
+  "title": "Deposits",
+  "sections": [
+    {
+      "content": "Classified as: CBoJ - Internal",
+      "content_blocks": [
+        {
+          "text": "Classified as: CBoJ - Internal",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Deposits",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "Deposits"
+      ],
+      "section": "page_1",
+      "section_title": "Deposits ",
+      "topic": "Deposits",
+      "variant": "content"
+    },
+    {
+      "content": "Deposits are secure savings solutions that allow customers to invest their funds for a fixed period while earning a guaranteed return. Customers can choose between receiving interest as regular monthly payments or receiving both the principal and accrued interest at maturity, depending on their financial needs. Deposits offer a safe and predictable way to grow savings, with fixed interest rates and flexible investment tenors, making them suitable for both customers seeking regular income and those saving towards future financial goals.",
+      "content_blocks": [
+        {
+          "text": "Deposits are secure savings solutions that allow customers to invest their funds for a fixed period while earning a guaranteed return. Customers can choose between receiving interest as regular monthly payments or receiving both the principal and accrued interest at maturity, depending on their financial needs. Deposits offer a safe and predictable way to grow savings, with fixed interest rates and flexible investment tenors, making them suitable for both customers seeking regular income and those saving towards future financial goals.",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Deposits",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "Deposits"
+      ],
+      "section": "Deposits",
+      "section_title": "Deposits  > Deposits",
+      "topic": "Deposits",
+      "variant": "content"
+    },
+    {
+      "content": "Benefits:\n• Guaranteed fixed interest rate for the selected tenor.\n• Safe and secure investment with predictable returns.\n• Flexible investment terms to suit different financial goals.\n• Choice of monthly interest payments or interest paid at maturity.\n• Helps customers grow their savings with minimal risk.",
+      "content_blocks": [
+        {
+          "items": [
+            "Guaranteed fixed interest rate for the selected tenor.",
+            "Safe and secure investment with predictable returns.",
+            "Flexible investment terms to suit different financial goals.",
+            "Choice of monthly interest payments or interest paid at maturity.",
+            "Helps customers grow their savings with minimal risk."
+          ],
+          "label": "Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Benefits",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "Deposits",
+        "Benefits"
+      ],
+      "section": "Benefits:",
+      "section_title": "Deposits  > Deposits > Deposits > Benefits:",
+      "topic": "Deposits",
+      "variant": "content"
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-deposits-46c6bcfb",
+  "name": "Deposits",
+  "source": {},
+  "content": [
+    {
+      "id": "paragraph-deposits-6466a42a",
+      "type": "paragraph",
+      "title": "Deposits",
+      "blocks": [
+        {
+          "text": "Classified as: CBoJ - Internal",
+          "type": "paragraph"
+        }
+      ],
+      "source": {
+        "page": 1,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "paragraph-deposits-333b7ffd",
+      "type": "paragraph",
+      "title": "Deposits",
+      "blocks": [
+        {
+          "text": "Deposits are secure savings solutions that allow customers to invest their funds for a fixed period while earning a guaranteed return. Customers can choose between receiving interest as regular monthly payments or receiving both the principal and accrued interest at maturity, depending on their financial needs. Deposits offer a safe and predictable way to grow savings, with fixed interest rates and flexible investment tenors, making them suitable for both customers seeking regular income and those saving towards future financial goals.",
+          "type": "paragraph"
+        }
+      ],
+      "source": {
+        "page": 1,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "bullet_list-benefits-f4358ed0",
+      "type": "bullet_list",
+      "title": "Benefits",
+      "blocks": [
+        {
+          "items": [
+            "Guaranteed fixed interest rate for the selected tenor.",
+            "Safe and secure investment with predictable returns.",
+            "Flexible investment terms to suit different financial goals.",
+            "Choice of monthly interest payments or interest paid at maturity.",
+            "Helps customers grow their savings with minimal risk."
+          ],
+          "label": "Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "source": {
+        "page": 1,
+        "images": [],
+        "language": "en"
+      }
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "Deposits",
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "Deposits",
+        "section_index": 1,
+        "blocks": [
+          {
+            "text": "Deposits are secure savings solutions that allow customers to invest their funds for a fixed period while earning a guaranteed return. Customers can choose between receiving interest as regular monthly payments or receiving both the principal and accrued interest at maturity, depending on their financial needs. Deposits offer a safe and predictable way to grow savings, with fixed interest rates and flexible investment tenors, making them suitable for both customers seeking regular income and those saving towards future financial goals.",
+            "type": "paragraph"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "title": "Benefits",
+        "section_index": 2,
+        "blocks": [
+          {
+            "items": [
+              "Guaranteed fixed interest rate for the selected tenor.",
+              "Safe and secure investment with predictable returns.",
+              "Flexible investment terms to suit different financial goals.",
+              "Choice of monthly interest payments or interest paid at maturity.",
+              "Helps customers grow their savings with minimal risk."
+            ],
+            "label": "Benefits",
+            "type": "bullet_list"
+          }
+        ]
+      }
+    ]
+  }
+}

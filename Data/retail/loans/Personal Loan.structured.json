@@ -1,0 +1,1919 @@
+{
+  "title": "Personal Loan",
+  "source": {
+    "type": "pdf",
+    "filename": "Personal Loan.pdf"
+  },
+  "sections": [
+    {
+      "topic": "Personal Loan Program",
+      "section": "Description",
+      "variant": "content",
+      "section_title": "Personal Loan > Description > Description",
+      "content": "The Personal Loan Program provides financing solutions tailored to different customer segments, including public sector employees, military and Jordan public security, retirees, and employees working in TML and non-TML private sector companies. The program is designed to meet customers’ personal financial needs through flexible lending terms based on income level, employment status, years of service, and repayment ability.",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Personal Loan",
+        "Description"
+      ],
+      "display_title": "Description",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Personal Loan Program provides financing solutions tailored to different customer segments, including public sector employees, military and Jordan public security, retirees, and employees working in TML and non-TML private sector companies. The program is designed to meet customers’ personal financial needs through flexible lending terms based on income level, employment status, years of service, and repayment ability."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "1. Target Segments",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 1. Target Segments",
+      "content": "The program is available for the following customer categories: • Public sector employees. • Military, Jordan public security, intelligence, and customs. • Civil and military retirees, as well as Social Security retirees. • Employees of TML private sector companies. • Employees of non-TML private sector companies.",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "1. Target Segments"
+      ],
+      "display_title": "1. Target Segments",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The program is available for the following customer categories",
+          "items": [
+            "Public sector employees.",
+            "Military, Jordan public security, intelligence, and customs.",
+            "Civil and military retirees, as well as Social Security retirees.",
+            "Employees of TML private sector companies.",
+            "Employees of non-TML private sector companies."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "2. Age Requirements",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 2. Age Requirements",
+      "content": "The minimum eligible age for applying is 24 years old, while the maximum age at the time of application is 65 years. In all cases, the customer’s age must not exceed 75 years by the end of the loan tenor.",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "2. Age Requirements"
+      ],
+      "display_title": "2. Age Requirements",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "The minimum eligible age for applying is 24 years old, while the maximum age at the time of application is 65 years. In all cases, the customer’s age must not exceed 75 years by the end of the loan tenor."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "3. Minimum Income Requirements",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 3. Minimum Income Requirements",
+      "content": "Minimum salary requirements vary according to the customer segment as follows: • Public Sector, Military, Jordan public security, intelligence, and customs &",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "3. Minimum Income Requirements"
+      ],
+      "display_title": "3. Minimum Income Requirements",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Minimum salary requirements vary according to the customer segment as follows",
+          "items": [
+            "Public Sector, Military, Jordan public security, intelligence, and customs &"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "TML Private Sector",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 3. Minimum Income Requirements > TML Private Sector",
+      "content": "o JOD 700 for new customers. o JOD 500 for existing customers who already have facilities with the bank, excluding credit cards.",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "3. Minimum Income Requirements",
+        "TML Private Sector"
+      ],
+      "display_title": "TML Private Sector",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "TML Private Sector",
+          "items": [
+            "JOD 700 for new customers.",
+            "JOD 500 for existing customers who already have facilities with the bank, excluding credit cards."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Retirees",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 3. Minimum Income Requirements > Retirees",
+      "content": "o JOD 700 for civil and military retirees. o JOD 500 for Social Security retirees.",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "3. Minimum Income Requirements",
+        "Retirees"
+      ],
+      "display_title": "Retirees",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Retirees",
+          "items": [
+            "JOD 700 for civil and military retirees.",
+            "JOD 500 for Social Security retirees."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Non-TML Private Sector",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 3. Minimum Income Requirements > Non-TML Private Sector",
+      "content": "o The salary subject to Social Security contributions must be more than JOD 1,000.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "3. Minimum Income Requirements",
+        "Non-TML Private Sector"
+      ],
+      "display_title": "Non-TML Private Sector",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "The salary subject to Social Security contributions must be more than JOD 1,000."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "4. Minimum Employment Period",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 4. Minimum Employment Period",
+      "content": "The minimum required employment period differs depending on the sector: • Public Sector: Minimum 6 months of service. o Teachers must be confirmed employees and registered with Social Security.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment Period"
+      ],
+      "display_title": "4. Minimum Employment Period",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The minimum required employment period differs depending on the sector",
+          "items": [
+            "Public Sector: Minimum 6 months of service. o Teachers must be confirmed employees and registered with Social Security."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Military & Jordan public security",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 4. Minimum Employment Period > Military & Jordan public security",
+      "content": "o General requirement: 12 months. o Army and Public Security employees: ▪ Minimum 3 years of service. ▪ First Lieutenants are exempted with only 1 year required.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment Period",
+        "Military & Jordan public security"
+      ],
+      "display_title": "Military & Jordan public security",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "o General requirement: 12 months. o Army and Public Security employees",
+          "items": [
+            "Minimum 3 years of service.",
+            "First Lieutenants are exempted with only 1 year required."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Retirees",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 4. Minimum Employment Period > Retirees",
+      "content": "o",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment Period",
+        "Retirees"
+      ],
+      "display_title": "Retirees",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "o"
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "TML Private Sector",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 4. Minimum Employment Period > TML Private Sector",
+      "content": "o Minimum 6 months of service.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment Period",
+        "TML Private Sector"
+      ],
+      "display_title": "TML Private Sector",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Minimum 6 months of service."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Non-TML Private Sector",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 4. Minimum Employment Period > Non-TML Private Sector",
+      "content": "o Minimum 12 months of service",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment Period",
+        "Non-TML Private Sector"
+      ],
+      "display_title": "Non-TML Private Sector",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Minimum 12 months of service"
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Public Sector & TML &Non TML private sector",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 5. Maximum Service and Retirement Conditions > Public Sector & TML &Non TML private sector",
+      "content": "The customer’s age must not exceed: • 60 years for males. • 55 years for females. This condition applies at the point when 50% of the loan tenor has elapsed.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "5. Maximum Service and Retirement Conditions",
+        "Public Sector & TML &Non TML private sector"
+      ],
+      "display_title": "Public Sector & TML &Non TML private sector",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The customer’s age must not exceed",
+          "items": [
+            "60 years for males.",
+            "55 years for females. This condition applies at the point when 50% of the loan tenor has elapsed."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Military & Jordan public security, intelligence, and customs",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 5. Maximum Service and Retirement Conditions > Military & Jordan public security, intelligence, and customs",
+      "content": "o Maximum 25 years of service for ranks below Lieutenant. o Maximum 30 years of service for ranks above Lieutenant.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "5. Maximum Service and Retirement Conditions",
+        "Military & Jordan public security, intelligence, and customs"
+      ],
+      "display_title": "Military & Jordan public security, intelligence, and customs",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Military & Jordan public security, intelligence, and customs",
+          "items": [
+            "Maximum 25 years of service for ranks below Lieutenant.",
+            "Maximum 30 years of service for ranks above Lieutenant."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Retirees",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 5. Maximum Service and Retirement Conditions > Retirees",
+      "content": "No service-period restrictions apply.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "5. Maximum Service and Retirement Conditions",
+        "Retirees"
+      ],
+      "display_title": "Retirees",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "No service-period restrictions apply."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "6. Excluded Professions",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 6. Excluded Professions",
+      "content": "The following job categories are excluded from financing eligibility: • Cleaners. • Office messengers. • Drivers. • Daily wage workers. • Municipality employees.",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "6. Excluded Professions"
+      ],
+      "display_title": "6. Excluded Professions",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The following job categories are excluded from financing eligibility",
+          "items": [
+            "Cleaners.",
+            "Office messengers.",
+            "Drivers.",
+            "Daily wage workers.",
+            "Municipality employees."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "7. Required Guarantees",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 7. Required Guarantees",
+      "content": "Customers are required to transfer their salary officially to the bank throughout the financing period.",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "7. Required Guarantees"
+      ],
+      "display_title": "7. Required Guarantees",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Customers are required to transfer their salary officially to the bank throughout the financing period."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Minimum financing tenor",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 8. Loan Tenor > Minimum financing tenor",
+      "content": "o 12 months, except for loans secured by cash collateral.",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "8. Loan Tenor",
+        "Minimum financing tenor"
+      ],
+      "display_title": "Minimum financing tenor",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "12 months, except for loans secured by cash collateral."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Maximum Loan Tenor",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 8. Loan Tenor > Maximum Loan Tenor",
+      "content": "o Military & Jordan public security, intelligence, and customs ▪ 7 years for customers with net salaries below JOD 1,000. ▪ 8 years for customers with net salaries above JOD 1,000. o Retirees & TML private sector ▪ 8 years o Non TML ▪ 7 years",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "8. Loan Tenor",
+        "Maximum Loan Tenor"
+      ],
+      "display_title": "Maximum Loan Tenor",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "o Military & Jordan public security, intelligence, and customs"
+        },
+        {
+          "type": "bullet_list",
+          "label": "Items",
+          "items": [
+            "7 years for customers with net salaries below JOD 1,000.",
+            "8 years for customers with net salaries above JOD 1,000. o Retirees & TML private sector",
+            "8 years o Non TML",
+            "7 years"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Minimum Loan Amount",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 9. Loan Amount > Minimum Loan Amount",
+      "content": "o New loan: JOD 2,000. o Top-up loan: JOD 1,000. For buyout loans, the additional financed amount must exceed the outstanding balance of the existing loan by at least JOD 1,000. This condition may be waived if the customer receives another loan or a credit card facility worth at least JOD 1,000.",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "9. Loan Amount",
+        "Minimum Loan Amount"
+      ],
+      "display_title": "Minimum Loan Amount",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Minimum Loan Amount",
+          "items": [
+            "New loan: JOD 2,000.",
+            "Top-up loan: JOD 1,000. For buyout loans, the additional financed amount must exceed the outstanding balance of the existing loan by at least JOD 1,000. This condition may be waived if the customer receives another loan or a credit card facility worth at least JOD 1,000."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Maximum Loan Amount",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 9. Loan Amount > Maximum Loan Amount",
+      "content": "The maximum financing amount depends on the customer segment: • Regular Segment o Up to 25 times the customer’s salary, Maximum limit: JOD 50,000. • Upper Regular Segment o Up to 35 times the customer’s salary, Maximum limit: JOD 70,000. • Select & Private Banking Segments o Up to 35 times the customer’s salary, Maximum limit: JOD 100,000.",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "9. Loan Amount",
+        "Maximum Loan Amount"
+      ],
+      "display_title": "Maximum Loan Amount",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The maximum financing amount depends on the customer segment",
+          "items": [
+            "Regular Segment o Up to 25 times the customer’s salary, Maximum limit: JOD 50,000.",
+            "Upper Regular Segment o Up to 35 times the customer’s salary, Maximum limit: JOD 70,000.",
+            "Select & Private Banking Segments o Up to 35 times the customer’s salary, Maximum limit: JOD 100,000."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "10. Debt Burden Ratio",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 10. Debt Burden Ratio",
+      "content": "The debt burden ratio is determined according to the customer’s net income:",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "10. Debt Burden Ratio"
+      ],
+      "display_title": "10. Debt Burden Ratio",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "The debt burden ratio is determined according to the customer’s net income:"
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Net Income: JOD 500 – 699",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 10. Debt Burden Ratio > Net Income: JOD 500 – 699",
+      "content": "o 40% for loans + 5% for credit cards for new customers. o 50% total liabilities for existing customers.",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "10. Debt Burden Ratio",
+        "Net Income: JOD 500 – 699"
+      ],
+      "display_title": "Net Income: JOD 500 – 699",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Net Income: JOD 500 – 699",
+          "items": [
+            "40% for loans + 5% for credit cards for new customers.",
+            "50% total liabilities for existing customers."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Net Income: JOD 700 – 1,999",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 10. Debt Burden Ratio > Net Income: JOD 700 – 1,999",
+      "content": "o Maximum 50% of total liabilities.",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "10. Debt Burden Ratio",
+        "Net Income: JOD 700 – 1,999"
+      ],
+      "display_title": "Net Income: JOD 700 – 1,999",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Maximum 50% of total liabilities."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Net Income: JOD 2,000 and Above",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 10. Debt Burden Ratio > Net Income: JOD 2,000 and Above",
+      "content": "o 50% for total liabilities + 5% for credit cards .",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "10. Debt Burden Ratio",
+        "Net Income: JOD 2,000 and Above"
+      ],
+      "display_title": "Net Income: JOD 2,000 and Above",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "50% for total liabilities + 5% for credit cards ."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "11. Maximum Number of Loans",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 11. Maximum Number of Loans",
+      "content": "Only one personal loan is allowed per customer.",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "11. Maximum Number of Loans"
+      ],
+      "display_title": "11. Maximum Number of Loans",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Only one personal loan is allowed per customer."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "New Loan Requirements",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 12. Required Documents > New Loan Requirements",
+      "content": "Customers must provide the following: • A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments). • Commitment letter and end-of-service transfer undertaking addressed to the bank. • Certified bank statement for the last 6 months. • Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments. • Social Security statement for all employees of Non TML companies, regardless of the employment period . • Buyout loans All the above documents in addition to the requirements below: • Clearance letter from the previous bank. • Conditional and final salary transfer undertaking.",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "12. Required Documents",
+        "New Loan Requirements"
+      ],
+      "display_title": "New Loan Requirements",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Customers must provide the following",
+          "items": [
+            "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).",
+            "Commitment letter and end-of-service transfer undertaking addressed to the bank.",
+            "Certified bank statement for the last 6 months.",
+            "Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments.",
+            "Social Security statement for all employees of Non TML companies, regardless of the employment period .",
+            "Buyout loans All the above documents in addition to the requirements below:",
+            "Clearance letter from the previous bank.",
+            "Conditional and final salary transfer undertaking."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Top-Up Loans",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 12. Required Documents > Top-Up Loans",
+      "content": "o A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).",
+      "language": "en",
+      "images": [],
+      "page": 5,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "12. Required Documents",
+        "Top-Up Loans"
+      ],
+      "display_title": "Top-Up Loans",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments)."
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Top-Up Loans",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 13. General conditions > Top-Up Loans",
+      "content": "The following conditions apply: • The maximum loan amount and the number of salary multiples are determined according to the customer segment • The customer must be committed to repayment and must have paid 12 consecutive installments on the existing loan, unless the debt burden ratio is below the maximum limit at the time of granting the loan • Customers with net salaries between JOD 500–699 must have paid at least 24 installments before becoming eligible for a top-up. • No salary continuity letter is required if the customer remains employed by the same company.",
+      "language": "en",
+      "images": [],
+      "page": 5,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "13. General conditions",
+        "Top-Up Loans"
+      ],
+      "display_title": "Top-Up Loans",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The following conditions apply",
+          "items": [
+            "The maximum loan amount and the number of salary multiples are determined according to the customer segment",
+            "The customer must be committed to repayment and must have paid 12 consecutive installments on the existing loan, unless the debt burden ratio is below the maximum limit at the time of granting the loan",
+            "Customers with net salaries between JOD 500–699 must have paid at least 24 installments before becoming eligible for a top-up.",
+            "No salary continuity letter is required if the customer remains employed by the same company."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "Buyout Loans",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 13. General conditions > Buyout Loans",
+      "content": "The bank may settle the customers’ liabilities with banks and financing companies under the following conditions: • Obligations from employers or government lending institutions are generally excluded, except for approved companies. • Internal obligations for approved companies may be settled provided that a salary deduction undertaking equal to 120% of the monthly installment is submitted. • A CRIF report showing the financing institution and outstanding balance is required. • Salary transfer undertakings and a clearance letter from the previous bank must also be submitted.",
+      "language": "en",
+      "images": [],
+      "page": 5,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "13. General conditions",
+        "Buyout Loans"
+      ],
+      "display_title": "Buyout Loans",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The bank may settle the customers’ liabilities with banks and financing companies under the following conditions",
+          "items": [
+            "Obligations from employers or government lending institutions are generally excluded, except for approved companies.",
+            "Internal obligations for approved companies may be settled provided that a salary deduction undertaking equal to 120% of the monthly installment is submitted.",
+            "A CRIF report showing the financing institution and outstanding balance is required.",
+            "Salary transfer undertakings and a clearance letter from the previous bank must also be submitted."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Personal Loan Program",
+      "section": "14. Credit Approval Validity",
+      "variant": "content",
+      "section_title": "Personal Loan > Terms and Conditions > 14. Credit Approval Validity",
+      "content": "The credit approval remains valid for a maximum period of 45 days, including the grace period granted to complete the loan procedures.",
+      "language": "en",
+      "images": [],
+      "page": 5,
+      "path": [
+        "Personal Loan",
+        "Terms and Conditions",
+        "14. Credit Approval Validity"
+      ],
+      "display_title": "14. Credit Approval Validity",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "The credit approval remains valid for a maximum period of 45 days, including the grace period granted to complete the loan procedures."
+        }
+      ]
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-personal-loan-3c2b05bb",
+  "name": "Personal Loan",
+  "content": [
+    {
+      "id": "paragraph-description-b729b857",
+      "type": "paragraph",
+      "title": "Description",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Personal Loan Program provides financing solutions tailored to different customer segments, including public sector employees, military and Jordan public security, retirees, and employees working in TML and non-TML private sector companies. The program is designed to meet customers’ personal financial needs through flexible lending terms based on income level, employment status, years of service, and repayment ability."
+        }
+      ],
+      "source": {
+        "page": 1,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "group-terms-and-conditions-f603051c",
+      "type": "group",
+      "title": "Terms and Conditions",
+      "children": [
+        {
+          "id": "bullet_list-1-target-segments-fabb7cd5",
+          "type": "bullet_list",
+          "title": "1. Target Segments",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "The program is available for the following customer categories",
+              "items": [
+                "Public sector employees.",
+                "Military, Jordan public security, intelligence, and customs.",
+                "Civil and military retirees, as well as Social Security retirees.",
+                "Employees of TML private sector companies.",
+                "Employees of non-TML private sector companies."
+              ]
+            }
+          ],
+          "source": {
+            "page": 1,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "paragraph-2-age-requirements-1d2ff152",
+          "type": "paragraph",
+          "title": "2. Age Requirements",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The minimum eligible age for applying is 24 years old, while the maximum age at the time of application is 65 years. In all cases, the customer’s age must not exceed 75 years by the end of the loan tenor."
+            }
+          ],
+          "source": {
+            "page": 1,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-3-minimum-income-requirements-e53b6fef",
+          "type": "bullet_list",
+          "title": "3. Minimum Income Requirements",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Minimum salary requirements vary according to the customer segment as follows",
+              "items": [
+                "Public Sector, Military, Jordan public security, intelligence, and customs &"
+              ]
+            }
+          ],
+          "source": {
+            "page": 1,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-3-minimum-income-requirements-e53b6fef",
+          "type": "group",
+          "title": "3. Minimum Income Requirements",
+          "children": [
+            {
+              "id": "bullet_list-tml-private-sector-4944b4af",
+              "type": "bullet_list",
+              "title": "TML Private Sector",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "TML Private Sector",
+                  "items": [
+                    "JOD 700 for new customers.",
+                    "JOD 500 for existing customers who already have facilities with the bank, excluding credit cards."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 1,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-retirees-90ca9fce",
+              "type": "bullet_list",
+              "title": "Retirees",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Retirees",
+                  "items": [
+                    "JOD 700 for civil and military retirees.",
+                    "JOD 500 for Social Security retirees."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 1,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-non-tml-private-sector-bc4f195d",
+              "type": "paragraph",
+              "title": "Non-TML Private Sector",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "The salary subject to Social Security contributions must be more than JOD 1,000."
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-4-minimum-employment-period-b6e9271b",
+          "type": "bullet_list",
+          "title": "4. Minimum Employment Period",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "The minimum required employment period differs depending on the sector",
+              "items": [
+                "Public Sector: Minimum 6 months of service. o Teachers must be confirmed employees and registered with Social Security."
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-4-minimum-employment-period-b6e9271b",
+          "type": "group",
+          "title": "4. Minimum Employment Period",
+          "children": [
+            {
+              "id": "bullet_list-military-jordan-public-security-5a41470a",
+              "type": "bullet_list",
+              "title": "Military & Jordan public security",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "o General requirement: 12 months. o Army and Public Security employees",
+                  "items": [
+                    "Minimum 3 years of service.",
+                    "First Lieutenants are exempted with only 1 year required."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-retirees-f3744354",
+              "type": "paragraph",
+              "title": "Retirees",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "o"
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-tml-private-sector-6c3234b0",
+              "type": "paragraph",
+              "title": "TML Private Sector",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Minimum 6 months of service."
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-non-tml-private-sector-e84db471",
+              "type": "paragraph",
+              "title": "Non-TML Private Sector",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Minimum 12 months of service"
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "group-5-maximum-service-and-retirement-conditions-4aa6ad2a",
+          "type": "group",
+          "title": "5. Maximum Service and Retirement Conditions",
+          "children": [
+            {
+              "id": "bullet_list-public-sector-tml-non-tml-private-sector-d27048fc",
+              "type": "bullet_list",
+              "title": "Public Sector & TML &Non TML private sector",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "The customer’s age must not exceed",
+                  "items": [
+                    "60 years for males.",
+                    "55 years for females. This condition applies at the point when 50% of the loan tenor has elapsed."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-military-jordan-public-security-intelligence-and-7d39177c",
+              "type": "bullet_list",
+              "title": "Military & Jordan public security, intelligence, and customs",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Military & Jordan public security, intelligence, and customs",
+                  "items": [
+                    "Maximum 25 years of service for ranks below Lieutenant.",
+                    "Maximum 30 years of service for ranks above Lieutenant."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-retirees-0720218c",
+              "type": "paragraph",
+              "title": "Retirees",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "No service-period restrictions apply."
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-6-excluded-professions-fd513f93",
+          "type": "bullet_list",
+          "title": "6. Excluded Professions",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "The following job categories are excluded from financing eligibility",
+              "items": [
+                "Cleaners.",
+                "Office messengers.",
+                "Drivers.",
+                "Daily wage workers.",
+                "Municipality employees."
+              ]
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "paragraph-7-required-guarantees-3a1a9363",
+          "type": "paragraph",
+          "title": "7. Required Guarantees",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Customers are required to transfer their salary officially to the bank throughout the financing period."
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-8-loan-tenor-92a11322",
+          "type": "group",
+          "title": "8. Loan Tenor",
+          "children": [
+            {
+              "id": "paragraph-minimum-financing-tenor-54861c10",
+              "type": "paragraph",
+              "title": "Minimum financing tenor",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "12 months, except for loans secured by cash collateral."
+                }
+              ],
+              "source": {
+                "page": 3,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "section-maximum-loan-tenor-8b6e4ac3",
+              "type": "section",
+              "title": "Maximum Loan Tenor",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "o Military & Jordan public security, intelligence, and customs"
+                },
+                {
+                  "type": "bullet_list",
+                  "label": "Items",
+                  "items": [
+                    "7 years for customers with net salaries below JOD 1,000.",
+                    "8 years for customers with net salaries above JOD 1,000. o Retirees & TML private sector",
+                    "8 years o Non TML",
+                    "7 years"
+                  ]
+                }
+              ],
+              "source": {
+                "page": 3,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "group-9-loan-amount-0bcd58e9",
+          "type": "group",
+          "title": "9. Loan Amount",
+          "children": [
+            {
+              "id": "bullet_list-minimum-loan-amount-e0c29416",
+              "type": "bullet_list",
+              "title": "Minimum Loan Amount",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Minimum Loan Amount",
+                  "items": [
+                    "New loan: JOD 2,000.",
+                    "Top-up loan: JOD 1,000. For buyout loans, the additional financed amount must exceed the outstanding balance of the existing loan by at least JOD 1,000. This condition may be waived if the customer receives another loan or a credit card facility worth at least JOD 1,000."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 3,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-maximum-loan-amount-7c241da8",
+              "type": "bullet_list",
+              "title": "Maximum Loan Amount",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "The maximum financing amount depends on the customer segment",
+                  "items": [
+                    "Regular Segment o Up to 25 times the customer’s salary, Maximum limit: JOD 50,000.",
+                    "Upper Regular Segment o Up to 35 times the customer’s salary, Maximum limit: JOD 70,000.",
+                    "Select & Private Banking Segments o Up to 35 times the customer’s salary, Maximum limit: JOD 100,000."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "paragraph-10-debt-burden-ratio-4fea8871",
+          "type": "paragraph",
+          "title": "10. Debt Burden Ratio",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The debt burden ratio is determined according to the customer’s net income:"
+            }
+          ],
+          "source": {
+            "page": 4,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-10-debt-burden-ratio-4fea8871",
+          "type": "group",
+          "title": "10. Debt Burden Ratio",
+          "children": [
+            {
+              "id": "bullet_list-net-income-jod-500-699-5be1563e",
+              "type": "bullet_list",
+              "title": "Net Income: JOD 500 – 699",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Net Income: JOD 500 – 699",
+                  "items": [
+                    "40% for loans + 5% for credit cards for new customers.",
+                    "50% total liabilities for existing customers."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-net-income-jod-700-1-999-c6017951",
+              "type": "paragraph",
+              "title": "Net Income: JOD 700 – 1,999",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Maximum 50% of total liabilities."
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-net-income-jod-2-000-and-above-bf0b6be2",
+              "type": "paragraph",
+              "title": "Net Income: JOD 2,000 and Above",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "50% for total liabilities + 5% for credit cards ."
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "paragraph-11-maximum-number-of-loans-4b8bd214",
+          "type": "paragraph",
+          "title": "11. Maximum Number of Loans",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Only one personal loan is allowed per customer."
+            }
+          ],
+          "source": {
+            "page": 4,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-12-required-documents-f49ebcdd",
+          "type": "group",
+          "title": "12. Required Documents",
+          "children": [
+            {
+              "id": "bullet_list-new-loan-requirements-3dece217",
+              "type": "bullet_list",
+              "title": "New Loan Requirements",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Customers must provide the following",
+                  "items": [
+                    "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).",
+                    "Commitment letter and end-of-service transfer undertaking addressed to the bank.",
+                    "Certified bank statement for the last 6 months.",
+                    "Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments.",
+                    "Social Security statement for all employees of Non TML companies, regardless of the employment period .",
+                    "Buyout loans All the above documents in addition to the requirements below:",
+                    "Clearance letter from the previous bank.",
+                    "Conditional and final salary transfer undertaking."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-top-up-loans-22bf4c23",
+              "type": "paragraph",
+              "title": "Top-Up Loans",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments)."
+                }
+              ],
+              "source": {
+                "page": 5,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "group-13-general-conditions-ba400817",
+          "type": "group",
+          "title": "13. General conditions",
+          "children": [
+            {
+              "id": "bullet_list-top-up-loans-c00ee055",
+              "type": "bullet_list",
+              "title": "Top-Up Loans",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "The following conditions apply",
+                  "items": [
+                    "The maximum loan amount and the number of salary multiples are determined according to the customer segment",
+                    "The customer must be committed to repayment and must have paid 12 consecutive installments on the existing loan, unless the debt burden ratio is below the maximum limit at the time of granting the loan",
+                    "Customers with net salaries between JOD 500–699 must have paid at least 24 installments before becoming eligible for a top-up.",
+                    "No salary continuity letter is required if the customer remains employed by the same company."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 5,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-buyout-loans-0499e748",
+              "type": "bullet_list",
+              "title": "Buyout Loans",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "The bank may settle the customers’ liabilities with banks and financing companies under the following conditions",
+                  "items": [
+                    "Obligations from employers or government lending institutions are generally excluded, except for approved companies.",
+                    "Internal obligations for approved companies may be settled provided that a salary deduction undertaking equal to 120% of the monthly installment is submitted.",
+                    "A CRIF report showing the financing institution and outstanding balance is required.",
+                    "Salary transfer undertakings and a clearance letter from the previous bank must also be submitted."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 5,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "paragraph-14-credit-approval-validity-b7c5d098",
+          "type": "paragraph",
+          "title": "14. Credit Approval Validity",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The credit approval remains valid for a maximum period of 45 days, including the grace period granted to complete the loan procedures."
+            }
+          ],
+          "source": {
+            "page": 5,
+            "images": [],
+            "language": "en"
+          }
+        }
+      ]
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "Personal Loan",
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "Description",
+        "section_index": 0,
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Personal Loan Program provides financing solutions tailored to different customer segments, including public sector employees, military and Jordan public security, retirees, and employees working in TML and non-TML private sector companies. The program is designed to meet customers’ personal financial needs through flexible lending terms based on income level, employment status, years of service, and repayment ability."
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Terms and Conditions",
+        "children": [
+          {
+            "type": "bullet_list",
+            "title": "1. Target Segments",
+            "section_index": 1,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "The program is available for the following customer categories",
+                "items": [
+                  "Public sector employees.",
+                  "Military, Jordan public security, intelligence, and customs.",
+                  "Civil and military retirees, as well as Social Security retirees.",
+                  "Employees of TML private sector companies.",
+                  "Employees of non-TML private sector companies."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "2. Age Requirements",
+            "section_index": 2,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "The minimum eligible age for applying is 24 years old, while the maximum age at the time of application is 65 years. In all cases, the customer’s age must not exceed 75 years by the end of the loan tenor."
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "3. Minimum Income Requirements",
+            "section_index": 3,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Minimum salary requirements vary according to the customer segment as follows",
+                "items": [
+                  "Public Sector, Military, Jordan public security, intelligence, and customs &"
+                ]
+              }
+            ],
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "TML Private Sector",
+                "section_index": 4,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "TML Private Sector",
+                    "items": [
+                      "JOD 700 for new customers.",
+                      "JOD 500 for existing customers who already have facilities with the bank, excluding credit cards."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Retirees",
+                "section_index": 5,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Retirees",
+                    "items": [
+                      "JOD 700 for civil and military retirees.",
+                      "JOD 500 for Social Security retirees."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Non-TML Private Sector",
+                "section_index": 6,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "The salary subject to Social Security contributions must be more than JOD 1,000."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "4. Minimum Employment Period",
+            "section_index": 7,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "The minimum required employment period differs depending on the sector",
+                "items": [
+                  "Public Sector: Minimum 6 months of service. o Teachers must be confirmed employees and registered with Social Security."
+                ]
+              }
+            ],
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "Military & Jordan public security",
+                "section_index": 8,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "o General requirement: 12 months. o Army and Public Security employees",
+                    "items": [
+                      "Minimum 3 years of service.",
+                      "First Lieutenants are exempted with only 1 year required."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Retirees",
+                "section_index": 9,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "o"
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "TML Private Sector",
+                "section_index": 10,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Minimum 6 months of service."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Non-TML Private Sector",
+                "section_index": 11,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Minimum 12 months of service"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "5. Maximum Service and Retirement Conditions",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "Public Sector & TML &Non TML private sector",
+                "section_index": 12,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "The customer’s age must not exceed",
+                    "items": [
+                      "60 years for males.",
+                      "55 years for females. This condition applies at the point when 50% of the loan tenor has elapsed."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Military & Jordan public security, intelligence, and customs",
+                "section_index": 13,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Military & Jordan public security, intelligence, and customs",
+                    "items": [
+                      "Maximum 25 years of service for ranks below Lieutenant.",
+                      "Maximum 30 years of service for ranks above Lieutenant."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Retirees",
+                "section_index": 14,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "No service-period restrictions apply."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "6. Excluded Professions",
+            "section_index": 15,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "The following job categories are excluded from financing eligibility",
+                "items": [
+                  "Cleaners.",
+                  "Office messengers.",
+                  "Drivers.",
+                  "Daily wage workers.",
+                  "Municipality employees."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "7. Required Guarantees",
+            "section_index": 16,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Customers are required to transfer their salary officially to the bank throughout the financing period."
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "8. Loan Tenor",
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "Minimum financing tenor",
+                "section_index": 17,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "12 months, except for loans secured by cash collateral."
+                  }
+                ]
+              },
+              {
+                "type": "section",
+                "title": "Maximum Loan Tenor",
+                "section_index": 18,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "o Military & Jordan public security, intelligence, and customs"
+                  },
+                  {
+                    "type": "bullet_list",
+                    "label": "Items",
+                    "items": [
+                      "7 years for customers with net salaries below JOD 1,000.",
+                      "8 years for customers with net salaries above JOD 1,000. o Retirees & TML private sector",
+                      "8 years o Non TML",
+                      "7 years"
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "9. Loan Amount",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "Minimum Loan Amount",
+                "section_index": 19,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Minimum Loan Amount",
+                    "items": [
+                      "New loan: JOD 2,000.",
+                      "Top-up loan: JOD 1,000. For buyout loans, the additional financed amount must exceed the outstanding balance of the existing loan by at least JOD 1,000. This condition may be waived if the customer receives another loan or a credit card facility worth at least JOD 1,000."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Maximum Loan Amount",
+                "section_index": 20,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "The maximum financing amount depends on the customer segment",
+                    "items": [
+                      "Regular Segment o Up to 25 times the customer’s salary, Maximum limit: JOD 50,000.",
+                      "Upper Regular Segment o Up to 35 times the customer’s salary, Maximum limit: JOD 70,000.",
+                      "Select & Private Banking Segments o Up to 35 times the customer’s salary, Maximum limit: JOD 100,000."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "10. Debt Burden Ratio",
+            "section_index": 21,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "The debt burden ratio is determined according to the customer’s net income:"
+              }
+            ],
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "Net Income: JOD 500 – 699",
+                "section_index": 22,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Net Income: JOD 500 – 699",
+                    "items": [
+                      "40% for loans + 5% for credit cards for new customers.",
+                      "50% total liabilities for existing customers."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Net Income: JOD 700 – 1,999",
+                "section_index": 23,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Maximum 50% of total liabilities."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Net Income: JOD 2,000 and Above",
+                "section_index": 24,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "50% for total liabilities + 5% for credit cards ."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "11. Maximum Number of Loans",
+            "section_index": 25,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Only one personal loan is allowed per customer."
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "12. Required Documents",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "New Loan Requirements",
+                "section_index": 26,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Customers must provide the following",
+                    "items": [
+                      "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).",
+                      "Commitment letter and end-of-service transfer undertaking addressed to the bank.",
+                      "Certified bank statement for the last 6 months.",
+                      "Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments.",
+                      "Social Security statement for all employees of Non TML companies, regardless of the employment period .",
+                      "Buyout loans All the above documents in addition to the requirements below:",
+                      "Clearance letter from the previous bank.",
+                      "Conditional and final salary transfer undertaking."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Top-Up Loans",
+                "section_index": 27,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments)."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "13. General conditions",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "Top-Up Loans",
+                "section_index": 28,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "The following conditions apply",
+                    "items": [
+                      "The maximum loan amount and the number of salary multiples are determined according to the customer segment",
+                      "The customer must be committed to repayment and must have paid 12 consecutive installments on the existing loan, unless the debt burden ratio is below the maximum limit at the time of granting the loan",
+                      "Customers with net salaries between JOD 500–699 must have paid at least 24 installments before becoming eligible for a top-up.",
+                      "No salary continuity letter is required if the customer remains employed by the same company."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Buyout Loans",
+                "section_index": 29,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "The bank may settle the customers’ liabilities with banks and financing companies under the following conditions",
+                    "items": [
+                      "Obligations from employers or government lending institutions are generally excluded, except for approved companies.",
+                      "Internal obligations for approved companies may be settled provided that a salary deduction undertaking equal to 120% of the monthly installment is submitted.",
+                      "A CRIF report showing the financing institution and outstanding balance is required.",
+                      "Salary transfer undertakings and a clearance letter from the previous bank must also be submitted."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "14. Credit Approval Validity",
+            "section_index": 30,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "The credit approval remains valid for a maximum period of 45 days, including the grace period granted to complete the loan procedures."
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

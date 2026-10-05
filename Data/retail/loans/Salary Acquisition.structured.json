@@ -1,0 +1,801 @@
+{
+  "title": "Salary Acquisition",
+  "source": {
+    "type": "pdf",
+    "filename": "Salary Acquisition.pdf"
+  },
+  "sections": [
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "1. Sector Categories",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 1. Sector Categories",
+      "content": "• Public Sector, Security Forces, Military, Intelligence Services, Customs • Retirees • Approved Private Sector • Non-Approved Private Sector",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "1. Sector Categories"
+      ],
+      "display_title": "1. Sector Categories",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "1. Sector Categories",
+          "items": [
+            "Public Sector, Security Forces, Military, Intelligence Services, Customs",
+            "Retirees",
+            "Approved Private Sector",
+            "Non-Approved Private Sector"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "2. Age Criteria",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 2. Age Criteria",
+      "content": "• Minimum age: 25 years • Maximum age: 50 years",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "2. Age Criteria"
+      ],
+      "display_title": "2. Age Criteria",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "2. Age Criteria",
+          "items": [
+            "Minimum age: 25 years",
+            "Maximum age: 50 years"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "3. Minimum Income",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 3. Minimum Income",
+      "content": "• 1,000 JOD minimum salary • No maximum limit",
+      "language": "en",
+      "images": [],
+      "page": 1,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "3. Minimum Income"
+      ],
+      "display_title": "3. Minimum Income",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "3. Minimum Income",
+          "items": [
+            "1,000 JOD minimum salary",
+            "No maximum limit"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "4. Minimum Employment Period",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 4. Minimum Employment Period",
+      "content": "• Public sector: 6 months • Retirees: one-month salary receipt condition • Approved private sector: 6 months • Non-approved private sector: 24 months",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "4. Minimum Employment Period"
+      ],
+      "display_title": "4. Minimum Employment Period",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "4. Minimum Employment Period",
+          "items": [
+            "Public sector: 6 months",
+            "Retirees: one-month salary receipt condition",
+            "Approved private sector: 6 months",
+            "Non-approved private sector: 24 months"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "5. Job Restrictions",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 5. Job Restrictions",
+      "content": "Excluded roles: • Service employees (e.g., cleaners, messengers, drivers, etc.) • Municipal workers • Daily wage workers",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "5. Job Restrictions"
+      ],
+      "display_title": "5. Job Restrictions",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Excluded roles",
+          "items": [
+            "Service employees (e.g., cleaners, messengers, drivers, etc.)",
+            "Municipal workers",
+            "Daily wage workers"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "6. Incentives (Cash Bonus)",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 6. Incentives (Cash Bonus)",
+      "content": "Based on net salary: Net Salary Range Cash Reward 1,000 – 2,999 JOD 250 JOD 3,000 – 11,999 JOD 750 JOD 12,000+ JOD 2,000 JOD • Bonus is doubled if the customer obtains a loan equal to at least 10 times the salary for customers with a net salary ranging from 1,000 JOD to 11,999 JOD only .",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "6. Incentives (Cash Bonus)"
+      ],
+      "display_title": "6. Incentives (Cash Bonus)",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Based on net salary: Net Salary Range Cash Reward 1,000 – 2,999 JOD 250 JOD 3,000 – 11,999 JOD 750 JOD 12,000+ JOD 2,000 JOD"
+        },
+        {
+          "type": "bullet_list",
+          "label": "Items",
+          "items": [
+            "Bonus is doubled if the customer obtains a loan equal to at least 10 times the salary for customers with a net salary ranging from 1,000 JOD to 11,999 JOD only ."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "7. Commitment Period",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 7. Commitment Period",
+      "content": "• Customer must commit to salary transfer for at least 3 years . • If salary transfer stops during this period: o The bank has the right to reclaim the full cash bonus.",
+      "language": "en",
+      "images": [],
+      "page": 2,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "7. Commitment Period"
+      ],
+      "display_title": "7. Commitment Period",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "7. Commitment Period",
+          "items": [
+            "Customer must commit to salary transfer for at least 3 years .",
+            "If salary transfer stops during this period: o The bank has the right to reclaim the full cash bonus."
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "8. Cash Bonus Disbursement Method",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 8. Cash Bonus Disbursement Method",
+      "content": "• Bonus is paid via: o Issuing a credit card with a salary-based limit o Crediting the bonus amount to the customer’s credit card account after conditions are met",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "8. Cash Bonus Disbursement Method"
+      ],
+      "display_title": "8. Cash Bonus Disbursement Method",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "8. Cash Bonus Disbursement Method",
+          "items": [
+            "Bonus is paid via: o Issuing a credit card with a salary-based limit o Crediting the bonus amount to the customer’s credit card account after conditions are met"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "9. Credit Card Limit",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 9. Credit Card Limit",
+      "content": "• Based on salary • Maximum limit: 5,000 JOD • Total obligations must not exceed 50% debt burden • If higher limit is requested: o Full credit card documentation is required according to card program policies",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "9. Credit Card Limit"
+      ],
+      "display_title": "9. Credit Card Limit",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "9. Credit Card Limit",
+          "items": [
+            "Based on salary",
+            "Maximum limit: 5,000 JOD",
+            "Total obligations must not exceed 50% debt burden",
+            "If higher limit is requested: o Full credit card documentation is required according to card program policies"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "10. Required Documents",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 10. Required Documents",
+      "content": "• Salary transfer undertaking + end-of-service benefits assignment (approved bank format) • Latest salary slip (last month) • Social Security statement (for non-approved companies)",
+      "language": "en",
+      "images": [],
+      "page": 3,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "10. Required Documents"
+      ],
+      "display_title": "10. Required Documents",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "10. Required Documents",
+          "items": [
+            "Salary transfer undertaking + end-of-service benefits assignment (approved bank format)",
+            "Latest salary slip (last month)",
+            "Social Security statement (for non-approved companies)"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "11. Program Conditions",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 11. Program Conditions",
+      "content": "• Customer must sign a 3-year salary transfer commitment • Bonus is only paid after receiving a minimum salary of 1,000 JOD • Program applies only to new salary transfer customers o Existing salary-transfer customers are excluded • No bonus doubling for: o Cash collateral loans only o Loans less than 10x salary • Excluded categories: o Retirement salary beneficiaries (heirs) o NGO employees",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "11. Program Conditions"
+      ],
+      "display_title": "11. Program Conditions",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "11. Program Conditions",
+          "items": [
+            "Customer must sign a 3-year salary transfer commitment",
+            "Bonus is only paid after receiving a minimum salary of 1,000 JOD",
+            "Program applies only to new salary transfer customers o Existing salary-transfer customers are excluded",
+            "No bonus doubling for: o Cash collateral loans only o Loans less than 10x salary",
+            "Excluded categories: o Retirement salary beneficiaries (heirs) o NGO employees"
+          ]
+        }
+      ]
+    },
+    {
+      "topic": "Salary Acquisition Program",
+      "section": "12. Campaign Duration",
+      "variant": "content",
+      "section_title": "Salary Acquisition > Terms and Conditions > 12. Campaign Duration",
+      "content": "• Valid until the end of 2026",
+      "language": "en",
+      "images": [],
+      "page": 4,
+      "path": [
+        "Salary Acquisition",
+        "Terms and Conditions",
+        "12. Campaign Duration"
+      ],
+      "display_title": "12. Campaign Duration",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "12. Campaign Duration",
+          "items": [
+            "Valid until the end of 2026"
+          ]
+        }
+      ]
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-salary-acquisition-f8f410f4",
+  "name": "Salary Acquisition",
+  "content": [
+    {
+      "id": "group-terms-and-conditions-7732ab2c",
+      "type": "group",
+      "title": "Terms and Conditions",
+      "children": [
+        {
+          "id": "bullet_list-1-sector-categories-5ca7b926",
+          "type": "bullet_list",
+          "title": "1. Sector Categories",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "1. Sector Categories",
+              "items": [
+                "Public Sector, Security Forces, Military, Intelligence Services, Customs",
+                "Retirees",
+                "Approved Private Sector",
+                "Non-Approved Private Sector"
+              ]
+            }
+          ],
+          "source": {
+            "page": 1,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-2-age-criteria-bafdc483",
+          "type": "bullet_list",
+          "title": "2. Age Criteria",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "2. Age Criteria",
+              "items": [
+                "Minimum age: 25 years",
+                "Maximum age: 50 years"
+              ]
+            }
+          ],
+          "source": {
+            "page": 1,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-3-minimum-income-ae964fd3",
+          "type": "bullet_list",
+          "title": "3. Minimum Income",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "3. Minimum Income",
+              "items": [
+                "1,000 JOD minimum salary",
+                "No maximum limit"
+              ]
+            }
+          ],
+          "source": {
+            "page": 1,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-4-minimum-employment-period-b0188daf",
+          "type": "bullet_list",
+          "title": "4. Minimum Employment Period",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "4. Minimum Employment Period",
+              "items": [
+                "Public sector: 6 months",
+                "Retirees: one-month salary receipt condition",
+                "Approved private sector: 6 months",
+                "Non-approved private sector: 24 months"
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-5-job-restrictions-5f562897",
+          "type": "bullet_list",
+          "title": "5. Job Restrictions",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Excluded roles",
+              "items": [
+                "Service employees (e.g., cleaners, messengers, drivers, etc.)",
+                "Municipal workers",
+                "Daily wage workers"
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "section-6-incentives-cash-bonus-1b2d1557",
+          "type": "section",
+          "title": "6. Incentives (Cash Bonus)",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "Based on net salary: Net Salary Range Cash Reward 1,000 – 2,999 JOD 250 JOD 3,000 – 11,999 JOD 750 JOD 12,000+ JOD 2,000 JOD"
+            },
+            {
+              "type": "bullet_list",
+              "label": "Items",
+              "items": [
+                "Bonus is doubled if the customer obtains a loan equal to at least 10 times the salary for customers with a net salary ranging from 1,000 JOD to 11,999 JOD only ."
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-7-commitment-period-49df405f",
+          "type": "bullet_list",
+          "title": "7. Commitment Period",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "7. Commitment Period",
+              "items": [
+                "Customer must commit to salary transfer for at least 3 years .",
+                "If salary transfer stops during this period: o The bank has the right to reclaim the full cash bonus."
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-8-cash-bonus-disbursement-method-5ae15ff1",
+          "type": "bullet_list",
+          "title": "8. Cash Bonus Disbursement Method",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "8. Cash Bonus Disbursement Method",
+              "items": [
+                "Bonus is paid via: o Issuing a credit card with a salary-based limit o Crediting the bonus amount to the customer’s credit card account after conditions are met"
+              ]
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-9-credit-card-limit-cc1a4608",
+          "type": "bullet_list",
+          "title": "9. Credit Card Limit",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "9. Credit Card Limit",
+              "items": [
+                "Based on salary",
+                "Maximum limit: 5,000 JOD",
+                "Total obligations must not exceed 50% debt burden",
+                "If higher limit is requested: o Full credit card documentation is required according to card program policies"
+              ]
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-10-required-documents-c1ddfc49",
+          "type": "bullet_list",
+          "title": "10. Required Documents",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "10. Required Documents",
+              "items": [
+                "Salary transfer undertaking + end-of-service benefits assignment (approved bank format)",
+                "Latest salary slip (last month)",
+                "Social Security statement (for non-approved companies)"
+              ]
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-11-program-conditions-5a601b06",
+          "type": "bullet_list",
+          "title": "11. Program Conditions",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "11. Program Conditions",
+              "items": [
+                "Customer must sign a 3-year salary transfer commitment",
+                "Bonus is only paid after receiving a minimum salary of 1,000 JOD",
+                "Program applies only to new salary transfer customers o Existing salary-transfer customers are excluded",
+                "No bonus doubling for: o Cash collateral loans only o Loans less than 10x salary",
+                "Excluded categories: o Retirement salary beneficiaries (heirs) o NGO employees"
+              ]
+            }
+          ],
+          "source": {
+            "page": 4,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-12-campaign-duration-d1c43dd7",
+          "type": "bullet_list",
+          "title": "12. Campaign Duration",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "12. Campaign Duration",
+              "items": [
+                "Valid until the end of 2026"
+              ]
+            }
+          ],
+          "source": {
+            "page": 4,
+            "images": [],
+            "language": "en"
+          }
+        }
+      ]
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "Salary Acquisition",
+    "children": [
+      {
+        "type": "category",
+        "title": "Terms and Conditions",
+        "children": [
+          {
+            "type": "bullet_list",
+            "title": "1. Sector Categories",
+            "section_index": 0,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "1. Sector Categories",
+                "items": [
+                  "Public Sector, Security Forces, Military, Intelligence Services, Customs",
+                  "Retirees",
+                  "Approved Private Sector",
+                  "Non-Approved Private Sector"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "2. Age Criteria",
+            "section_index": 1,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "2. Age Criteria",
+                "items": [
+                  "Minimum age: 25 years",
+                  "Maximum age: 50 years"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "3. Minimum Income",
+            "section_index": 2,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "3. Minimum Income",
+                "items": [
+                  "1,000 JOD minimum salary",
+                  "No maximum limit"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "4. Minimum Employment Period",
+            "section_index": 3,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "4. Minimum Employment Period",
+                "items": [
+                  "Public sector: 6 months",
+                  "Retirees: one-month salary receipt condition",
+                  "Approved private sector: 6 months",
+                  "Non-approved private sector: 24 months"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "5. Job Restrictions",
+            "section_index": 4,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Excluded roles",
+                "items": [
+                  "Service employees (e.g., cleaners, messengers, drivers, etc.)",
+                  "Municipal workers",
+                  "Daily wage workers"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "section",
+            "title": "6. Incentives (Cash Bonus)",
+            "section_index": 5,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "Based on net salary: Net Salary Range Cash Reward 1,000 – 2,999 JOD 250 JOD 3,000 – 11,999 JOD 750 JOD 12,000+ JOD 2,000 JOD"
+              },
+              {
+                "type": "bullet_list",
+                "label": "Items",
+                "items": [
+                  "Bonus is doubled if the customer obtains a loan equal to at least 10 times the salary for customers with a net salary ranging from 1,000 JOD to 11,999 JOD only ."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "7. Commitment Period",
+            "section_index": 6,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "7. Commitment Period",
+                "items": [
+                  "Customer must commit to salary transfer for at least 3 years .",
+                  "If salary transfer stops during this period: o The bank has the right to reclaim the full cash bonus."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "8. Cash Bonus Disbursement Method",
+            "section_index": 7,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "8. Cash Bonus Disbursement Method",
+                "items": [
+                  "Bonus is paid via: o Issuing a credit card with a salary-based limit o Crediting the bonus amount to the customer’s credit card account after conditions are met"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "9. Credit Card Limit",
+            "section_index": 8,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "9. Credit Card Limit",
+                "items": [
+                  "Based on salary",
+                  "Maximum limit: 5,000 JOD",
+                  "Total obligations must not exceed 50% debt burden",
+                  "If higher limit is requested: o Full credit card documentation is required according to card program policies"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "10. Required Documents",
+            "section_index": 9,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "10. Required Documents",
+                "items": [
+                  "Salary transfer undertaking + end-of-service benefits assignment (approved bank format)",
+                  "Latest salary slip (last month)",
+                  "Social Security statement (for non-approved companies)"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "11. Program Conditions",
+            "section_index": 10,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "11. Program Conditions",
+                "items": [
+                  "Customer must sign a 3-year salary transfer commitment",
+                  "Bonus is only paid after receiving a minimum salary of 1,000 JOD",
+                  "Program applies only to new salary transfer customers o Existing salary-transfer customers are excluded",
+                  "No bonus doubling for: o Cash collateral loans only o Loans less than 10x salary",
+                  "Excluded categories: o Retirement salary beneficiaries (heirs) o NGO employees"
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "12. Campaign Duration",
+            "section_index": 11,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "12. Campaign Duration",
+                "items": [
+                  "Valid until the end of 2026"
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

@@ -1,66 +1,112 @@
 {
-  "topic": "E-Vouchers",
-  "title": "Steps to Purchase an E-Voucher",
+  "login_stage": null,
   "steps": [
     {
+      "image": null,
       "step": 1,
-      "text": "Log in to the mobile application",
-      "image": null 
+      "text": "Log in to the mobile application"
     },
     {
+      "image": "step_2.png",
       "step": 2,
-      "text": "Navigate to the main dashboard and select the 'E-Voucher' section by tapping the icon. ",
-      "image": "step_2.png"
+      "text": "Navigate to the main dashboard and select the 'E-Voucher' section by tapping the icon. "
     },
     {
+      "image": "step_3.png",
       "step": 3,
-      "text": "Browse available categories such as Home & Kitchen, Electronics & Mobile, etc. ",
-      "image": "step_3.png"
+      "text": "Browse available categories such as Home & Kitchen, Electronics & Mobile, etc. "
     },
     {
+      "image": null,
       "step": 4,
-      "text": "Select a category to view vouchers within it.",
-      "image": null
+      "text": "Select a category to view vouchers within it."
     },
     {
+      "image": "step_5.png",
       "step": 5,
-      "text": "Filtering Options: \n 1. Tap the filter icon at the bottom right corner. \n 2. Adjust the filter options: \n o Category: Choose the desired category. \n o Region: Select your preferred region. \n o Min/Max Value: Set the price range. \n 3. Tap Search to view filtered results.   ",
-      "image": "step_5.png"
+      "text": "Filtering Options: \n 1. Tap the filter icon at the bottom right corner. \n 2. Adjust the filter options: \n o Category: Choose the desired category. \n o Region: Select your preferred region. \n o Min/Max Value: Set the price range. \n 3. Tap Search to view filtered results.   "
     },
     {
+      "image": "step_6.png",
       "step": 6,
-      "text": "Selecting and Customizing the Voucher : \n 1. Browse the displayed vouchers.\n  2. Tap on the desired voucher (e.g., PlayStation). \n 3. Select the region and voucher amount (e.g., 5 USD for the United States). \n 4. Tap Next to proceed. ",
-      "image": "step_6.png"
+      "text": "Selecting and Customizing the Voucher : \n 1. Browse the displayed vouchers.\n  2. Tap on the desired voucher (e.g., PlayStation). \n 3. Select the region and voucher amount (e.g., 5 USD for the United States). \n 4. Tap Next to proceed. "
     },
     {
+      "image": null,
       "step": 7,
-      "text": "Confirming the Purchase \n 1. Review the voucher details: ( - Voucher Name ,  - Amount , - Region ) \n  2. Tap Purchase Now to proceed to payment.",
-      "image": null
+      "text": "Confirming the Purchase \n 1. Review the voucher details: ( - Voucher Name ,  - Amount , - Region ) \n  2. Tap Purchase Now to proceed to payment."
     },
     {
+      "image": null,
       "step": 8,
-      "text": "Payment Process : \n 1. Choose a payment method: - Select the account you wish to pay from. \n 2. Confirm the selection and tap Next.",
-      "image": null
+      "text": "Payment Process : \n 1. Choose a payment method: - Select the account you wish to pay from. \n 2. Confirm the selection and tap Next."
     },
     {
+      "image": null,
       "step": 9,
-      "text": "Verification : \n  1. Enter the 6-digit verification code sent to your registered mobile number. \n 2. Tap Next to complete the verification. ",
-      "image": null
+      "text": "Verification : \n  1. Enter the 6-digit verification code sent to your registered mobile number. \n 2. Tap Next to complete the verification. "
     },
     {
+      "image": null,
       "step": 10,
-      "text": "Purchase Confirmation: \n 1. View the confirmation details, including: ( Voucher Name , Amount , Region , Reference Number ) \n 2. Tap Back to Dashboard or View Voucher Details. ",
-      "image": null
+      "text": "Purchase Confirmation: \n 1. View the confirmation details, including: ( Voucher Name , Amount , Region , Reference Number ) \n 2. Tap Back to Dashboard or View Voucher Details. "
     },
     {
+      "image": "step_11.png",
       "step": 11,
-      "text": "Viewing and Sharing the Voucher \n 1. Review the voucher details on the 'Voucher Details' screen: ( Gift Card Claim Code , PIN ) \n 2. Tap Share Voucher to send the details if needed.",
-      "image": "step_11.png"
+      "text": "Viewing and Sharing the Voucher \n 1. Review the voucher details on the 'Voucher Details' screen: ( Gift Card Claim Code , PIN ) \n 2. Tap Share Voucher to send the details if needed."
     },
     {
       "Note": 1,
-      "text": "• Ensure all selections (region, value) are accurate before proceeding. \n • Refunds and exchanges are subject to the stated policies in the Terms & Conditions. ",
-      "image": null
+      "image": null,
+      "text": "• Ensure all selections (region, value) are accurate before proceeding. \n • Refunds and exchanges are subject to the stated policies in the Terms & Conditions. "
     }
-  ]
+  ],
+  "title": "Steps to Purchase an E-Voucher",
+  "topic": "E-Vouchers",
+  "validation": {
+    "reviewed_fields": [
+      "topic",
+      "title",
+      "steps.0.label",
+      "steps.0.text",
+      "steps.0.image",
+      "steps.1.label",
+      "steps.1.text",
+      "steps.1.image",
+      "steps.2.label",
+      "steps.2.text",
+      "steps.2.image",
+      "steps.3.label",
+      "steps.3.text",
+      "steps.3.image",
+      "steps.4.label",
+      "steps.4.text",
+      "steps.4.image",
+      "steps.5.label",
+      "steps.5.text",
+      "steps.5.image",
+      "steps.6.label",
+      "steps.6.text",
+      "steps.6.image",
+      "steps.7.label",
+      "steps.7.text",
+      "steps.7.image",
+      "steps.8.label",
+      "steps.8.text",
+      "steps.8.image",
+      "steps.9.label",
+      "steps.9.text",
+      "steps.9.image",
+      "steps.10.label",
+      "steps.10.text",
+      "steps.10.image",
+      "steps.11.label",
+      "steps.11.text",
+      "steps.11.image"
+    ],
+    "validated_by": "raneems",
+    "validated_at": "2026-08-24T07:47:23.014762Z",
+    "complete": true
+  }
 }

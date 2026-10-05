@@ -1,0 +1,622 @@
+{
+  "title": "Debit Cards",
+  "sections": [
+    {
+      "content": "A debit card is linked to the cardholder’s bank account and enables spending only up to the available account balance. Transactions are deducted immediately, helping users manage their budget effectively.",
+      "content_blocks": [
+        {
+          "text": "A debit card is linked to the cardholder’s bank account and enables spending only up to the available account balance. Transactions are deducted immediately, helping users manage their budget effectively.",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Description",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Debit Cards",
+        "Description"
+      ],
+      "section": "Description",
+      "section_title": "cards > Cards > Debit Cards > Description",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "Benefits:\n• No interest charges\n• Widely accepted for payments\n• Easy ATM cash withdrawals\n• Helps control overspending",
+      "content_blocks": [
+        {
+          "items": [
+            "No interest charges",
+            "Widely accepted for payments",
+            "Easy ATM cash withdrawals",
+            "Helps control overspending"
+          ],
+          "label": "Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Benefits",
+      "images": [],
+      "language": "en",
+      "page": 9,
+      "path": [
+        "Debit Cards",
+        "Benefits"
+      ],
+      "section": "Benefits",
+      "section_title": "cards > Cards > Debit Cards > Benefits",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "A basic debit card used for ATM withdrawals and point-of-sale purchases. Benefits:\n• Maximum Daily ATM withdrawals of 10,000 JOD\n• No interest charges\n• No annual fees\n• Secure online shopping experience with \"Verified by VISA\" service",
+      "content_blocks": [
+        {
+          "items": [
+            "Maximum Daily ATM withdrawals of 10,000 JOD",
+            "No interest charges",
+            "No annual fees",
+            "Secure online shopping experience with \"Verified by VISA\" service"
+          ],
+          "label": "A basic debit card used for ATM withdrawals and point-of-sale purchases. Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Classic Debit Card",
+      "images": [],
+      "language": "en",
+      "page": 9,
+      "path": [
+        "Debit Cards",
+        "Types of Products",
+        "Classic Debit Card"
+      ],
+      "section": "• Classic Debit Card:",
+      "section_title": "cards > Cards > Debit Cards > Types of Products: > • Classic Debit Card:",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "A Premium debit card used for ATM withdrawals and point-of-sale purchases. Benefits:\n• Maximum Daily ATM withdrawals of 10,000 JOD\n• No interest charges\n• No annual fees\n• Secure online shopping experience with \"Verified by VISA\" service",
+      "content_blocks": [
+        {
+          "items": [
+            "Maximum Daily ATM withdrawals of 10,000 JOD",
+            "No interest charges",
+            "No annual fees",
+            "Secure online shopping experience with \"Verified by VISA\" service"
+          ],
+          "label": "A Premium debit card used for ATM withdrawals and point-of-sale purchases. Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Platinum Debit Card",
+      "images": [],
+      "language": "en",
+      "page": 9,
+      "path": [
+        "Debit Cards",
+        "Types of Products",
+        "Platinum Debit Card"
+      ],
+      "section": "• Platinum Debit Card:",
+      "section_title": "cards > Cards > Debit Cards > Types of Products: > • Platinum Debit Card:",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "Capital Bank is delighted to collaborate with Royal Jordanian Airlines to launch the FIRST Cobranded Debit Card of its kind in Jordan and the Levant. Benefits:\n• Fast Track Service in some countries.\n• Airport Lounge Access : Access to 1300+ airport lounges in more than 500 cities around the world for up to 12 free annual visits for the cardholder by downloading VISA AIRPORT COMPANION subject to meeting a minimum spend of 1 USD as an international transaction either a POS machine or eCommerce transaction annually.\n• Travel insurance Cardholder can issue their travel insurance policy through card our website, through enter Visa Card Benefits link\n• Buyers Protection: Using your Visa Platinum card or payment device to pay for an Eligible Item, you will receive complimentary Buyers Protection Insurance.\n• Visa Premium Concierge: As a Visa Signature cardholder, now you can have access to a digital concierge channel in addition to telephone and email service .\n• Fraudulent Card Misuse Protection: All Visa Signature cards will be protected against unauthorized transactions or fraudulent use of their card by unrelated third parties. This insurance benefit will provide reimbursement of up to USD 2,500 per occurrence with a USD 4,000 annual aggregate limit for Visa Signature Cardholders.",
+      "content_blocks": [
+        {
+          "items": [
+            "Fast Track Service in some countries.",
+            "Airport Lounge Access : Access to 1300+ airport lounges in more than 500 cities around the world for up to 12 free annual visits for the cardholder by downloading VISA AIRPORT COMPANION subject to meeting a minimum spend of 1 USD as an international transaction either a POS machine or eCommerce transaction annually.",
+            "Travel insurance Cardholder can issue their travel insurance policy through card our website, through enter Visa Card Benefits link",
+            "Buyers Protection: Using your Visa Platinum card or payment device to pay for an Eligible Item, you will receive complimentary Buyers Protection Insurance.",
+            "Visa Premium Concierge: As a Visa Signature cardholder, now you can have access to a digital concierge channel in addition to telephone and email service .",
+            "Fraudulent Card Misuse Protection: All Visa Signature cards will be protected against unauthorized transactions or fraudulent use of their card by unrelated third parties. This insurance benefit will provide reimbursement of up to USD 2,500 per occurrence with a USD 4,000 annual aggregate limit for Visa Signature Cardholders."
+          ],
+          "label": "Capital Bank is delighted to collaborate with Royal Jordanian Airlines to launch the FIRST Cobranded Debit Card of its kind in Jordan and the Levant. Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Royal Jordanian Visa Signature Cobranded Debit Card",
+      "images": [],
+      "language": "en",
+      "page": 10,
+      "path": [
+        "Debit Cards",
+        "Types of Products",
+        "Royal Jordanian Visa Signature Cobranded Debit Card"
+      ],
+      "section": "• Royal Jordanian Visa Signature Cobranded Debit Card:",
+      "section_title": "cards > Cards > Debit Cards > Types of Products: > • Royal Jordanian Visa Signature Cobranded Debit Card:",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker Free of Charge Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary) Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker 5 JOD Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker 5 JOD Debit Cards PIN Reissuance Fee (Debit Card) 1 JOD Balance Inquiry Fee on Other Banks’ ATMs (JONET) 0.15 JOD Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET) 1 JOD Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions Cash Withdrawal Fee from ATMs outside Jordan 2 JOD per transaction Dispute Handling Fee (Refundable if claim is valid) 5 JOD ATM CCTV Footage Retrieval Fee 5 JOD Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs 5 JOD",
+      "content_blocks": [
+        {
+          "text": "Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker Free of Charge Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary) Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker 5 JOD Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker 5 JOD Debit Cards PIN Reissuance Fee (Debit Card) 1 JOD Balance Inquiry Fee on Other Banks’ ATMs (JONET) 0.15 JOD Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET) 1 JOD Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions Cash Withdrawal Fee from ATMs outside Jordan 2 JOD per transaction Dispute Handling Fee (Refundable if claim is valid) 5 JOD ATM CCTV Footage Retrieval Fee 5 JOD Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs 5 JOD",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Fees and Charges",
+      "images": [],
+      "language": "en",
+      "page": 11,
+      "path": [
+        "Debit Cards",
+        "Fees and Charges"
+      ],
+      "section": "Fees and Charges:",
+      "section_title": "cards > Cards > Debit Cards > Fees and Charges:",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "How to Obtain a Card:\n1. Open a bank account\n2. Request a debit card during account opening or afterward.\n3. Verify identity and complete required forms.\n4. Receive and activate the debit card.",
+      "content_blocks": [
+        {
+          "items": [
+            "Open a bank account",
+            "Request a debit card during account opening or afterward.",
+            "Verify identity and complete required forms.",
+            "Receive and activate the debit card."
+          ],
+          "label": "How to Obtain a Card",
+          "type": "numbered_list"
+        }
+      ],
+      "display_title": "How to Obtain a Card",
+      "images": [],
+      "language": "en",
+      "page": 11,
+      "path": [
+        "Debit Cards",
+        "How to Obtain a Card"
+      ],
+      "section": "How to Obtain a Card",
+      "section_title": "cards > Cards > Debit Cards > How to Obtain a Card",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "| Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker | Free of Charge | Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary) | Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular | Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker | 5 JOD | Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker | 5 JOD",
+      "content_blocks": [
+        {
+          "text": "| Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker | Free of Charge | Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary) | Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular | Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker | 5 JOD | Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker | 5 JOD",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Debit Cards - Table 1",
+      "images": [],
+      "language": "en",
+      "page": 10,
+      "path": [
+        "Debit Cards",
+        "Types of Products",
+        "Tables",
+        "Debit Cards - Table 1"
+      ],
+      "section": "table",
+      "section_title": "Debit Cards > Types of Products > Tables > Debit Cards - Table 1",
+      "topic": "cards",
+      "variant": "table"
+    },
+    {
+      "content": "Debit Cards | PIN Reissuance Fee (Debit Card) | 1 JOD | Balance Inquiry Fee on Other Banks’ ATMs (JONET) | 0.15 JOD | Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET) | 1 JOD | Foreign Currency Conversion Fee (International Transactions) | 3% for all currencies, 4% for EUR transactions | Cash Withdrawal Fee from ATMs outside Jordan | 2 JOD per transaction | Dispute Handling Fee (Refundable if claim is valid) | 5 JOD | ATM CCTV Footage Retrieval Fee | 5 JOD | Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs | 5 JOD",
+      "content_blocks": [
+        {
+          "text": "Debit Cards | PIN Reissuance Fee (Debit Card) | 1 JOD | Balance Inquiry Fee on Other Banks’ ATMs (JONET) | 0.15 JOD | Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET) | 1 JOD | Foreign Currency Conversion Fee (International Transactions) | 3% for all currencies, 4% for EUR transactions | Cash Withdrawal Fee from ATMs outside Jordan | 2 JOD per transaction | Dispute Handling Fee (Refundable if claim is valid) | 5 JOD | ATM CCTV Footage Retrieval Fee | 5 JOD | Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs | 5 JOD",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Debit Cards - Table 2",
+      "images": [],
+      "language": "en",
+      "page": 11,
+      "path": [
+        "Debit Cards",
+        "Types of Products",
+        "Tables",
+        "Debit Cards - Table 2"
+      ],
+      "section": "table",
+      "section_title": "Debit Cards > Types of Products > Tables > Debit Cards - Table 2",
+      "topic": "cards",
+      "variant": "table"
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-debit-cards-cc0c473b",
+  "name": "Debit Cards",
+  "source": {},
+  "content": [
+    {
+      "id": "paragraph-description-1b716efe",
+      "type": "paragraph",
+      "title": "Description",
+      "blocks": [
+        {
+          "text": "A debit card is linked to the cardholder’s bank account and enables spending only up to the available account balance. Transactions are deducted immediately, helping users manage their budget effectively.",
+          "type": "paragraph"
+        }
+      ],
+      "source": {
+        "page": 8,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "bullet_list-benefits-4ff70976",
+      "type": "bullet_list",
+      "title": "Benefits",
+      "blocks": [
+        {
+          "items": [
+            "No interest charges",
+            "Widely accepted for payments",
+            "Easy ATM cash withdrawals",
+            "Helps control overspending"
+          ],
+          "label": "Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "source": {
+        "page": 9,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "group-types-of-products-b891298a",
+      "type": "group",
+      "title": "Types of Products",
+      "children": [
+        {
+          "id": "bullet_list-classic-debit-card-17d51b3c",
+          "type": "bullet_list",
+          "title": "Classic Debit Card",
+          "blocks": [
+            {
+              "items": [
+                "Maximum Daily ATM withdrawals of 10,000 JOD",
+                "No interest charges",
+                "No annual fees",
+                "Secure online shopping experience with \"Verified by VISA\" service"
+              ],
+              "label": "A basic debit card used for ATM withdrawals and point-of-sale purchases. Benefits",
+              "type": "bullet_list"
+            }
+          ],
+          "source": {
+            "page": 9,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-platinum-debit-card-5e7013d7",
+          "type": "bullet_list",
+          "title": "Platinum Debit Card",
+          "blocks": [
+            {
+              "items": [
+                "Maximum Daily ATM withdrawals of 10,000 JOD",
+                "No interest charges",
+                "No annual fees",
+                "Secure online shopping experience with \"Verified by VISA\" service"
+              ],
+              "label": "A Premium debit card used for ATM withdrawals and point-of-sale purchases. Benefits",
+              "type": "bullet_list"
+            }
+          ],
+          "source": {
+            "page": 9,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-royal-jordanian-visa-signature-cobranded-debit-c-499a248a",
+          "type": "bullet_list",
+          "title": "Royal Jordanian Visa Signature Cobranded Debit Card",
+          "blocks": [
+            {
+              "items": [
+                "Fast Track Service in some countries.",
+                "Airport Lounge Access : Access to 1300+ airport lounges in more than 500 cities around the world for up to 12 free annual visits for the cardholder by downloading VISA AIRPORT COMPANION subject to meeting a minimum spend of 1 USD as an international transaction either a POS machine or eCommerce transaction annually.",
+                "Travel insurance Cardholder can issue their travel insurance policy through card our website, through enter Visa Card Benefits link",
+                "Buyers Protection: Using your Visa Platinum card or payment device to pay for an Eligible Item, you will receive complimentary Buyers Protection Insurance.",
+                "Visa Premium Concierge: As a Visa Signature cardholder, now you can have access to a digital concierge channel in addition to telephone and email service .",
+                "Fraudulent Card Misuse Protection: All Visa Signature cards will be protected against unauthorized transactions or fraudulent use of their card by unrelated third parties. This insurance benefit will provide reimbursement of up to USD 2,500 per occurrence with a USD 4,000 annual aggregate limit for Visa Signature Cardholders."
+              ],
+              "label": "Capital Bank is delighted to collaborate with Royal Jordanian Airlines to launch the FIRST Cobranded Debit Card of its kind in Jordan and the Levant. Benefits",
+              "type": "bullet_list"
+            }
+          ],
+          "source": {
+            "page": 10,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-tables-db856e29",
+          "type": "group",
+          "title": "Tables",
+          "children": [
+            {
+              "id": "table-debit-cards-table-1-5c91ec87",
+              "type": "table",
+              "title": "Debit Cards - Table 1",
+              "rows": [
+                [
+                  "",
+                  "Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker",
+                  "Free of Charge",
+                  "Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary)",
+                  "Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular",
+                  "Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker",
+                  "5 JOD",
+                  "Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker",
+                  "5 JOD"
+                ]
+              ],
+              "source": {
+                "page": 10,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "table-debit-cards-table-2-8fcb0ab6",
+              "type": "table",
+              "title": "Debit Cards - Table 2",
+              "rows": [
+                [
+                  "Debit Cards",
+                  "PIN Reissuance Fee (Debit Card)",
+                  "1 JOD",
+                  "Balance Inquiry Fee on Other Banks’ ATMs (JONET)",
+                  "0.15 JOD",
+                  "Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET)",
+                  "1 JOD",
+                  "Foreign Currency Conversion Fee (International Transactions)",
+                  "3% for all currencies, 4% for EUR transactions",
+                  "Cash Withdrawal Fee from ATMs outside Jordan",
+                  "2 JOD per transaction",
+                  "Dispute Handling Fee (Refundable if claim is valid)",
+                  "5 JOD",
+                  "ATM CCTV Footage Retrieval Fee",
+                  "5 JOD",
+                  "Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs",
+                  "5 JOD"
+                ]
+              ],
+              "source": {
+                "page": 11,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "paragraph-fees-and-charges-0cb001e5",
+      "type": "paragraph",
+      "title": "Fees and Charges",
+      "blocks": [
+        {
+          "text": "Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker Free of Charge Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary) Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker 5 JOD Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker 5 JOD Debit Cards PIN Reissuance Fee (Debit Card) 1 JOD Balance Inquiry Fee on Other Banks’ ATMs (JONET) 0.15 JOD Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET) 1 JOD Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions Cash Withdrawal Fee from ATMs outside Jordan 2 JOD per transaction Dispute Handling Fee (Refundable if claim is valid) 5 JOD ATM CCTV Footage Retrieval Fee 5 JOD Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs 5 JOD",
+          "type": "paragraph"
+        }
+      ],
+      "source": {
+        "page": 11,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "numbered_list-how-to-obtain-a-card-35a102ef",
+      "type": "numbered_list",
+      "title": "How to Obtain a Card",
+      "blocks": [
+        {
+          "items": [
+            "Open a bank account",
+            "Request a debit card during account opening or afterward.",
+            "Verify identity and complete required forms.",
+            "Receive and activate the debit card."
+          ],
+          "label": "How to Obtain a Card",
+          "type": "numbered_list"
+        }
+      ],
+      "source": {
+        "page": 11,
+        "images": [],
+        "language": "en"
+      }
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "Debit Cards",
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "Description",
+        "section_index": 0,
+        "blocks": [
+          {
+            "text": "A debit card is linked to the cardholder’s bank account and enables spending only up to the available account balance. Transactions are deducted immediately, helping users manage their budget effectively.",
+            "type": "paragraph"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "title": "Benefits",
+        "section_index": 1,
+        "blocks": [
+          {
+            "items": [
+              "No interest charges",
+              "Widely accepted for payments",
+              "Easy ATM cash withdrawals",
+              "Helps control overspending"
+            ],
+            "label": "Benefits",
+            "type": "bullet_list"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Types of Products",
+        "children": [
+          {
+            "type": "bullet_list",
+            "title": "Classic Debit Card",
+            "section_index": 2,
+            "blocks": [
+              {
+                "items": [
+                  "Maximum Daily ATM withdrawals of 10,000 JOD",
+                  "No interest charges",
+                  "No annual fees",
+                  "Secure online shopping experience with \"Verified by VISA\" service"
+                ],
+                "label": "A basic debit card used for ATM withdrawals and point-of-sale purchases. Benefits",
+                "type": "bullet_list"
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Platinum Debit Card",
+            "section_index": 3,
+            "blocks": [
+              {
+                "items": [
+                  "Maximum Daily ATM withdrawals of 10,000 JOD",
+                  "No interest charges",
+                  "No annual fees",
+                  "Secure online shopping experience with \"Verified by VISA\" service"
+                ],
+                "label": "A Premium debit card used for ATM withdrawals and point-of-sale purchases. Benefits",
+                "type": "bullet_list"
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Royal Jordanian Visa Signature Cobranded Debit Card",
+            "section_index": 4,
+            "blocks": [
+              {
+                "items": [
+                  "Fast Track Service in some countries.",
+                  "Airport Lounge Access : Access to 1300+ airport lounges in more than 500 cities around the world for up to 12 free annual visits for the cardholder by downloading VISA AIRPORT COMPANION subject to meeting a minimum spend of 1 USD as an international transaction either a POS machine or eCommerce transaction annually.",
+                  "Travel insurance Cardholder can issue their travel insurance policy through card our website, through enter Visa Card Benefits link",
+                  "Buyers Protection: Using your Visa Platinum card or payment device to pay for an Eligible Item, you will receive complimentary Buyers Protection Insurance.",
+                  "Visa Premium Concierge: As a Visa Signature cardholder, now you can have access to a digital concierge channel in addition to telephone and email service .",
+                  "Fraudulent Card Misuse Protection: All Visa Signature cards will be protected against unauthorized transactions or fraudulent use of their card by unrelated third parties. This insurance benefit will provide reimbursement of up to USD 2,500 per occurrence with a USD 4,000 annual aggregate limit for Visa Signature Cardholders."
+                ],
+                "label": "Capital Bank is delighted to collaborate with Royal Jordanian Airlines to launch the FIRST Cobranded Debit Card of its kind in Jordan and the Levant. Benefits",
+                "type": "bullet_list"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "Tables",
+            "children": [
+              {
+                "type": "table",
+                "title": "Debit Cards - Table 1",
+                "section_index": 7,
+                "rows": [
+                  [
+                    "",
+                    "Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker",
+                    "Free of Charge",
+                    "Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary)",
+                    "Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular",
+                    "Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker",
+                    "5 JOD",
+                    "Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker",
+                    "5 JOD"
+                  ]
+                ]
+              },
+              {
+                "type": "table",
+                "title": "Debit Cards - Table 2",
+                "section_index": 8,
+                "rows": [
+                  [
+                    "Debit Cards",
+                    "PIN Reissuance Fee (Debit Card)",
+                    "1 JOD",
+                    "Balance Inquiry Fee on Other Banks’ ATMs (JONET)",
+                    "0.15 JOD",
+                    "Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET)",
+                    "1 JOD",
+                    "Foreign Currency Conversion Fee (International Transactions)",
+                    "3% for all currencies, 4% for EUR transactions",
+                    "Cash Withdrawal Fee from ATMs outside Jordan",
+                    "2 JOD per transaction",
+                    "Dispute Handling Fee (Refundable if claim is valid)",
+                    "5 JOD",
+                    "ATM CCTV Footage Retrieval Fee",
+                    "5 JOD",
+                    "Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs",
+                    "5 JOD"
+                  ]
+                ]
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "title": "Fees and Charges",
+        "section_index": 5,
+        "blocks": [
+          {
+            "text": "Issuance and Renewal Fee for Primary Debit Card / Wearable / Payment Sticker Free of Charge Issuance and Renewal Fee for RJ Co-branded Debit Card (Primary & Supplementary) Free – Private Banking and Select 75 JOD – Regular 50 JOD– Upper Regular Issuance Fee for Supplementary Debit Card / Wearable / Payment Sticker 5 JOD Reissuance Fee for Lost / Damaged Debit Card / Wearable / Payment Sticker 5 JOD Debit Cards PIN Reissuance Fee (Debit Card) 1 JOD Balance Inquiry Fee on Other Banks’ ATMs (JONET) 0.15 JOD Cash Withdrawal Fee from Other Banks’ ATMs within Jordan (JONET) 1 JOD Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions Cash Withdrawal Fee from ATMs outside Jordan 2 JOD per transaction Dispute Handling Fee (Refundable if claim is valid) 5 JOD ATM CCTV Footage Retrieval Fee 5 JOD Cash Withdrawal Fee using Foreign Bank Cards (Non- JONET) at Capital Bank ATMs 5 JOD",
+            "type": "paragraph"
+          }
+        ]
+      },
+      {
+        "type": "numbered_list",
+        "title": "How to Obtain a Card",
+        "section_index": 6,
+        "blocks": [
+          {
+            "items": [
+              "Open a bank account",
+              "Request a debit card during account opening or afterward.",
+              "Verify identity and complete required forms.",
+              "Receive and activate the debit card."
+            ],
+            "label": "How to Obtain a Card",
+            "type": "numbered_list"
+          }
+        ]
+      }
+    ]
+  }
+}

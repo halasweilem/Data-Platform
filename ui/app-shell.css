@@ -1,0 +1,205 @@
+/* ============================================================
+   App shell visual overhaul — matches the "capital BANK" mockups.
+   Loaded last so it can override styles.css / brand-theme.css.
+   ============================================================ */
+body{background:#eef1f4}
+.app-shell{max-width:1500px;margin:26px auto;background:#fff;border-radius:20px;overflow:hidden;box-shadow:0 24px 60px #0b16321a}
+.app-shell header{padding:0 32px}
+.app-shell main{height:calc(100vh - 178px);min-height:480px}
+
+/* Logo */
+header .brand{display:flex;align-items:center;gap:0;text-decoration:none}
+header .brand .mark{display:none}
+header .brand .brand-logo{height:36px;width:auto;display:block}
+header .top-meta{gap:14px}
+header .top-meta #user{color:#333c4d;font-size:13px;font-weight:600}
+#logout{background:#fff;color:#333c4d;border:1px solid var(--line);border-radius:9px;font-weight:650;padding:9px 16px}
+#logout:hover{background:var(--soft);filter:none}
+
+/* Nav tabs */
+nav#domains{padding-left:32px;gap:26px}
+nav#domains button{padding:15px 2px;font-size:14px;font-weight:650;color:#7c8598;border-bottom:3px solid transparent;border-radius:0}
+nav#domains button:hover{color:#333c4d;background:transparent}
+nav#domains button.active{color:#101828;border-color:#e7000b}
+nav#domains button .soon{margin-left:6px;font-size:9px;font-weight:700;color:#98a2af;background:var(--soft);border-radius:20px;padding:2px 7px;letter-spacing:.04em;text-transform:uppercase;vertical-align:middle}
+
+/* Sidebar */
+aside{padding:24px 20px}
+.aside-head h1{font-size:21px}
+#count{font-weight:700;color:#333c4d;background:var(--soft)}
+.search{border-radius:11px;border-color:var(--line)}
+.files .file{border:1px solid var(--line);border-radius:11px;margin-bottom:8px;padding:12px;background:#fff}
+.files .file:hover{border-color:#b7c6e8;background:#fff}
+.files .file.active{background:#eff6ff;border-color:#eff6ff;box-shadow:inset 3px 0 0 #1a56db}
+.files .file.active .file-icon{background:#1a56db!important}
+.files .file.active strong{color:#0f2554}
+.upload{border-radius:10px;border:1px dashed #1a56db;color:#1a56db;background:#fff}
+.upload:hover{background:#eff6ff}
+
+/* Retail breadcrumb (used above a product/collection title) */
+.retail-crumb{font-size:12px;color:#98a2af;margin:0 0 4px;text-transform:none;letter-spacing:normal;font-weight:600}
+
+/* Retail product cards: colored icon + status coloring */
+.retail-collection-grid .retail-create-icon{width:42px;height:42px;border-radius:10px;font-size:15px}
+.retail-collection-grid small.status-ready{color:#059669;font-weight:600}
+.retail-collection-grid small.status-pending{color:#b06a00;font-weight:600}
+.retail-collection-grid small.status-draft{color:#6a7282;font-weight:600}
+
+@media(max-width:900px){
+  .app-shell{margin:0;border-radius:0}
+  .app-shell main{height:auto}
+}
+
+/* Refinements pass: sidebar rows should only get a box when selected,
+   and the retail collection/grid should use the lighter hairline border
+   instead of the old slate-gray one. */
+.files .file{border-color:transparent;background:transparent}
+.files .file:hover:not(.active){background:var(--soft);border-color:transparent}
+.files .file.active{border-color:#eff6ff}
+
+.retail-collection{border-color:#e5e7eb;box-shadow:0 1px 3px #10201808}
+.retail-collection>header{border-bottom:0;padding-bottom:14px}
+.retail-collection-grid>button{border-color:#e5e7eb;box-shadow:0 1px 2px #10201808}
+.retail-collection-grid>button:hover{border-color:#93b4f0;box-shadow:0 4px 12px #1a56db1a}
+
+/* More breathing room in the retail collection header, and pull the
+   whole card up a bit closer to the nav bar. */
+.retail-collection-page{padding:24px 34px 34px;height:auto;min-height:0;display:block;place-content:normal;justify-content:normal;align-content:normal;text-align:left;color:inherit}
+.workspace:has(.retail-collection-page){padding-top:0}
+.retail-collection>header{gap:36px;padding-bottom:20px;align-items:flex-start}
+.retail-collection>header h2{margin:6px 0}
+.retail-crumb{margin-bottom:6px}
+.retail-collection-actions{margin-top:2px}
+
+/* Sidebar icon avatars: make every row use the same solid-square,
+   white-glyph language (not just the selected one), and fix the
+   selected row's letter color (background was overridden but not
+   the text color, leaving a low-contrast navy-on-blue "L"). */
+.files .file .file-icon{background:#1e40af;color:#fff;border:0}
+.files .file.active .file-icon{background:#1a56db!important;color:#fff}
+
+/* Two-tier retail collection layout: an unboxed page header (breadcrumb,
+   title, count, actions) sits above the card, and the card itself gets
+   a small repeated "RETAIL PRODUCTS / <name>" mini-header before the grid. */
+.retail-page-header{display:flex;align-items:flex-start;justify-content:space-between;gap:36px;margin-bottom:20px}
+.retail-page-header h2{margin:6px 0;font-size:26px}
+.retail-page-header .muted{margin:0}
+.retail-page-header .retail-collection-actions{margin-top:2px}
+.retail-collection>header{display:block;padding-bottom:10px;margin-bottom:14px;border-bottom:1px solid var(--line)}
+.retail-collection>header .eyebrow{margin:0 0 4px}
+.retail-collection>header h3{margin:0;font-size:16px}
+
+/* Naming-step (new product/loan) modal — align to capital BANK theme */
+.retail-create-panel{border-color:#e5e7eb;box-shadow:0 12px 34px #10182a14}
+.retail-create-icon{background:#0f2554}
+.retail-create-steps{background:#f5f7fa;border-color:#dde2ea}
+.retail-create-steps .active b{background:#0f2554}
+.retail-create-steps i{background:#dde2ea}
+.retail-product-name input:focus{border-color:#1a56db;box-shadow:0 0 0 3px #1a56db1a}
+
+/* "Configure this product" journey page — align to capital BANK theme */
+.retail-configure-back{color:#1a56db}
+.retail-configure-back:hover{color:#1e40af}
+.retail-configure-title .retail-create-icon{background:#0f2554}
+.retail-configure-card{border-color:#e5e7eb}
+.retail-configure-steps b{background:#f3f4f6;color:#6a7282}
+.retail-configure-start{background:#0f2554}
+.retail-configure-start:hover{filter:none;background:#2c3a56}
+
+/* Simplified naming panel — just icon, heading, name field, actions */
+.retail-create-panel-simple{max-width:460px;padding:34px}
+.retail-create-panel-simple .retail-create-intro h2{margin:14px 0 0;font-size:20px}
+.retail-create-panel-simple .retail-product-name{margin-top:22px}
+.retail-create-panel-simple .retail-create-actions{margin-top:22px;padding-top:18px}
+
+/* Retail product configuration wizard (per-step flow) — full-bleed,
+   no boxed card, sidebar hidden (see main.history-mode) so the whole
+   app width is available, matching the reference journey layout. */
+.retail-wizard-page{height:auto;min-height:100%;display:block;place-content:normal;text-align:left;padding:0;color:inherit}
+.workspace:has(.retail-wizard-page){padding:0}
+.retail-wizard-page .retail-wizard{display:flex;flex-direction:column;min-height:100%;width:100%;max-width:none;margin:0;padding:0;background:transparent;border:0;border-radius:0;box-shadow:none;gap:0}
+.retail-wizard-page .retail-wizard-topbar{display:flex;flex-direction:column;gap:14px;padding:16px 40px;border-bottom:1px solid #e5e9ee;background:#fff}
+.retail-wizard-page .retail-wizard-topbar-row{display:flex;align-items:center;gap:18px}
+.retail-wizard-page .retail-wizard-steps-row{padding-top:14px;border-top:1px solid #eef0f3}
+.retail-wizard-page .retail-wizard-back{background:transparent;border:0;color:#0f2554;font-weight:650;padding:0;cursor:pointer;white-space:nowrap;font-size:14px}
+.retail-wizard-page .retail-wizard-back:hover{color:#0f2554}
+.retail-wizard-page .retail-wizard-product{display:flex;align-items:center;gap:8px;font-weight:700;color:#0f2554;white-space:nowrap;font-size:14px}
+.retail-wizard-page .retail-wizard-product .retail-create-icon{width:26px;height:26px;font-size:12px;border-radius:7px;margin:0;background:#0f2554}
+.retail-wizard-page .retail-wizard-steps{display:flex;align-items:center;flex:1;overflow-x:auto;gap:0}
+.retail-wizard-page .retail-wizard-steps .step{display:flex;align-items:center;gap:8px;white-space:nowrap;color:#98a2af;font-weight:600;font-size:13px}
+.retail-wizard-page .retail-wizard-steps .step b{display:grid;place-items:center;width:22px;height:22px;border-radius:50%;background:#eef1f6;color:#7c8598;font-size:11px;flex:none;font-style:normal}
+.retail-wizard-page .retail-wizard-steps .step.done b{background:#0f2554;color:#fff}
+.retail-wizard-page .retail-wizard-steps .step.current{color:#0f2554}
+.retail-wizard-page .retail-wizard-steps .step.current b{background:#1a56db;color:#fff;box-shadow:0 0 0 3px #d1ddf8}
+.retail-wizard-page .retail-wizard-steps i{width:34px;height:1px;background:#d8dee5;margin:0 10px;flex:none}
+.retail-wizard-page .retail-wizard-count{color:#98a2af;font-size:12px;font-weight:650;white-space:nowrap}
+.retail-wizard-page .retail-wizard-progress{height:3px;background:#e5e7eb}
+.retail-wizard-page .retail-wizard-progress>span{display:block;height:100%;background:#1a56db}
+.retail-wizard-page .retail-wizard-body{flex:1;padding:44px 40px;max-width:640px;margin:0;width:100%}
+.retail-wizard-page .retail-wizard-body .eyebrow{margin:0 0 10px;color:#98a2af}
+.retail-wizard-page .retail-wizard-body h1{margin:0 0 8px;font-size:24px;color:#0f2554}
+.retail-wizard-page .retail-wizard-body .muted{margin:0 0 26px}
+.retail-wizard-page .retail-wizard-tags{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:18px}
+.retail-wizard-page .retail-wizard-tag{padding:9px 18px;border-radius:20px;border:1px solid #d7dfea;background:#fff;color:#333c4d;font-weight:650;font-size:13px;cursor:pointer}
+.retail-wizard-page .retail-wizard-tag:hover{border-color:#a9bff2}
+.retail-wizard-page .retail-wizard-tag.active{background:#0f2554;border-color:#0f2554;color:#fff}
+.retail-wizard-page .retail-wizard-input{width:100%;border:1px solid #dde2ea;border-radius:9px;padding:12px 14px;font-size:14px;color:#0f2554;outline:0}
+.retail-wizard-page .retail-wizard-input:focus{border-color:#1a56db;box-shadow:0 0 0 3px #1a56db1a}
+.retail-wizard-page .retail-wizard-placeholder{color:var(--muted);padding:30px 0}
+.retail-wizard-page .retail-wizard-format-pills{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:14px}
+.retail-wizard-page .retail-wizard-format-pill{display:flex;align-items:center;gap:8px;padding:9px 16px;border-radius:9px;border:1px solid #d7dfea;background:#fff;color:#333c4d;font-weight:650;font-size:13px;cursor:pointer}
+.retail-wizard-page .retail-wizard-format-pill span{font-size:13px;line-height:1}
+.retail-wizard-page .retail-wizard-format-pill:hover{border-color:#a9bff2}
+.retail-wizard-page .retail-wizard-format-pill.active{background:#0f2554;border-color:#0f2554;color:#fff}
+.retail-wizard-page .retail-wizard-format-hint{margin:0 0 10px;color:var(--muted);font-size:12px}
+.retail-wizard-page .retail-wizard-textarea{width:100%;min-height:150px;border:1px solid #dde2ea;border-radius:9px;padding:14px 16px;font:13px/1.6 Inter,"Segoe UI",Arial,sans-serif;color:#0f2554;outline:0;resize:vertical}
+.retail-wizard-page .retail-wizard-textarea:focus{border-color:#1a56db;box-shadow:0 0 0 3px #1a56db1a}
+.retail-wizard-page .retail-wizard-conditions{margin-bottom:16px}
+.retail-wizard-page .retail-wizard-condition-row{display:flex;align-items:center;gap:14px;position:relative}
+.retail-wizard-page .retail-wizard-condition-row:not(:last-child)::after{content:'';position:absolute;left:9px;top:28px;bottom:-34px;border-left:1px dashed #d8dee5}
+.retail-wizard-page .retail-wizard-condition-index{flex:none;width:20px;text-align:center;color:#98a2af;font-size:13px;font-weight:650}
+.retail-wizard-page .retail-wizard-condition-input{flex:1;border:1px solid #dde2ea;border-radius:9px;padding:14px 16px;font-size:13px;color:#0f2554;outline:0;max-width:560px}
+.retail-wizard-page .retail-wizard-condition-input:focus{border-color:#1a56db;box-shadow:0 0 0 3px #1a56db1a}
+.retail-wizard-page .retail-wizard-condition-join{display:flex;align-items:center;gap:10px;margin:10px 0 10px 34px}
+.retail-wizard-page .retail-wizard-join-toggle{padding:6px 16px;border-radius:20px;border:0;font-weight:700;font-size:11px;letter-spacing:.02em;color:#fff;cursor:pointer}
+.retail-wizard-page .retail-wizard-join-toggle.and{background:#0f2554}
+.retail-wizard-page .retail-wizard-join-toggle.or{background:#4c3fcf}
+.retail-wizard-page .retail-wizard-join-toggle:hover{filter:brightness(1.1)}
+.retail-wizard-page .retail-wizard-condition-join small{color:var(--muted);font-size:12px}
+.retail-wizard-page .retail-wizard-add-condition{background:#fff;border:1px dashed #c7cfd9;color:#333c4d;border-radius:9px;padding:10px 18px;font-weight:650;font-size:13px;cursor:pointer;margin-top:6px}
+.retail-wizard-page .retail-wizard-add-condition:hover{border-color:#a9bff2;color:#1a56db}
+.retail-wizard-page .retail-wizard-desc-items{display:flex;flex-direction:column;gap:10px;margin-bottom:14px}
+.retail-wizard-page .retail-wizard-desc-item-row{display:flex;align-items:center;gap:10px}
+.retail-wizard-page .retail-wizard-desc-item-marker{flex:none;width:18px;text-align:center;color:#98a2af;font-weight:700;font-size:13px}
+.retail-wizard-page .retail-wizard-desc-item-input{flex:1;border:1px solid #dde2ea;border-radius:9px;padding:12px 14px;font-size:13px;color:#0f2554;outline:0;max-width:560px}
+.retail-wizard-page .retail-wizard-desc-item-input:focus{border-color:#1a56db;box-shadow:0 0 0 3px #1a56db1a}
+.retail-wizard-page .retail-wizard-review{display:flex;flex-direction:column;gap:12px;margin-bottom:16px;max-width:640px}
+.retail-wizard-page .retail-wizard-review-card{border:1px solid #dde2ea;border-radius:10px;padding:14px 18px;background:#fff}
+.retail-wizard-page .retail-wizard-review-label{display:block;font-size:11px;letter-spacing:.06em;font-weight:750;color:#98a2af;margin-bottom:6px}
+.retail-wizard-page .retail-wizard-review-value{color:#0f2554;font-size:13px;line-height:1.6;white-space:pre-line}
+.retail-wizard-page .retail-wizard-ready{display:flex;align-items:center;gap:14px;border:1px solid #bfdbfe;background:#eff6ff;border-radius:10px;padding:16px 18px;max-width:640px}
+.retail-wizard-page .retail-wizard-ready-check{flex:none;width:26px;height:26px;border-radius:50%;background:#1a56db;color:#fff;display:grid;place-items:center;font-size:13px;font-weight:700}
+.retail-wizard-page .retail-wizard-ready strong{display:block;color:#0f2554;font-size:14px}
+.retail-wizard-page .retail-wizard-ready small{display:block;color:#4a5568;margin-top:2px}
+.retail-wizard-page .retail-wizard-next.retail-wizard-publish-btn{background:var(--green)}
+.retail-wizard-page .retail-wizard-next.retail-wizard-publish-btn:hover:not(:disabled){filter:brightness(1.08)}
+.retail-wizard-page .retail-wizard-footer{display:flex;justify-content:space-between;padding:18px 40px;border-top:1px solid #e5e9ee;background:#fff}
+.retail-wizard-page .retail-wizard-footer button{padding:11px 22px;border-radius:9px;font-weight:650;font-size:13px}
+.retail-wizard-page .retail-wizard-prev{background:#fff;border:1px solid var(--line);color:#7c8598}
+.retail-wizard-page .retail-wizard-prev:disabled{opacity:.5;cursor:not-allowed}
+.retail-wizard-page .retail-wizard-next{background:#1a56db;color:#fff;border:0}
+.retail-wizard-page .retail-wizard-next:hover:not(:disabled){filter:brightness(1.08)}
+.retail-wizard-page .retail-wizard-next:disabled{opacity:.4;cursor:not-allowed}
+@media(max-width:800px){.retail-wizard-page .retail-wizard-topbar{flex-wrap:wrap;padding:12px 18px}.retail-wizard-page .retail-wizard-body{padding:28px 18px}.retail-wizard-page .retail-wizard-footer{padding:14px 18px}}
+
+.retail-configure-title{gap:10px}
+.retail-configure-title .status-ready{font-size:13px;background:#f0fdf4;color:#15803d;border-radius:20px;padding:2px 10px}
+
+/* "Configure this product" summary page also hides the sidebar and
+   uses the same blue accent, so the whole creation journey is
+   consistent and uncluttered from naming through to publish. */
+.retail-configure-page{padding-left:40px;padding-right:40px}
+
+/* Sidebar "focused on one collection" back link */
+.retail-sidebar-unfocus{display:flex;align-items:center;gap:4px;width:100%;background:transparent;border:0;border-bottom:1px solid var(--line);color:#0f2554;font-weight:650;font-size:13px;padding:0 2px 12px;margin-bottom:12px;cursor:pointer;text-align:left}
+.retail-sidebar-unfocus:hover{color:#0f2554}

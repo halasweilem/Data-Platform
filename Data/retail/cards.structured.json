@@ -1,0 +1,64 @@
+{
+  "title": "cards",
+  "sections": [
+    {
+      "content": "Financial cards are essential tools that allow customers to access funds, manage expenses, and enjoy financial benefits. This document provides an overview of different card products and their features",
+      "content_blocks": [
+        {
+          "text": "Financial cards are essential tools that allow customers to access funds, manage expenses, and enjoy financial benefits. This document provides an overview of different card products and their features",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "cards",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "cards"
+      ],
+      "section": "Cards",
+      "section_title": "cards > Cards",
+      "topic": "Cards",
+      "variant": "content"
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-cards-9a5e1b0f",
+  "name": "cards",
+  "source": {},
+  "content": [
+    {
+      "id": "paragraph-cards-f4993d96",
+      "type": "paragraph",
+      "title": "cards",
+      "blocks": [
+        {
+          "text": "Financial cards are essential tools that allow customers to access funds, manage expenses, and enjoy financial benefits. This document provides an overview of different card products and their features",
+          "type": "paragraph"
+        }
+      ],
+      "source": {
+        "page": 1,
+        "images": [],
+        "language": "en"
+      }
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "cards",
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "cards",
+        "section_index": 0,
+        "blocks": [
+          {
+            "text": "Financial cards are essential tools that allow customers to access funds, manage expenses, and enjoy financial benefits. This document provides an overview of different card products and their features",
+            "type": "paragraph"
+          }
+        ]
+      }
+    ]
+  }
+}

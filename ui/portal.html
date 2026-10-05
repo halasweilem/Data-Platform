@@ -1,0 +1,62 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Capital Data Studio</title>
+<link rel="stylesheet" href="/portal.css?v=4">
+</head>
+<body>
+<header>
+  <a class="brand" href="/" title="Back to the knowledge portal"><span class="mark">C</span><div><strong>Capital Data Studio</strong><small>Knowledge operations</small></div></a>
+  <div class="top-meta">
+    <span id="user"></span>
+    <button id="editorLink" class="editor-link" hidden>Data editor &rarr;</button>
+    <button id="logout" class="quiet">Log out</button>
+  </div>
+</header>
+
+<nav id="portalTabs" aria-label="Sections">
+  <button data-tab="explore" class="active">Explore knowledge</button>
+  <button data-tab="assistant">Assistant <span class="soon">Coming soon</span></button>
+</nav>
+
+<main>
+  <section id="exploreView">
+    <div class="intro">
+      <p class="eyebrow">CENTRALIZED KNOWLEDGE BASE</p>
+      <h1>What would you like to look up?</h1>
+      <p class="muted">Browse the same approved content the mobile assistant answers from, organized by area. This demo currently covers Retail products and Steps &amp; workflows &mdash; more areas will be added over time.</p>
+    </div>
+    <div id="categoryCards" class="category-cards"></div>
+    <div id="browsePanel" class="browse-panel" hidden>
+      <aside id="browseList"></aside>
+      <div id="browseDetail" class="browse-detail"><div class="placeholder"><div class="big">&#8599;</div><p>Select an item on the left to view it.</p></div></div>
+    </div>
+  </section>
+
+  <section id="assistantView" hidden>
+    <div class="assistant-shell">
+      <div class="assistant-header">
+        <p class="eyebrow">AI ASSISTANT &middot; COMING SOON</p>
+        <h1>Ask about the knowledge base</h1>
+        <p class="muted">Once connected, this will answer questions using only approved content &mdash; and show exactly which document each answer came from. It isn't wired up yet; this is a preview of where it will live.</p>
+      </div>
+      <div class="assistant-thread">
+        <div class="bubble">
+          <strong>Assistant</strong>
+          <p>Hi! Once I'm connected, ask me anything about our steps, workflows, or retail products and I'll answer using only approved knowledge &mdash; with the source shown underneath.</p>
+        </div>
+      </div>
+      <form class="assistant-input" id="assistantForm">
+        <input type="text" placeholder="Ask a question&hellip; (not active yet)" disabled>
+        <button type="submit" disabled>Send</button>
+      </form>
+    </div>
+  </section>
+</main>
+
+<div id="toast"></div>
+<script src="/portal.js?v=2"></script>
+</body>
+</html>

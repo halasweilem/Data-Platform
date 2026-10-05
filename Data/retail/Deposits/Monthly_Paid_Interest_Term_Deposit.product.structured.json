@@ -1,0 +1,109 @@
+{
+  "title": "Monthly Paid Interest Term Deposit",
+  "sections": [
+    {
+      "content": "Type: Fixed-term deposit with interest paid to the customer's account every month while the principal remains invested until maturity. Benefits:\n• Receive a steady monthly income from interest payments.\n• Guaranteed interest rate for the selected term.\n• Safe and secure investment with predictable returns.\n• Ideal for customers seeking regular cash flow without withdrawing their savings. Eligibility Criteria:\n• Available to individual customers with a valid account.\n• Minimum deposit amount 5000JD or 5000$ Classified as: CBoJ - Internal\n• Funds must remain invested until the maturity date to receive the agreed benefits. Fees & Charges:\n• No account opening or maintenance fees.\n• Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:\n• Visit any bank branch or apply through the bank's Mobile APP\n• Choose the deposit amount and preferred tenor.\n• Review and accept the terms and conditions.\n• Fund the deposit from an eligible account.",
+      "content_blocks": [
+        {
+          "items": [
+            "Receive a steady monthly income from interest payments.",
+            "Guaranteed interest rate for the selected term.",
+            "Safe and secure investment with predictable returns.",
+            "Ideal for customers seeking regular cash flow without withdrawing their savings. Eligibility Criteria:",
+            "Available to individual customers with a valid account.",
+            "Minimum deposit amount 5000JD or 5000$ Classified as: CBoJ - Internal",
+            "Funds must remain invested until the maturity date to receive the agreed benefits. Fees & Charges:",
+            "No account opening or maintenance fees.",
+            "Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:",
+            "Visit any bank branch or apply through the bank's Mobile APP",
+            "Choose the deposit amount and preferred tenor.",
+            "Review and accept the terms and conditions.",
+            "Fund the deposit from an eligible account."
+          ],
+          "label": "Type: Fixed-term deposit with interest paid to the customer's account every month while the principal remains invested until maturity. Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Monthly Paid Interest Term Deposit",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Monthly Paid Interest Term Deposit"
+      ],
+      "section": "1. Monthly Paid Interest Term Deposit",
+      "section_title": "Deposits  > Deposits > Deposits > Deposit Types: > 1. Monthly Paid Interest Term Deposit",
+      "topic": "Deposits",
+      "variant": "content"
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-monthly-paid-interest-term-deposit-067c9f14",
+  "name": "Monthly Paid Interest Term Deposit",
+  "source": {},
+  "content": [
+    {
+      "id": "bullet_list-monthly-paid-interest-term-deposit-1a145367",
+      "type": "bullet_list",
+      "title": "Monthly Paid Interest Term Deposit",
+      "blocks": [
+        {
+          "items": [
+            "Receive a steady monthly income from interest payments.",
+            "Guaranteed interest rate for the selected term.",
+            "Safe and secure investment with predictable returns.",
+            "Ideal for customers seeking regular cash flow without withdrawing their savings. Eligibility Criteria:",
+            "Available to individual customers with a valid account.",
+            "Minimum deposit amount 5000JD or 5000$ Classified as: CBoJ - Internal",
+            "Funds must remain invested until the maturity date to receive the agreed benefits. Fees & Charges:",
+            "No account opening or maintenance fees.",
+            "Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:",
+            "Visit any bank branch or apply through the bank's Mobile APP",
+            "Choose the deposit amount and preferred tenor.",
+            "Review and accept the terms and conditions.",
+            "Fund the deposit from an eligible account."
+          ],
+          "label": "Type: Fixed-term deposit with interest paid to the customer's account every month while the principal remains invested until maturity. Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "source": {
+        "page": 2,
+        "images": [],
+        "language": "en"
+      }
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "Monthly Paid Interest Term Deposit",
+    "children": [
+      {
+        "type": "bullet_list",
+        "title": "Monthly Paid Interest Term Deposit",
+        "section_index": 0,
+        "blocks": [
+          {
+            "items": [
+              "Receive a steady monthly income from interest payments.",
+              "Guaranteed interest rate for the selected term.",
+              "Safe and secure investment with predictable returns.",
+              "Ideal for customers seeking regular cash flow without withdrawing their savings. Eligibility Criteria:",
+              "Available to individual customers with a valid account.",
+              "Minimum deposit amount 5000JD or 5000$ Classified as: CBoJ - Internal",
+              "Funds must remain invested until the maturity date to receive the agreed benefits. Fees & Charges:",
+              "No account opening or maintenance fees.",
+              "Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:",
+              "Visit any bank branch or apply through the bank's Mobile APP",
+              "Choose the deposit amount and preferred tenor.",
+              "Review and accept the terms and conditions.",
+              "Fund the deposit from an eligible account."
+            ],
+            "label": "Type: Fixed-term deposit with interest paid to the customer's account every month while the principal remains invested until maturity. Benefits",
+            "type": "bullet_list"
+          }
+        ]
+      }
+    ]
+  }
+}

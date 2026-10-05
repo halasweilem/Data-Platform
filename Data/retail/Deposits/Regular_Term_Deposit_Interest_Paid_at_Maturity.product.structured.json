@@ -1,0 +1,109 @@
+{
+  "title": "Regular Term Deposit (Interest Paid at Maturity)",
+  "sections": [
+    {
+      "content": "Type: Fixed-term deposit where both the principal and the accrued interest are paid in full at the maturity date. Benefits:\n• Guaranteed fixed return throughout the investment period.\n• Higher savings discipline as funds remain invested until maturity.\n• Suitable for customers saving toward a future financial goal.\n• Safe investment with predictable returns. Eligibility Criteria:\n• Available to individual customers with a valid account.\n• Minimum deposit amount 5000JD or 5000$.\n• Funds must remain invested until the maturity date. Fees & Charges:\n• No account opening or maintenance fees.\n• Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:\n• Visit any bank branch or apply through the bank's mobile app\n• Select the deposit amount and desired investment term.\n• Review and accept the terms and conditions. Classified as: CBoJ - Internal\n• Fund the deposit from an eligible account.",
+      "content_blocks": [
+        {
+          "items": [
+            "Guaranteed fixed return throughout the investment period.",
+            "Higher savings discipline as funds remain invested until maturity.",
+            "Suitable for customers saving toward a future financial goal.",
+            "Safe investment with predictable returns. Eligibility Criteria:",
+            "Available to individual customers with a valid account.",
+            "Minimum deposit amount 5000JD or 5000$.",
+            "Funds must remain invested until the maturity date. Fees & Charges:",
+            "No account opening or maintenance fees.",
+            "Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:",
+            "Visit any bank branch or apply through the bank's mobile app",
+            "Select the deposit amount and desired investment term.",
+            "Review and accept the terms and conditions. Classified as: CBoJ - Internal",
+            "Fund the deposit from an eligible account."
+          ],
+          "label": "Type: Fixed-term deposit where both the principal and the accrued interest are paid in full at the maturity date. Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Regular Term Deposit (Interest Paid at Maturity)",
+      "images": [],
+      "language": "en",
+      "page": 3,
+      "path": [
+        "Regular Term Deposit (Interest Paid at Maturity)"
+      ],
+      "section": "2. Regular Term Deposit (Interest Paid at Maturity)",
+      "section_title": "Deposits  > Deposits > Deposits > Deposit Types: > 2. Regular Term Deposit (Interest Paid at Maturity)",
+      "topic": "Deposits",
+      "variant": "content"
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-regular-term-deposit-interest-paid-at-maturity-1e9589ec",
+  "name": "Regular Term Deposit (Interest Paid at Maturity)",
+  "source": {},
+  "content": [
+    {
+      "id": "bullet_list-regular-term-deposit-interest-paid-at-maturity-f907dce2",
+      "type": "bullet_list",
+      "title": "Regular Term Deposit (Interest Paid at Maturity)",
+      "blocks": [
+        {
+          "items": [
+            "Guaranteed fixed return throughout the investment period.",
+            "Higher savings discipline as funds remain invested until maturity.",
+            "Suitable for customers saving toward a future financial goal.",
+            "Safe investment with predictable returns. Eligibility Criteria:",
+            "Available to individual customers with a valid account.",
+            "Minimum deposit amount 5000JD or 5000$.",
+            "Funds must remain invested until the maturity date. Fees & Charges:",
+            "No account opening or maintenance fees.",
+            "Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:",
+            "Visit any bank branch or apply through the bank's mobile app",
+            "Select the deposit amount and desired investment term.",
+            "Review and accept the terms and conditions. Classified as: CBoJ - Internal",
+            "Fund the deposit from an eligible account."
+          ],
+          "label": "Type: Fixed-term deposit where both the principal and the accrued interest are paid in full at the maturity date. Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "source": {
+        "page": 3,
+        "images": [],
+        "language": "en"
+      }
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "Regular Term Deposit (Interest Paid at Maturity)",
+    "children": [
+      {
+        "type": "bullet_list",
+        "title": "Regular Term Deposit (Interest Paid at Maturity)",
+        "section_index": 0,
+        "blocks": [
+          {
+            "items": [
+              "Guaranteed fixed return throughout the investment period.",
+              "Higher savings discipline as funds remain invested until maturity.",
+              "Suitable for customers saving toward a future financial goal.",
+              "Safe investment with predictable returns. Eligibility Criteria:",
+              "Available to individual customers with a valid account.",
+              "Minimum deposit amount 5000JD or 5000$.",
+              "Funds must remain invested until the maturity date. Fees & Charges:",
+              "No account opening or maintenance fees.",
+              "Early withdrawal before maturity may result in reduced or forfeited interest, according to the bank's terms and conditions. How to Create It:",
+              "Visit any bank branch or apply through the bank's mobile app",
+              "Select the deposit amount and desired investment term.",
+              "Review and accept the terms and conditions. Classified as: CBoJ - Internal",
+              "Fund the deposit from an eligible account."
+            ],
+            "label": "Type: Fixed-term deposit where both the principal and the accrued interest are paid in full at the maturity date. Benefits",
+            "type": "bullet_list"
+          }
+        ]
+      }
+    ]
+  }
+}

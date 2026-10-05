@@ -1,0 +1,36 @@
+:root {
+  --ink: #101828;
+  --muted: #6b7a85;
+  --line: #e5e7e9;
+  --soft: #f5f7f8;
+  --green: #0f2554;
+  --green2: #eff6ff;
+  --amber: #1a56db;
+  --red: #e7000b;
+}
+body { color: var(--ink); background: #f9fafb; }
+.mark { background: #0f2554; }
+.server i { background: #1a56db; }
+button { background: #0f2554; }
+button:hover { filter: brightness(1.08); }
+nav button.active { color: #101828; border-color: #e7000b; }
+.file:hover, .file.active, .topic:hover, .topic.active { background: #eff6ff; border-color: #bfdbfe; }
+.upload { color: #0f2554; border-color: #1a56db; background: #eff6ff; }
+.entry-kind { color: #0f2554; background: #eff6ff; }
+.entry-kind.note { color: #a80027; background: #fde8ed; }
+input:focus, textarea:focus { border-color: #1a56db; box-shadow: 0 0 0 3px #1a56db26; }
+a, .source-preview a, .reference-bar a { color: #1a56db; }
+#save, #approve, #confirmUpload { background: #e7000b; }
+.danger { color: #e7000b; border-color: #efb8c5; }
+.notice.success { color: #0f2554; background: #eff6ff; }
+.notice.warning { color: #704b00; background: #fff4d8; }
+.notice.error { color: #a80027; background: #fde8ed; }
+.reference-bar { color: #0f2554; background: #eff6ff; border-color: #bfdbfe; }
+.shot button { color: #0f2554; }
+.login-page { background: #eef1f4; }
+.login-copy { background: linear-gradient(155deg, #0c1c3d 0%, #0f2554 55%, #1a56db 100%); }
+.login-copy .mark { color: #0f2554; background: #eff6ff; }
+.login-copy .eyebrow { color: #8fabdc; }
+.role-option:has(input:checked) { border-color: #1a56db; background: #eff6ff; color: #0f2554; }
+.login-card button#submit { background: #0f2554; }
+.forgot { color: #1a56db; }

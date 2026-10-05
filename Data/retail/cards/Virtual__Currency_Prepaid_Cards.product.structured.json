@@ -1,0 +1,367 @@
+{
+  "title": "Virtual $ Currency Prepaid Cards",
+  "sections": [
+    {
+      "content": "Customers can issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application. Then, top up the card by transferring money from your account to the card.",
+      "content_blocks": [
+        {
+          "text": "Customers can issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application. Then, top up the card by transferring money from your account to the card.",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Description",
+      "images": [],
+      "language": "en",
+      "page": 11,
+      "path": [
+        "Virtual $ Currency Prepaid Cards",
+        "Description"
+      ],
+      "section": "Description",
+      "section_title": "cards > Cards > Virtual $ Currency Prepaid Cards > Description",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "Benefits:\n• secure online payments using the OTP service when purchasing from registered websites with 3D Secure service.\n• Easy transfers from your account to your virtual Prepaid Card through Capital Bank Mobile application.\n• Safer alternative to carrying cash\n• Easy expense control",
+      "content_blocks": [
+        {
+          "items": [
+            "secure online payments using the OTP service when purchasing from registered websites with 3D Secure service.",
+            "Easy transfers from your account to your virtual Prepaid Card through Capital Bank Mobile application.",
+            "Safer alternative to carrying cash",
+            "Easy expense control"
+          ],
+          "label": "Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Benefits",
+      "images": [],
+      "language": "en",
+      "page": 12,
+      "path": [
+        "Virtual $ Currency Prepaid Cards",
+        "Benefits"
+      ],
+      "section": "Benefits",
+      "section_title": "cards > Cards > Virtual $ Currency Prepaid Cards > Benefits",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "Common Use Cases:\n• Travel expenses\n• Online shopping",
+      "content_blocks": [
+        {
+          "items": [
+            "Travel expenses",
+            "Online shopping"
+          ],
+          "label": "Common Use Cases",
+          "type": "bullet_list"
+        }
+      ],
+      "display_title": "Common Use Cases",
+      "images": [],
+      "language": "en",
+      "page": 12,
+      "path": [
+        "Virtual $ Currency Prepaid Cards",
+        "Common Use Cases"
+      ],
+      "section": "Common Use Cases",
+      "section_title": "cards > Cards > Virtual $ Currency Prepaid Cards > Common Use Cases",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "Prepaid Cards Issuance Fee – USD/JOD Prepaid Card/ Free of charge Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions",
+      "content_blocks": [
+        {
+          "text": "Prepaid Cards Issuance Fee – USD/JOD Prepaid Card/ Free of charge Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Fees and Charges",
+      "images": [],
+      "language": "en",
+      "page": 12,
+      "path": [
+        "Virtual $ Currency Prepaid Cards",
+        "Fees and Charges"
+      ],
+      "section": "Fees and Charges:",
+      "section_title": "cards > Cards > Virtual $ Currency Prepaid Cards > Fees and Charges:",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "How to Obtain a Card:\n1. Issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application.\n2. Top up the card by transferring money from your account to the card.",
+      "content_blocks": [
+        {
+          "items": [
+            "Issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application.",
+            "Top up the card by transferring money from your account to the card."
+          ],
+          "label": "How to Obtain a Card",
+          "type": "numbered_list"
+        }
+      ],
+      "display_title": "How to Obtain a Card",
+      "images": [],
+      "language": "en",
+      "page": 12,
+      "path": [
+        "Virtual $ Currency Prepaid Cards",
+        "How to Obtain a Card"
+      ],
+      "section": "How to Obtain a Card",
+      "section_title": "cards > Cards > Virtual $ Currency Prepaid Cards > How to Obtain a Card",
+      "topic": "Cards",
+      "variant": "content"
+    },
+    {
+      "content": "Prepaid Cards | Issuance Fee – USD/JOD Prepaid Card/ | Free of charge | Foreign Currency Conversion Fee (International Transactions) | 3% for all currencies, 4% for EUR transactions",
+      "content_blocks": [
+        {
+          "text": "Prepaid Cards | Issuance Fee – USD/JOD Prepaid Card/ | Free of charge | Foreign Currency Conversion Fee (International Transactions) | 3% for all currencies, 4% for EUR transactions",
+          "type": "paragraph"
+        }
+      ],
+      "display_title": "Virtual $ Currency Prepaid Cards - Table 1",
+      "images": [],
+      "language": "en",
+      "page": 12,
+      "path": [
+        "Virtual $ Currency Prepaid Cards",
+        "Tables",
+        "Virtual $ Currency Prepaid Cards - Table 1"
+      ],
+      "section": "table",
+      "section_title": "cards > Virtual $ Currency Prepaid Cards > Tables > Virtual $ Currency Prepaid Cards - Table 1",
+      "topic": "cards",
+      "variant": "table"
+    }
+  ],
+  "schema_version": 1,
+  "id": "product-virtual-currency-prepaid-cards-690d5dfa",
+  "name": "Virtual $ Currency Prepaid Cards",
+  "source": {},
+  "content": [
+    {
+      "id": "paragraph-description-f143f1bb",
+      "type": "paragraph",
+      "title": "Description",
+      "blocks": [
+        {
+          "text": "Customers can issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application. Then, top up the card by transferring money from your account to the card.",
+          "type": "paragraph"
+        }
+      ],
+      "source": {
+        "page": 11,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "bullet_list-benefits-8ae0c136",
+      "type": "bullet_list",
+      "title": "Benefits",
+      "blocks": [
+        {
+          "items": [
+            "secure online payments using the OTP service when purchasing from registered websites with 3D Secure service.",
+            "Easy transfers from your account to your virtual Prepaid Card through Capital Bank Mobile application.",
+            "Safer alternative to carrying cash",
+            "Easy expense control"
+          ],
+          "label": "Benefits",
+          "type": "bullet_list"
+        }
+      ],
+      "source": {
+        "page": 12,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "bullet_list-common-use-cases-9c290ee1",
+      "type": "bullet_list",
+      "title": "Common Use Cases",
+      "blocks": [
+        {
+          "items": [
+            "Travel expenses",
+            "Online shopping"
+          ],
+          "label": "Common Use Cases",
+          "type": "bullet_list"
+        }
+      ],
+      "source": {
+        "page": 12,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "paragraph-fees-and-charges-5ee4b43c",
+      "type": "paragraph",
+      "title": "Fees and Charges",
+      "blocks": [
+        {
+          "text": "Prepaid Cards Issuance Fee – USD/JOD Prepaid Card/ Free of charge Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions",
+          "type": "paragraph"
+        }
+      ],
+      "source": {
+        "page": 12,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "numbered_list-how-to-obtain-a-card-721e8286",
+      "type": "numbered_list",
+      "title": "How to Obtain a Card",
+      "blocks": [
+        {
+          "items": [
+            "Issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application.",
+            "Top up the card by transferring money from your account to the card."
+          ],
+          "label": "How to Obtain a Card",
+          "type": "numbered_list"
+        }
+      ],
+      "source": {
+        "page": 12,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "group-tables-22cf514c",
+      "type": "group",
+      "title": "Tables",
+      "children": [
+        {
+          "id": "table-virtual-currency-prepaid-cards-table-1-7378fe08",
+          "type": "table",
+          "title": "Virtual $ Currency Prepaid Cards - Table 1",
+          "rows": [
+            [
+              "Prepaid Cards",
+              "Issuance Fee – USD/JOD Prepaid Card/",
+              "Free of charge",
+              "Foreign Currency Conversion Fee (International Transactions)",
+              "3% for all currencies, 4% for EUR transactions"
+            ]
+          ],
+          "source": {
+            "page": 12,
+            "images": [],
+            "language": "en"
+          }
+        }
+      ]
+    }
+  ],
+  "structure": {
+    "type": "document",
+    "title": "Virtual $ Currency Prepaid Cards",
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "Description",
+        "section_index": 0,
+        "blocks": [
+          {
+            "text": "Customers can issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application. Then, top up the card by transferring money from your account to the card.",
+            "type": "paragraph"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "title": "Benefits",
+        "section_index": 1,
+        "blocks": [
+          {
+            "items": [
+              "secure online payments using the OTP service when purchasing from registered websites with 3D Secure service.",
+              "Easy transfers from your account to your virtual Prepaid Card through Capital Bank Mobile application.",
+              "Safer alternative to carrying cash",
+              "Easy expense control"
+            ],
+            "label": "Benefits",
+            "type": "bullet_list"
+          }
+        ]
+      },
+      {
+        "type": "bullet_list",
+        "title": "Common Use Cases",
+        "section_index": 2,
+        "blocks": [
+          {
+            "items": [
+              "Travel expenses",
+              "Online shopping"
+            ],
+            "label": "Common Use Cases",
+            "type": "bullet_list"
+          }
+        ]
+      },
+      {
+        "type": "paragraph",
+        "title": "Fees and Charges",
+        "section_index": 3,
+        "blocks": [
+          {
+            "text": "Prepaid Cards Issuance Fee – USD/JOD Prepaid Card/ Free of charge Foreign Currency Conversion Fee (International Transactions) 3% for all currencies, 4% for EUR transactions",
+            "type": "paragraph"
+          }
+        ]
+      },
+      {
+        "type": "numbered_list",
+        "title": "How to Obtain a Card",
+        "section_index": 4,
+        "blocks": [
+          {
+            "items": [
+              "Issue the virtual $ prepaid card through Capital Bank of Jordan Mobile application.",
+              "Top up the card by transferring money from your account to the card."
+            ],
+            "label": "How to Obtain a Card",
+            "type": "numbered_list"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Tables",
+        "children": [
+          {
+            "type": "table",
+            "title": "Virtual $ Currency Prepaid Cards - Table 1",
+            "section_index": 5,
+            "rows": [
+              [
+                "Prepaid Cards",
+                "Issuance Fee – USD/JOD Prepaid Card/",
+                "Free of charge",
+                "Foreign Currency Conversion Fee (International Transactions)",
+                "3% for all currencies, 4% for EUR transactions"
+              ]
+            ]
+          }
+        ]
+      }
+    ]
+  }
+}

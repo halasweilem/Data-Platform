@@ -1,0 +1,3210 @@
+{
+  "content": [
+    {
+      "id": "paragraph-description-472580f9",
+      "type": "paragraph",
+      "title": "Description",
+      "blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Car Loan Program provides financing solutions for purchasing new and used vehicles for a wide range of customer segments, including public sector employees, military and Jordan public security , retirees, private sector employees, business owners and self-employed professionals, and Jordanian expatriates. The program offers flexible financing terms, competitive repayment periods, and high financing percentages based on customer profile and vehicle type."
+        }
+      ],
+      "source": {
+        "page": 1,
+        "images": [],
+        "language": "en"
+      }
+    },
+    {
+      "id": "group-terms-and-conditions-c213606c",
+      "type": "group",
+      "title": "Terms and Conditions",
+      "children": [
+        {
+          "id": "bullet_list-1-target-segments-a4eb0a7d",
+          "type": "bullet_list",
+          "title": "1. Target Segments",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "The program is available for the following categories",
+              "items": [
+                "Public sector employees, military and Jordan public security , and customs.",
+                "Retirees.",
+                "Private sector employees.",
+                "Business owners and self-employed professionals.",
+                "Jordanian expatriates."
+              ]
+            }
+          ],
+          "source": {
+            "page": 1,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-2-age-requirements-7ec85b3c",
+          "type": "group",
+          "title": "2. Age Requirements",
+          "children": [
+            {
+              "id": "bullet_list-general-customers-6bc17667",
+              "type": "bullet_list",
+              "title": "General Customers",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "General Customers",
+                  "items": [
+                    "Minimum age: 21 years.",
+                    "Maximum age at application: 65 years.",
+                    "The customer’s age must not exceed 75 years at the end of the loan tenor."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 1,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-jordanian-expatriates-1d7921e5",
+              "type": "bullet_list",
+              "title": "Jordanian Expatriates",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Jordanian Expatriates",
+                  "items": [
+                    "Minimum age at granting: 25 years.",
+                    "Maximum age at the last installment: 60 years."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 1,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-3-minimum-income-requirements-4525b342",
+          "type": "bullet_list",
+          "title": "3. Minimum Income Requirements",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "The minimum income requirement depends on the customer category",
+              "items": [
+                "Public sector employees, military and Jordan public security , and customs & Retirees & Private sector employees: Minimum JOD 700.",
+                "Business owners, professionals: Minimum JOD 2,000.",
+                "Jordanian expatriates: Minimum JOD 2,000 excluding housing allowance."
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-4-minimum-employment-or-business-period-5646b587",
+          "type": "bullet_list",
+          "title": "4. Minimum Employment or Business Period",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "4. Minimum Employment or Business Period",
+              "items": [
+                "Public Sector & Military and Jordan public security & Jordanian"
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-4-minimum-employment-or-business-period-5646b587",
+          "type": "group",
+          "title": "4. Minimum Employment or Business Period",
+          "children": [
+            {
+              "id": "paragraph-expatriates-f3254242",
+              "type": "paragraph",
+              "title": "Expatriates",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Minimum 12 months of service."
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-retirees-2388f6e4",
+              "type": "paragraph",
+              "title": "Retirees",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "At least one salary transfer is required."
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-private-sector-employees-929ca570",
+              "type": "bullet_list",
+              "title": "Private Sector Employees",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Private Sector Employees",
+                  "items": [
+                    "TML companies: 3 months confirmed employment.",
+                    "Non-TML companies: 12 months."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-business-owners-professionals-b5ca742e",
+              "type": "paragraph",
+              "title": "Business Owners & Professionals",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Minimum 24 months of operation."
+                }
+              ],
+              "source": {
+                "page": 2,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-5-maximum-employment-conditions-a8683e6a",
+          "type": "bullet_list",
+          "title": "5. Maximum Employment Conditions",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "5. Maximum Employment Conditions",
+              "items": [
+                "No maximum service limit, except for expatriates, the customer’s age must not exceed 60 years at the final installment date."
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-6-excluded-professions-a24c8b08",
+          "type": "bullet_list",
+          "title": "6. Excluded Professions",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "The following professions are excluded from financing eligibility",
+              "items": [
+                "Cleaners.",
+                "Office messengers.",
+                "Drivers.",
+                "Municipality employees.",
+                "Daily wage workers."
+              ]
+            }
+          ],
+          "source": {
+            "page": 2,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-7-required-guarantees-db61ba43",
+          "type": "group",
+          "title": "7. Required Guarantees",
+          "children": [
+            {
+              "id": "bullet_list-retirees-private-sector-f7cab9c9",
+              "type": "bullet_list",
+              "title": "& Retirees & Private Sector",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "The following guarantees are required",
+                  "items": [
+                    "Official salary transfer to the bank.",
+                    "Vehicle mortgage in favor of the bank equal to the loan amount.",
+                    "Comprehensive insurance assigned to the bank for an amount not less than the loan balance.",
+                    "TML company employees may obtain financing without salary transfer for all segments except the Regular segment, subject to:",
+                    "Maximum financing ratio of 65%.",
+                    "Maximum 60% financing for Chinese vehicles."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 3,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-business-owners-professionals-620d4471",
+              "type": "bullet_list",
+              "title": "Business Owners & Professionals",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Business Owners & Professionals",
+                  "items": [
+                    "Vehicle mortgage in favor of the bank equal to the loan amount.",
+                    "Comprehensive insurance assigned to the bank for an amount not less than the loan balance."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 3,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-8-loan-tenor-d789d725",
+          "type": "bullet_list",
+          "title": "8. Loan Tenor",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "8. Loan Tenor",
+              "items": [
+                "The maximum loan tenor is 8 years."
+              ]
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-9-maximum-number-of-loans-2b3efdc8",
+          "type": "bullet_list",
+          "title": "9. Maximum Number of Loans",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "9. Maximum Number of Loans",
+              "items": [
+                "Customers may obtain a maximum of two car loans."
+              ]
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-10-minimum-loan-amount-f1252cfe",
+          "type": "bullet_list",
+          "title": "10. Minimum Loan Amount",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "10. Minimum Loan Amount",
+              "items": [
+                "The minimum financing amount is JOD 5,000."
+              ]
+            }
+          ],
+          "source": {
+            "page": 3,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-11-financing-percentage-7369116a",
+          "type": "group",
+          "title": "11. Financing Percentage",
+          "children": [
+            {
+              "id": "bullet_list-retirees-private-sector-f5666ffd",
+              "type": "bullet_list",
+              "title": "& Retirees & Private Sector",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "& Retirees & Private Sector",
+                  "items": [
+                    "New Vehicles",
+                    "Up to 100% financing for new vehicles, Chinese vehicles: maximum 70% financing.",
+                    "Used Vehicles",
+                    "Up to 90% financing for used vehicles, Chinese vehicles: maximum 70% financing."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-business-owners-professionals-ef7d1b87",
+              "type": "bullet_list",
+              "title": "Business Owners & Professionals",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Business Owners & Professionals",
+                  "items": [
+                    "Up to 90% financing for all vehicles, Chinese vehicles remain capped at 70%."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "group-12-maximum-loan-amount-by-customer-segment-a0492aac",
+          "type": "group",
+          "title": "12. Maximum Loan Amount by Customer Segment",
+          "children": [
+            {
+              "id": "paragraph-regular-segment-1b2450f4",
+              "type": "paragraph",
+              "title": "Regular Segment",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Up to 25 times the customer’s salary, Maximum financing: JOD 25,000."
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-upper-regular-segment-c148c32f",
+              "type": "paragraph",
+              "title": "Upper Regular Segment",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Up to 35 times salary, Maximum financing: JOD 50,000."
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-select-segment-e8e306e3",
+              "type": "paragraph",
+              "title": "Select Segment",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Up to 35 times salary, Maximum financing: JOD 100,000."
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-private-banking-segment-96c12297",
+              "type": "paragraph",
+              "title": "Private Banking Segment",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Up to 35 times salary, Maximum financing: JOD 125,000."
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-13-debt-burden-ratio-6dcc1ee9",
+          "type": "bullet_list",
+          "title": "13. Debt Burden Ratio",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "13. Debt Burden Ratio",
+              "items": [
+                "Maximum 55% total liabilities:50% for loans + Additional 5% for credit card obligations.",
+                "Except for Regular Segment",
+                "Maximum debt burden ratio: 50%."
+              ]
+            }
+          ],
+          "source": {
+            "page": 4,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-14-vehicle-inspection-and-valuation-da0b42e4",
+          "type": "group",
+          "title": "14. Vehicle Inspection and Valuation",
+          "children": [
+            {
+              "id": "paragraph-new-vehicles-from-showrooms-36e2a495",
+              "type": "paragraph",
+              "title": "New Vehicles from Showrooms",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Vehicle quotation from the showroom, Agency letter showing the vehicle price. If unavailable, a technical inspection and valuation by an approved evaluator."
+                }
+              ],
+              "source": {
+                "page": 4,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-new-vehicles-from-agencies-bc2929b9",
+              "type": "paragraph",
+              "title": "New Vehicles from Agencies",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Official quotation from the dealership only."
+                }
+              ],
+              "source": {
+                "page": 5,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-used-vehicles-de60eee4",
+              "type": "paragraph",
+              "title": "Used Vehicles",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Vehicle quotation, technical inspection report, Vehicle valuation by an approved evaluator."
+                }
+              ],
+              "source": {
+                "page": 5,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-valuation-conditions-2c237bb4",
+              "type": "bullet_list",
+              "title": "Valuation Conditions",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Valuation Conditions",
+                  "items": [
+                    "Inspection rating must be “4 Good”.",
+                    "Chassis or structural damages are unacceptable.",
+                    "Hybrid and electric vehicle batteries must be in good or acceptable condition.",
+                    "Auto Score inspection result must not be less than 80%."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 5,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-15-vehicle-age-at-loan-maturity-8b869e4c",
+          "type": "bullet_list",
+          "title": "15. Vehicle Age at Loan Maturity",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "At the end of the financing period, the vehicle age must not exceed",
+              "items": [
+                "German and Japanese vehicles: 15 years.",
+                "Other vehicles: 12 years.",
+                "Chinese vehicles: 10 years, the vehicle age at granting must not exceed 2 years."
+              ]
+            }
+          ],
+          "source": {
+            "page": 5,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-16-required-documents-681723d6",
+          "type": "bullet_list",
+          "title": "16. Required Documents",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "16. Required Documents",
+              "items": [
+                "Copy of vehicle registration or customs declaration.",
+                "For vehicles financed through dealerships, the quotation is sufficient initially.",
+                "After approval: o Vehicle registration showing the mortgage. o Official mortgage letter. o Comprehensive insurance policy assigned to the bank."
+              ]
+            }
+          ],
+          "source": {
+            "page": 5,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-17-income-verification-documents-d506abc8",
+          "type": "group",
+          "title": "17. Income Verification Documents",
+          "children": [
+            {
+              "id": "bullet_list-salary-transfer-customers-b7ca97f1",
+              "type": "bullet_list",
+              "title": "Salary Transfer Customers",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Salary Transfer Customers",
+                  "items": [
+                    "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).",
+                    "Commitment letter and end-of-service transfer undertaking addressed to the bank.",
+                    "Certified bank statement for the last 6 months.",
+                    "Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments.",
+                    "Social Security statement for all employees of Non TML companies, regardless of the employment period ."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 6,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-business-owners-36d38ad7",
+              "type": "bullet_list",
+              "title": "Business Owners",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Business Owners",
+                  "items": [
+                    "Commercial registration.",
+                    "Valid professional license.",
+                    "Bank statement for the last 6 months."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 6,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-professionals-2e755d71",
+              "type": "bullet_list",
+              "title": "Professionals",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Professionals",
+                  "items": [
+                    "Professional practice license.",
+                    "Bank statement for the last 6 months."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 6,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-jordanian-expatriates-1d5fcbee",
+              "type": "bullet_list",
+              "title": "Jordanian Expatriates",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Jordanian Expatriates",
+                  "items": [
+                    "Salary Transfer Customers : Salary certificate and salary slip for the last 3 months + Bank statement for the last 6 months.",
+                    "Business owners: Recent commercial registration + Financial statements for the last two years.",
+                    "Credit report from the country of residence.",
+                    "QR code authentication may replace official attestation where available.",
+                    "Otherwise, salary certificates and commercial registrations must be certified by the relevant authorities and the Jordanian embassy.",
+                    "IRS tax statement is required for expatriates residing in Canada, the United States, and the United Kingdom."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 6,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-18-general-conditions-1f7f6edd",
+          "type": "bullet_list",
+          "title": "18. General Conditions",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "After approval and before disbursement",
+              "items": [
+                "At least 90% of the down payment amount must be deposited into the customer’s account before issuing the vehicle payment cheque for vehicles financed through approved showrooms.",
+                "For vehicles financed through official dealerships, a payment receipt confirming settlement of the customer’s contribution is sufficient."
+              ]
+            }
+          ],
+          "source": {
+            "page": 6,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "paragraph-19-approved-dealers-and-agencies-ed311de5",
+          "type": "paragraph",
+          "title": "19. Approved Dealers and Agencies",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "All dealers and agencies are accepted, except for Chinese vehicles, which must be financed only through approved dealerships and agencies."
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        }
+      ]
+    },
+    {
+      "id": "group-car-loan-program-with-reduced-requirements-9078e2c3",
+      "type": "group",
+      "title": "Car Loan Program with Reduced Requirements",
+      "children": [
+        {
+          "id": "paragraph-description-8670ddd4",
+          "type": "paragraph",
+          "title": "Description",
+          "blocks": [
+            {
+              "type": "paragraph",
+              "text": "The bank also offers a simplified car financing program with reduced documentation requirements."
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-eligible-vehicle-types-d0f979c3",
+          "type": "bullet_list",
+          "title": "Eligible Vehicle Types",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "The program applies to",
+              "items": [
+                "German vehicles, American vehicles, British vehicles, Japanese vehicles."
+              ]
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-financing-percentage-f8de71dd",
+          "type": "bullet_list",
+          "title": "Financing Percentage",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Financing Percentage",
+              "items": [
+                "Up to 50% financing."
+              ]
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-minimum-vehicle-price-5af4269c",
+          "type": "bullet_list",
+          "title": "Minimum Vehicle Price",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Minimum Vehicle Price",
+              "items": [
+                "Minimum vehicle value: JOD 40,000."
+              ]
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-repayment-period-65302c0f",
+          "type": "bullet_list",
+          "title": "Repayment Period",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Repayment Period",
+              "items": [
+                "Up to 60 months."
+              ]
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-vehicle-age-bf55c9fb",
+          "type": "bullet_list",
+          "title": "Vehicle Age",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Vehicle Age",
+              "items": [
+                "Maximum 4 years old, whether new or used."
+              ]
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-debt-burden-ratio-7fe91d85",
+          "type": "bullet_list",
+          "title": "Debt Burden Ratio",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Debt Burden Ratio",
+              "items": [
+                "Maximum 55%."
+              ]
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-approved-dealers-4fddcdca",
+          "type": "bullet_list",
+          "title": "Approved Dealers",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Approved Dealers",
+              "items": [
+                "All approved dealerships and showrooms."
+              ]
+            }
+          ],
+          "source": {
+            "page": 7,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-financing-purpose-27db591c",
+          "type": "bullet_list",
+          "title": "Financing Purpose",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Financing Purpose",
+              "items": [
+                "Personal use only.",
+                "Vehicles used for ride-hailing and smart applications are not eligible."
+              ]
+            }
+          ],
+          "source": {
+            "page": 8,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "bullet_list-maximum-loan-amount-d097005b",
+          "type": "bullet_list",
+          "title": "Maximum Loan Amount",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Maximum Loan Amount",
+              "items": [
+                "Up to JOD 125,000, subject to the customer segment limit."
+              ]
+            }
+          ],
+          "source": {
+            "page": 8,
+            "images": [],
+            "language": "en"
+          }
+        },
+        {
+          "id": "group-simplified-income-verification-7d651555",
+          "type": "group",
+          "title": "Simplified Income Verification",
+          "children": [
+            {
+              "id": "paragraph-salary-transfer-customers-7ad429aa",
+              "type": "paragraph",
+              "title": "Salary Transfer Customers",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Social Security statement only."
+                }
+              ],
+              "source": {
+                "page": 8,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "paragraph-business-owners-professionals-17493919",
+              "type": "paragraph",
+              "title": "Business Owners& Professionals",
+              "blocks": [
+                {
+                  "type": "paragraph",
+                  "text": "Commercial registration and valid professional license."
+                }
+              ],
+              "source": {
+                "page": 8,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-jordanian-expatriates-721e3a24",
+              "type": "bullet_list",
+              "title": "Jordanian Expatriates",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Jordanian Expatriates",
+                  "items": [
+                    "Salary certificate or salary slip.",
+                    "Credit report from country of residence."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 8,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "group-general-conditions-for-simplified-program-f8c4635f",
+          "type": "group",
+          "title": "General Conditions for Simplified Program",
+          "children": [
+            {
+              "id": "bullet_list-minimum-employment-period-30368db6",
+              "type": "bullet_list",
+              "title": "Minimum employment period",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "Minimum employment period",
+                  "items": [
+                    "6 months for salary transfer customers.",
+                    "24 months for expatriates, business owners, and professionals."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 8,
+                "images": [],
+                "language": "en"
+              }
+            },
+            {
+              "id": "bullet_list-before-disbursement-d097d089",
+              "type": "bullet_list",
+              "title": "Before disbursement",
+              "blocks": [
+                {
+                  "type": "bullet_list",
+                  "label": "o At least 90% of the down payment must be deposited into the customer’s account for showroom-financed vehicles. o For dealership-financed vehicles, proof of payment of customer contribution is sufficient. Items",
+                  "items": [
+                    "One vehicle may be registered under the customer’s company name provided that the vehicle is for personal use."
+                  ]
+                }
+              ],
+              "source": {
+                "page": 8,
+                "images": [],
+                "language": "en"
+              }
+            }
+          ]
+        },
+        {
+          "id": "bullet_list-credit-approval-validity-95968989",
+          "type": "bullet_list",
+          "title": "Credit Approval Validity",
+          "blocks": [
+            {
+              "type": "bullet_list",
+              "label": "Credit Approval Validity",
+              "items": [
+                "The credit approval remains valid for 45 days."
+              ]
+            }
+          ],
+          "source": {
+            "page": 8,
+            "images": [],
+            "language": "en"
+          }
+        }
+      ]
+    }
+  ],
+  "id": "product-car-loan-30609a39",
+  "name": "Car Loan",
+  "schema_version": 1,
+  "sections": [
+    {
+      "content": "The Car Loan Program provides financing solutions for purchasing new and used vehicles for a wide range of customer segments, including public sector employees, military and Jordan public security , retirees, private sector employees, business owners and self-employed professionals, and Jordanian expatriates. The program offers flexible financing terms, competitive repayment periods, and high financing percentages based on customer profile and vehicle type.",
+      "display_title": "Description",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "Car Loan",
+        "Description"
+      ],
+      "section": "Description",
+      "section_title": "Car Loan > Description > Description",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "The Car Loan Program provides financing solutions for purchasing new and used vehicles for a wide range of customer segments, including public sector employees, military and Jordan public security , retirees, private sector employees, business owners and self-employed professionals, and Jordanian expatriates. The program offers flexible financing terms, competitive repayment periods, and high financing percentages based on customer profile and vehicle type."
+        }
+      ]
+    },
+    {
+      "content": "The program is available for the following categories:\n• Public sector employees, military and Jordan public security , and customs.\n• Retirees.\n• Private sector employees.\n• Business owners and self-employed professionals.\n• Jordanian expatriates.",
+      "display_title": "1. Target Segments",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "1. Target Segments"
+      ],
+      "section": "1. Target Segments",
+      "section_title": "Car Loan > Terms and Conditions > 1. Target Segments",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The program is available for the following categories",
+          "items": [
+            "Public sector employees, military and Jordan public security , and customs.",
+            "Retirees.",
+            "Private sector employees.",
+            "Business owners and self-employed professionals.",
+            "Jordanian expatriates."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "General Customers:\n• Minimum age: 21 years.\n• Maximum age at application: 65 years.\n• The customer’s age must not exceed 75 years at the end of the loan tenor.",
+      "display_title": "General Customers",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "2. Age Requirements",
+        "General Customers"
+      ],
+      "section": "General Customers",
+      "section_title": "Car Loan > Terms and Conditions > 2. Age Requirements > General Customers",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "General Customers",
+          "items": [
+            "Minimum age: 21 years.",
+            "Maximum age at application: 65 years.",
+            "The customer’s age must not exceed 75 years at the end of the loan tenor."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Jordanian Expatriates:\n• Minimum age at granting: 25 years.\n• Maximum age at the last installment: 60 years.",
+      "display_title": "Jordanian Expatriates",
+      "images": [],
+      "language": "en",
+      "page": 1,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "2. Age Requirements",
+        "Jordanian Expatriates"
+      ],
+      "section": "Jordanian Expatriates",
+      "section_title": "Car Loan > Terms and Conditions > 2. Age Requirements > Jordanian Expatriates",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Jordanian Expatriates",
+          "items": [
+            "Minimum age at granting: 25 years.",
+            "Maximum age at the last installment: 60 years."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "The minimum income requirement depends on the customer category:\n• Public sector employees, military and Jordan public security , and customs & Retirees & Private sector employees: Minimum JOD 700.\n• Business owners, professionals: Minimum JOD 2,000.\n• Jordanian expatriates: Minimum JOD 2,000 excluding housing allowance.",
+      "display_title": "3. Minimum Income Requirements",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "3. Minimum Income Requirements"
+      ],
+      "section": "3. Minimum Income Requirements",
+      "section_title": "Car Loan > Terms and Conditions > 3. Minimum Income Requirements",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The minimum income requirement depends on the customer category",
+          "items": [
+            "Public sector employees, military and Jordan public security , and customs & Retirees & Private sector employees: Minimum JOD 700.",
+            "Business owners, professionals: Minimum JOD 2,000.",
+            "Jordanian expatriates: Minimum JOD 2,000 excluding housing allowance."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "4. Minimum Employment or Business Period:\n• Public Sector & Military and Jordan public security & Jordanian",
+      "display_title": "4. Minimum Employment or Business Period",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment or Business Period"
+      ],
+      "section": "4. Minimum Employment or Business Period",
+      "section_title": "Car Loan > Terms and Conditions > 4. Minimum Employment or Business Period",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "4. Minimum Employment or Business Period",
+          "items": [
+            "Public Sector & Military and Jordan public security & Jordanian"
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Minimum 12 months of service.",
+      "display_title": "Expatriates",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment or Business Period",
+        "Expatriates"
+      ],
+      "section": "Expatriates",
+      "section_title": "Car Loan > Terms and Conditions > 4. Minimum Employment or Business Period > Expatriates",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Minimum 12 months of service."
+        }
+      ]
+    },
+    {
+      "content": "At least one salary transfer is required.",
+      "display_title": "Retirees",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment or Business Period",
+        "Retirees"
+      ],
+      "section": "Retirees",
+      "section_title": "Car Loan > Terms and Conditions > 4. Minimum Employment or Business Period > Retirees",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "At least one salary transfer is required."
+        }
+      ]
+    },
+    {
+      "content": "Private Sector Employees:\n• TML companies: 3 months confirmed employment.\n• Non-TML companies: 12 months.",
+      "display_title": "Private Sector Employees",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment or Business Period",
+        "Private Sector Employees"
+      ],
+      "section": "Private Sector Employees",
+      "section_title": "Car Loan > Terms and Conditions > 4. Minimum Employment or Business Period > Private Sector Employees",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Private Sector Employees",
+          "items": [
+            "TML companies: 3 months confirmed employment.",
+            "Non-TML companies: 12 months."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Minimum 24 months of operation.",
+      "display_title": "Business Owners & Professionals",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "4. Minimum Employment or Business Period",
+        "Business Owners & Professionals"
+      ],
+      "section": "Business Owners & Professionals",
+      "section_title": "Car Loan > Terms and Conditions > 4. Minimum Employment or Business Period > Business Owners & Professionals",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Minimum 24 months of operation."
+        }
+      ]
+    },
+    {
+      "content": "5. Maximum Employment Conditions:\n• No maximum service limit, except for expatriates, the customer’s age must not exceed 60 years at the final installment date.",
+      "display_title": "5. Maximum Employment Conditions",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "5. Maximum Employment Conditions"
+      ],
+      "section": "5. Maximum Employment Conditions",
+      "section_title": "Car Loan > Terms and Conditions > 5. Maximum Employment Conditions",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "5. Maximum Employment Conditions",
+          "items": [
+            "No maximum service limit, except for expatriates, the customer’s age must not exceed 60 years at the final installment date."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "The following professions are excluded from financing eligibility:\n• Cleaners.\n• Office messengers.\n• Drivers.\n• Municipality employees.\n• Daily wage workers.",
+      "display_title": "6. Excluded Professions",
+      "images": [],
+      "language": "en",
+      "page": 2,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "6. Excluded Professions"
+      ],
+      "section": "6. Excluded Professions",
+      "section_title": "Car Loan > Terms and Conditions > 6. Excluded Professions",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The following professions are excluded from financing eligibility",
+          "items": [
+            "Cleaners.",
+            "Office messengers.",
+            "Drivers.",
+            "Municipality employees.",
+            "Daily wage workers."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "The following guarantees are required:\n• Official salary transfer to the bank.\n• Vehicle mortgage in favor of the bank equal to the loan amount.\n• Comprehensive insurance assigned to the bank for an amount not less than the loan balance.\n• TML company employees may obtain financing without salary transfer for all segments except the Regular segment, subject to:\n• Maximum financing ratio of 65%.\n• Maximum 60% financing for Chinese vehicles.",
+      "display_title": "& Retirees & Private Sector",
+      "images": [],
+      "language": "en",
+      "page": 3,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "7. Required Guarantees",
+        "& Retirees & Private Sector"
+      ],
+      "section": "& Retirees & Private Sector",
+      "section_title": "Car Loan > Terms and Conditions > 7. Required Guarantees > & Retirees & Private Sector",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The following guarantees are required",
+          "items": [
+            "Official salary transfer to the bank.",
+            "Vehicle mortgage in favor of the bank equal to the loan amount.",
+            "Comprehensive insurance assigned to the bank for an amount not less than the loan balance.",
+            "TML company employees may obtain financing without salary transfer for all segments except the Regular segment, subject to:",
+            "Maximum financing ratio of 65%.",
+            "Maximum 60% financing for Chinese vehicles."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Business Owners & Professionals:\n• Vehicle mortgage in favor of the bank equal to the loan amount.\n• Comprehensive insurance assigned to the bank for an amount not less than the loan balance.",
+      "display_title": "Business Owners & Professionals",
+      "images": [],
+      "language": "en",
+      "page": 3,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "7. Required Guarantees",
+        "Business Owners & Professionals"
+      ],
+      "section": "Business Owners & Professionals",
+      "section_title": "Car Loan > Terms and Conditions > 7. Required Guarantees > Business Owners & Professionals",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Business Owners & Professionals",
+          "items": [
+            "Vehicle mortgage in favor of the bank equal to the loan amount.",
+            "Comprehensive insurance assigned to the bank for an amount not less than the loan balance."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "8. Loan Tenor:\n• The maximum loan tenor is 8 years.",
+      "display_title": "8. Loan Tenor",
+      "images": [],
+      "language": "en",
+      "page": 3,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "8. Loan Tenor"
+      ],
+      "section": "8. Loan Tenor",
+      "section_title": "Car Loan > Terms and Conditions > 8. Loan Tenor",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "8. Loan Tenor",
+          "items": [
+            "The maximum loan tenor is 8 years."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "9. Maximum Number of Loans:\n• Customers may obtain a maximum of two car loans.",
+      "display_title": "9. Maximum Number of Loans",
+      "images": [],
+      "language": "en",
+      "page": 3,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "9. Maximum Number of Loans"
+      ],
+      "section": "9. Maximum Number of Loans",
+      "section_title": "Car Loan > Terms and Conditions > 9. Maximum Number of Loans",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "9. Maximum Number of Loans",
+          "items": [
+            "Customers may obtain a maximum of two car loans."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "10. Minimum Loan Amount:\n• The minimum financing amount is JOD 5,000.",
+      "display_title": "10. Minimum Loan Amount",
+      "images": [],
+      "language": "en",
+      "page": 3,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "10. Minimum Loan Amount"
+      ],
+      "section": "10. Minimum Loan Amount",
+      "section_title": "Car Loan > Terms and Conditions > 10. Minimum Loan Amount",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "10. Minimum Loan Amount",
+          "items": [
+            "The minimum financing amount is JOD 5,000."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "& Retirees & Private Sector:\n• New Vehicles\n• Up to 100% financing for new vehicles, Chinese vehicles: maximum 70% financing.\n• Used Vehicles\n• Up to 90% financing for used vehicles, Chinese vehicles: maximum 70% financing.",
+      "display_title": "& Retirees & Private Sector",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "11. Financing Percentage",
+        "& Retirees & Private Sector"
+      ],
+      "section": "& Retirees & Private Sector",
+      "section_title": "Car Loan > Terms and Conditions > 11. Financing Percentage > & Retirees & Private Sector",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "& Retirees & Private Sector",
+          "items": [
+            "New Vehicles",
+            "Up to 100% financing for new vehicles, Chinese vehicles: maximum 70% financing.",
+            "Used Vehicles",
+            "Up to 90% financing for used vehicles, Chinese vehicles: maximum 70% financing."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Business Owners & Professionals:\n• Up to 90% financing for all vehicles, Chinese vehicles remain capped at 70%.",
+      "display_title": "Business Owners & Professionals",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "11. Financing Percentage",
+        "Business Owners & Professionals"
+      ],
+      "section": "Business Owners & Professionals",
+      "section_title": "Car Loan > Terms and Conditions > 11. Financing Percentage > Business Owners & Professionals",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Business Owners & Professionals",
+          "items": [
+            "Up to 90% financing for all vehicles, Chinese vehicles remain capped at 70%."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Up to 25 times the customer’s salary, Maximum financing: JOD 25,000.",
+      "display_title": "Regular Segment",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "12. Maximum Loan Amount by Customer Segment",
+        "Regular Segment"
+      ],
+      "section": "Regular Segment",
+      "section_title": "Car Loan > Terms and Conditions > 12. Maximum Loan Amount by Customer Segment > Regular Segment",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Up to 25 times the customer’s salary, Maximum financing: JOD 25,000."
+        }
+      ]
+    },
+    {
+      "content": "Up to 35 times salary, Maximum financing: JOD 50,000.",
+      "display_title": "Upper Regular Segment",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "12. Maximum Loan Amount by Customer Segment",
+        "Upper Regular Segment"
+      ],
+      "section": "Upper Regular Segment",
+      "section_title": "Car Loan > Terms and Conditions > 12. Maximum Loan Amount by Customer Segment > Upper Regular Segment",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Up to 35 times salary, Maximum financing: JOD 50,000."
+        }
+      ]
+    },
+    {
+      "content": "Up to 35 times salary, Maximum financing: JOD 100,000.",
+      "display_title": "Select Segment",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "12. Maximum Loan Amount by Customer Segment",
+        "Select Segment"
+      ],
+      "section": "Select Segment",
+      "section_title": "Car Loan > Terms and Conditions > 12. Maximum Loan Amount by Customer Segment > Select Segment",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Up to 35 times salary, Maximum financing: JOD 100,000."
+        }
+      ]
+    },
+    {
+      "content": "Up to 35 times salary, Maximum financing: JOD 125,000.",
+      "display_title": "Private Banking Segment",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "12. Maximum Loan Amount by Customer Segment",
+        "Private Banking Segment"
+      ],
+      "section": "Private Banking Segment",
+      "section_title": "Car Loan > Terms and Conditions > 12. Maximum Loan Amount by Customer Segment > Private Banking Segment",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Up to 35 times salary, Maximum financing: JOD 125,000."
+        }
+      ]
+    },
+    {
+      "content": "13. Debt Burden Ratio:\n• Maximum 55% total liabilities:50% for loans + Additional 5% for credit card obligations.\n• Except for Regular Segment\n• Maximum debt burden ratio: 50%.",
+      "display_title": "13. Debt Burden Ratio",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "13. Debt Burden Ratio"
+      ],
+      "section": "13. Debt Burden Ratio",
+      "section_title": "Car Loan > Terms and Conditions > 13. Debt Burden Ratio",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "13. Debt Burden Ratio",
+          "items": [
+            "Maximum 55% total liabilities:50% for loans + Additional 5% for credit card obligations.",
+            "Except for Regular Segment",
+            "Maximum debt burden ratio: 50%."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Vehicle quotation from the showroom, Agency letter showing the vehicle price. If unavailable, a technical inspection and valuation by an approved evaluator.",
+      "display_title": "New Vehicles from Showrooms",
+      "images": [],
+      "language": "en",
+      "page": 4,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "14. Vehicle Inspection and Valuation",
+        "New Vehicles from Showrooms"
+      ],
+      "section": "New Vehicles from Showrooms",
+      "section_title": "Car Loan > Terms and Conditions > 14. Vehicle Inspection and Valuation > New Vehicles from Showrooms",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Vehicle quotation from the showroom, Agency letter showing the vehicle price. If unavailable, a technical inspection and valuation by an approved evaluator."
+        }
+      ]
+    },
+    {
+      "content": "Official quotation from the dealership only.",
+      "display_title": "New Vehicles from Agencies",
+      "images": [],
+      "language": "en",
+      "page": 5,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "14. Vehicle Inspection and Valuation",
+        "New Vehicles from Agencies"
+      ],
+      "section": "New Vehicles from Agencies",
+      "section_title": "Car Loan > Terms and Conditions > 14. Vehicle Inspection and Valuation > New Vehicles from Agencies",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Official quotation from the dealership only."
+        }
+      ]
+    },
+    {
+      "content": "Vehicle quotation, technical inspection report, Vehicle valuation by an approved evaluator.",
+      "display_title": "Used Vehicles",
+      "images": [],
+      "language": "en",
+      "page": 5,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "14. Vehicle Inspection and Valuation",
+        "Used Vehicles"
+      ],
+      "section": "Used Vehicles",
+      "section_title": "Car Loan > Terms and Conditions > 14. Vehicle Inspection and Valuation > Used Vehicles",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Vehicle quotation, technical inspection report, Vehicle valuation by an approved evaluator."
+        }
+      ]
+    },
+    {
+      "content": "Valuation Conditions:\n• Inspection rating must be “4 Good”.\n• Chassis or structural damages are unacceptable.\n• Hybrid and electric vehicle batteries must be in good or acceptable condition.\n• Auto Score inspection result must not be less than 80%.",
+      "display_title": "Valuation Conditions",
+      "images": [],
+      "language": "en",
+      "page": 5,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "14. Vehicle Inspection and Valuation",
+        "Valuation Conditions"
+      ],
+      "section": "Valuation Conditions",
+      "section_title": "Car Loan > Terms and Conditions > 14. Vehicle Inspection and Valuation > Valuation Conditions",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Valuation Conditions",
+          "items": [
+            "Inspection rating must be “4 Good”.",
+            "Chassis or structural damages are unacceptable.",
+            "Hybrid and electric vehicle batteries must be in good or acceptable condition.",
+            "Auto Score inspection result must not be less than 80%."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "At the end of the financing period, the vehicle age must not exceed:\n• German and Japanese vehicles: 15 years.\n• Other vehicles: 12 years.\n• Chinese vehicles: 10 years, the vehicle age at granting must not exceed 2 years.",
+      "display_title": "15. Vehicle Age at Loan Maturity",
+      "images": [],
+      "language": "en",
+      "page": 5,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "15. Vehicle Age at Loan Maturity"
+      ],
+      "section": "15. Vehicle Age at Loan Maturity",
+      "section_title": "Car Loan > Terms and Conditions > 15. Vehicle Age at Loan Maturity",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "At the end of the financing period, the vehicle age must not exceed",
+          "items": [
+            "German and Japanese vehicles: 15 years.",
+            "Other vehicles: 12 years.",
+            "Chinese vehicles: 10 years, the vehicle age at granting must not exceed 2 years."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "16. Required Documents:\n• Copy of vehicle registration or customs declaration.\n• For vehicles financed through dealerships, the quotation is sufficient initially.\n• After approval: o Vehicle registration showing the mortgage. o Official mortgage letter. o Comprehensive insurance policy assigned to the bank.",
+      "display_title": "16. Required Documents",
+      "images": [],
+      "language": "en",
+      "page": 5,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "16. Required Documents"
+      ],
+      "section": "16. Required Documents",
+      "section_title": "Car Loan > Terms and Conditions > 16. Required Documents",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "16. Required Documents",
+          "items": [
+            "Copy of vehicle registration or customs declaration.",
+            "For vehicles financed through dealerships, the quotation is sufficient initially.",
+            "After approval: o Vehicle registration showing the mortgage. o Official mortgage letter. o Comprehensive insurance policy assigned to the bank."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Salary Transfer Customers:\n• A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).\n• Commitment letter and end-of-service transfer undertaking addressed to the bank.\n• Certified bank statement for the last 6 months.\n• Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments.\n• Social Security statement for all employees of Non TML companies, regardless of the employment period .",
+      "display_title": "Salary Transfer Customers",
+      "images": [],
+      "language": "en",
+      "page": 6,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "17. Income Verification Documents",
+        "Salary Transfer Customers"
+      ],
+      "section": "Salary Transfer Customers",
+      "section_title": "Car Loan > Terms and Conditions > 17. Income Verification Documents > Salary Transfer Customers",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Salary Transfer Customers",
+          "items": [
+            "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).",
+            "Commitment letter and end-of-service transfer undertaking addressed to the bank.",
+            "Certified bank statement for the last 6 months.",
+            "Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments.",
+            "Social Security statement for all employees of Non TML companies, regardless of the employment period ."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Business Owners:\n• Commercial registration.\n• Valid professional license.\n• Bank statement for the last 6 months.",
+      "display_title": "Business Owners",
+      "images": [],
+      "language": "en",
+      "page": 6,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "17. Income Verification Documents",
+        "Business Owners"
+      ],
+      "section": "Business Owners",
+      "section_title": "Car Loan > Terms and Conditions > 17. Income Verification Documents > Business Owners",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Business Owners",
+          "items": [
+            "Commercial registration.",
+            "Valid professional license.",
+            "Bank statement for the last 6 months."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Professionals:\n• Professional practice license.\n• Bank statement for the last 6 months.",
+      "display_title": "Professionals",
+      "images": [],
+      "language": "en",
+      "page": 6,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "17. Income Verification Documents",
+        "Professionals"
+      ],
+      "section": "Professionals",
+      "section_title": "Car Loan > Terms and Conditions > 17. Income Verification Documents > Professionals",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Professionals",
+          "items": [
+            "Professional practice license.",
+            "Bank statement for the last 6 months."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Jordanian Expatriates:\n• Salary Transfer Customers : Salary certificate and salary slip for the last 3 months + Bank statement for the last 6 months.\n• Business owners: Recent commercial registration + Financial statements for the last two years.\n• Credit report from the country of residence.\n• QR code authentication may replace official attestation where available.\n• Otherwise, salary certificates and commercial registrations must be certified by the relevant authorities and the Jordanian embassy.\n• IRS tax statement is required for expatriates residing in Canada, the United States, and the United Kingdom.",
+      "display_title": "Jordanian Expatriates",
+      "images": [],
+      "language": "en",
+      "page": 6,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "17. Income Verification Documents",
+        "Jordanian Expatriates"
+      ],
+      "section": "Jordanian Expatriates",
+      "section_title": "Car Loan > Terms and Conditions > 17. Income Verification Documents > Jordanian Expatriates",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Jordanian Expatriates",
+          "items": [
+            "Salary Transfer Customers : Salary certificate and salary slip for the last 3 months + Bank statement for the last 6 months.",
+            "Business owners: Recent commercial registration + Financial statements for the last two years.",
+            "Credit report from the country of residence.",
+            "QR code authentication may replace official attestation where available.",
+            "Otherwise, salary certificates and commercial registrations must be certified by the relevant authorities and the Jordanian embassy.",
+            "IRS tax statement is required for expatriates residing in Canada, the United States, and the United Kingdom."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "After approval and before disbursement:\n• At least 90% of the down payment amount must be deposited into the customer’s account before issuing the vehicle payment cheque for vehicles financed through approved showrooms.\n• For vehicles financed through official dealerships, a payment receipt confirming settlement of the customer’s contribution is sufficient.",
+      "display_title": "18. General Conditions",
+      "images": [],
+      "language": "en",
+      "page": 6,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "18. General Conditions"
+      ],
+      "section": "18. General Conditions",
+      "section_title": "Car Loan > Terms and Conditions > 18. General Conditions",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "After approval and before disbursement",
+          "items": [
+            "At least 90% of the down payment amount must be deposited into the customer’s account before issuing the vehicle payment cheque for vehicles financed through approved showrooms.",
+            "For vehicles financed through official dealerships, a payment receipt confirming settlement of the customer’s contribution is sufficient."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "All dealers and agencies are accepted, except for Chinese vehicles, which must be financed only through approved dealerships and agencies.",
+      "display_title": "19. Approved Dealers and Agencies",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Terms and Conditions",
+        "19. Approved Dealers and Agencies"
+      ],
+      "section": "19. Approved Dealers and Agencies",
+      "section_title": "Car Loan > Terms and Conditions > 19. Approved Dealers and Agencies",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "All dealers and agencies are accepted, except for Chinese vehicles, which must be financed only through approved dealerships and agencies."
+        }
+      ]
+    },
+    {
+      "content": "The bank also offers a simplified car financing program with reduced documentation requirements.",
+      "display_title": "Description",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Description"
+      ],
+      "section": "Description",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Description",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "The bank also offers a simplified car financing program with reduced documentation requirements."
+        }
+      ]
+    },
+    {
+      "content": "The program applies to:\n• German vehicles, American vehicles, British vehicles, Japanese vehicles.",
+      "display_title": "Eligible Vehicle Types",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Eligible Vehicle Types"
+      ],
+      "section": "Eligible Vehicle Types",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Eligible Vehicle Types",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "The program applies to",
+          "items": [
+            "German vehicles, American vehicles, British vehicles, Japanese vehicles."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Financing Percentage:\n• Up to 50% financing.",
+      "display_title": "Financing Percentage",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Financing Percentage"
+      ],
+      "section": "Financing Percentage",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Financing Percentage",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Financing Percentage",
+          "items": [
+            "Up to 50% financing."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Minimum Vehicle Price:\n• Minimum vehicle value: JOD 40,000.",
+      "display_title": "Minimum Vehicle Price",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Minimum Vehicle Price"
+      ],
+      "section": "Minimum Vehicle Price",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Minimum Vehicle Price",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Minimum Vehicle Price",
+          "items": [
+            "Minimum vehicle value: JOD 40,000."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Repayment Period:\n• Up to 60 months.",
+      "display_title": "Repayment Period",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Repayment Period"
+      ],
+      "section": "Repayment Period",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Repayment Period",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Repayment Period",
+          "items": [
+            "Up to 60 months."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Vehicle Age:\n• Maximum 4 years old, whether new or used.",
+      "display_title": "Vehicle Age",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Vehicle Age"
+      ],
+      "section": "Vehicle Age",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Vehicle Age",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Vehicle Age",
+          "items": [
+            "Maximum 4 years old, whether new or used."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Debt Burden Ratio:\n• Maximum 55%.",
+      "display_title": "Debt Burden Ratio",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Debt Burden Ratio"
+      ],
+      "section": "Debt Burden Ratio",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Debt Burden Ratio",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Debt Burden Ratio",
+          "items": [
+            "Maximum 55%."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Approved Dealers:\n• All approved dealerships and showrooms.",
+      "display_title": "Approved Dealers",
+      "images": [],
+      "language": "en",
+      "page": 7,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Approved Dealers"
+      ],
+      "section": "Approved Dealers",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Approved Dealers",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Approved Dealers",
+          "items": [
+            "All approved dealerships and showrooms."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Financing Purpose:\n• Personal use only.\n• Vehicles used for ride-hailing and smart applications are not eligible.",
+      "display_title": "Financing Purpose",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Financing Purpose"
+      ],
+      "section": "Financing Purpose",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Financing Purpose",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Financing Purpose",
+          "items": [
+            "Personal use only.",
+            "Vehicles used for ride-hailing and smart applications are not eligible."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Maximum Loan Amount:\n• Up to JOD 125,000, subject to the customer segment limit.",
+      "display_title": "Maximum Loan Amount",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Maximum Loan Amount"
+      ],
+      "section": "Maximum Loan Amount",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Maximum Loan Amount",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Maximum Loan Amount",
+          "items": [
+            "Up to JOD 125,000, subject to the customer segment limit."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Social Security statement only.",
+      "display_title": "Salary Transfer Customers",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Simplified Income Verification",
+        "Salary Transfer Customers"
+      ],
+      "section": "Salary Transfer Customers",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Simplified Income Verification > Salary Transfer Customers",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Social Security statement only."
+        }
+      ]
+    },
+    {
+      "content": "Commercial registration and valid professional license.",
+      "display_title": "Business Owners& Professionals",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Simplified Income Verification",
+        "Business Owners& Professionals"
+      ],
+      "section": "Business Owners& Professionals",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Simplified Income Verification > Business Owners& Professionals",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "paragraph",
+          "text": "Commercial registration and valid professional license."
+        }
+      ]
+    },
+    {
+      "content": "Jordanian Expatriates:\n• Salary certificate or salary slip.\n• Credit report from country of residence.",
+      "display_title": "Jordanian Expatriates",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Simplified Income Verification",
+        "Jordanian Expatriates"
+      ],
+      "section": "Jordanian Expatriates",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Simplified Income Verification > Jordanian Expatriates",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Jordanian Expatriates",
+          "items": [
+            "Salary certificate or salary slip.",
+            "Credit report from country of residence."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Minimum employment period:\n• 6 months for salary transfer customers.\n• 24 months for expatriates, business owners, and professionals.",
+      "display_title": "Minimum employment period",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "General Conditions for Simplified Program",
+        "Minimum employment period"
+      ],
+      "section": "Minimum employment period",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > General Conditions for Simplified Program > Minimum employment period",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Minimum employment period",
+          "items": [
+            "6 months for salary transfer customers.",
+            "24 months for expatriates, business owners, and professionals."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "o At least 90% of the down payment must be deposited into the customer’s account for showroom-financed vehicles. o For dealership-financed vehicles, proof of payment of customer contribution is sufficient.\n\nItems:\n• One vehicle may be registered under the customer’s company name provided that the vehicle is for personal use.",
+      "display_title": "Before disbursement",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "General Conditions for Simplified Program",
+        "Before disbursement"
+      ],
+      "section": "Before disbursement",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > General Conditions for Simplified Program > Before disbursement",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "o At least 90% of the down payment must be deposited into the customer’s account for showroom-financed vehicles. o For dealership-financed vehicles, proof of payment of customer contribution is sufficient. Items",
+          "items": [
+            "One vehicle may be registered under the customer’s company name provided that the vehicle is for personal use."
+          ]
+        }
+      ]
+    },
+    {
+      "content": "Credit Approval Validity:\n• The credit approval remains valid for 45 days.",
+      "display_title": "Credit Approval Validity",
+      "images": [],
+      "language": "en",
+      "page": 8,
+      "path": [
+        "Car Loan",
+        "Car Loan Program with Reduced Requirements",
+        "Credit Approval Validity"
+      ],
+      "section": "Credit Approval Validity",
+      "section_title": "Car Loan > Car Loan Program with Reduced Requirements > Credit Approval Validity",
+      "topic": "Car Loan Program",
+      "variant": "content",
+      "content_blocks": [
+        {
+          "type": "bullet_list",
+          "label": "Credit Approval Validity",
+          "items": [
+            "The credit approval remains valid for 45 days."
+          ]
+        }
+      ]
+    }
+  ],
+  "source": {
+    "filename": "Car Loan.pdf",
+    "type": "pdf"
+  },
+  "structure": {
+    "type": "document",
+    "title": "Car Loan",
+    "children": [
+      {
+        "type": "paragraph",
+        "title": "Description",
+        "section_index": 0,
+        "blocks": [
+          {
+            "type": "paragraph",
+            "text": "The Car Loan Program provides financing solutions for purchasing new and used vehicles for a wide range of customer segments, including public sector employees, military and Jordan public security , retirees, private sector employees, business owners and self-employed professionals, and Jordanian expatriates. The program offers flexible financing terms, competitive repayment periods, and high financing percentages based on customer profile and vehicle type."
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Terms and Conditions",
+        "children": [
+          {
+            "type": "bullet_list",
+            "title": "1. Target Segments",
+            "section_index": 1,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "The program is available for the following categories",
+                "items": [
+                  "Public sector employees, military and Jordan public security , and customs.",
+                  "Retirees.",
+                  "Private sector employees.",
+                  "Business owners and self-employed professionals.",
+                  "Jordanian expatriates."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "2. Age Requirements",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "General Customers",
+                "section_index": 2,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "General Customers",
+                    "items": [
+                      "Minimum age: 21 years.",
+                      "Maximum age at application: 65 years.",
+                      "The customer’s age must not exceed 75 years at the end of the loan tenor."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Jordanian Expatriates",
+                "section_index": 3,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Jordanian Expatriates",
+                    "items": [
+                      "Minimum age at granting: 25 years.",
+                      "Maximum age at the last installment: 60 years."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "3. Minimum Income Requirements",
+            "section_index": 4,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "The minimum income requirement depends on the customer category",
+                "items": [
+                  "Public sector employees, military and Jordan public security , and customs & Retirees & Private sector employees: Minimum JOD 700.",
+                  "Business owners, professionals: Minimum JOD 2,000.",
+                  "Jordanian expatriates: Minimum JOD 2,000 excluding housing allowance."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "4. Minimum Employment or Business Period",
+            "section_index": 5,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "4. Minimum Employment or Business Period",
+                "items": [
+                  "Public Sector & Military and Jordan public security & Jordanian"
+                ]
+              }
+            ],
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "Expatriates",
+                "section_index": 6,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Minimum 12 months of service."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Retirees",
+                "section_index": 7,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "At least one salary transfer is required."
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Private Sector Employees",
+                "section_index": 8,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Private Sector Employees",
+                    "items": [
+                      "TML companies: 3 months confirmed employment.",
+                      "Non-TML companies: 12 months."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Business Owners & Professionals",
+                "section_index": 9,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Minimum 24 months of operation."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "5. Maximum Employment Conditions",
+            "section_index": 10,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "5. Maximum Employment Conditions",
+                "items": [
+                  "No maximum service limit, except for expatriates, the customer’s age must not exceed 60 years at the final installment date."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "6. Excluded Professions",
+            "section_index": 11,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "The following professions are excluded from financing eligibility",
+                "items": [
+                  "Cleaners.",
+                  "Office messengers.",
+                  "Drivers.",
+                  "Municipality employees.",
+                  "Daily wage workers."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "7. Required Guarantees",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "& Retirees & Private Sector",
+                "section_index": 12,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "The following guarantees are required",
+                    "items": [
+                      "Official salary transfer to the bank.",
+                      "Vehicle mortgage in favor of the bank equal to the loan amount.",
+                      "Comprehensive insurance assigned to the bank for an amount not less than the loan balance.",
+                      "TML company employees may obtain financing without salary transfer for all segments except the Regular segment, subject to:",
+                      "Maximum financing ratio of 65%.",
+                      "Maximum 60% financing for Chinese vehicles."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Business Owners & Professionals",
+                "section_index": 13,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Business Owners & Professionals",
+                    "items": [
+                      "Vehicle mortgage in favor of the bank equal to the loan amount.",
+                      "Comprehensive insurance assigned to the bank for an amount not less than the loan balance."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "8. Loan Tenor",
+            "section_index": 14,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "8. Loan Tenor",
+                "items": [
+                  "The maximum loan tenor is 8 years."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "9. Maximum Number of Loans",
+            "section_index": 15,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "9. Maximum Number of Loans",
+                "items": [
+                  "Customers may obtain a maximum of two car loans."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "10. Minimum Loan Amount",
+            "section_index": 16,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "10. Minimum Loan Amount",
+                "items": [
+                  "The minimum financing amount is JOD 5,000."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "11. Financing Percentage",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "& Retirees & Private Sector",
+                "section_index": 17,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "& Retirees & Private Sector",
+                    "items": [
+                      "New Vehicles",
+                      "Up to 100% financing for new vehicles, Chinese vehicles: maximum 70% financing.",
+                      "Used Vehicles",
+                      "Up to 90% financing for used vehicles, Chinese vehicles: maximum 70% financing."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Business Owners & Professionals",
+                "section_index": 18,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Business Owners & Professionals",
+                    "items": [
+                      "Up to 90% financing for all vehicles, Chinese vehicles remain capped at 70%."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "12. Maximum Loan Amount by Customer Segment",
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "Regular Segment",
+                "section_index": 19,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Up to 25 times the customer’s salary, Maximum financing: JOD 25,000."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Upper Regular Segment",
+                "section_index": 20,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Up to 35 times salary, Maximum financing: JOD 50,000."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Select Segment",
+                "section_index": 21,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Up to 35 times salary, Maximum financing: JOD 100,000."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Private Banking Segment",
+                "section_index": 22,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Up to 35 times salary, Maximum financing: JOD 125,000."
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "13. Debt Burden Ratio",
+            "section_index": 23,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "13. Debt Burden Ratio",
+                "items": [
+                  "Maximum 55% total liabilities:50% for loans + Additional 5% for credit card obligations.",
+                  "Except for Regular Segment",
+                  "Maximum debt burden ratio: 50%."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "14. Vehicle Inspection and Valuation",
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "New Vehicles from Showrooms",
+                "section_index": 24,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Vehicle quotation from the showroom, Agency letter showing the vehicle price. If unavailable, a technical inspection and valuation by an approved evaluator."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "New Vehicles from Agencies",
+                "section_index": 25,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Official quotation from the dealership only."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Used Vehicles",
+                "section_index": 26,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Vehicle quotation, technical inspection report, Vehicle valuation by an approved evaluator."
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Valuation Conditions",
+                "section_index": 27,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Valuation Conditions",
+                    "items": [
+                      "Inspection rating must be “4 Good”.",
+                      "Chassis or structural damages are unacceptable.",
+                      "Hybrid and electric vehicle batteries must be in good or acceptable condition.",
+                      "Auto Score inspection result must not be less than 80%."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "15. Vehicle Age at Loan Maturity",
+            "section_index": 28,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "At the end of the financing period, the vehicle age must not exceed",
+                "items": [
+                  "German and Japanese vehicles: 15 years.",
+                  "Other vehicles: 12 years.",
+                  "Chinese vehicles: 10 years, the vehicle age at granting must not exceed 2 years."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "16. Required Documents",
+            "section_index": 29,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "16. Required Documents",
+                "items": [
+                  "Copy of vehicle registration or customs declaration.",
+                  "For vehicles financed through dealerships, the quotation is sufficient initially.",
+                  "After approval: o Vehicle registration showing the mortgage. o Official mortgage letter. o Comprehensive insurance policy assigned to the bank."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "17. Income Verification Documents",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "Salary Transfer Customers",
+                "section_index": 30,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Salary Transfer Customers",
+                    "items": [
+                      "A salary certificate showing the gross salary and net salary transferred to the bank if the salary has been fixed for the last 3 months, or salary slips for the last 3 months showing the gross salary, net salary, and deductions applicable to the customer (6 slips in case of incentives or overtime payments).",
+                      "Commitment letter and end-of-service transfer undertaking addressed to the bank.",
+                      "Certified bank statement for the last 6 months.",
+                      "Social Security Statement for employees of TML companies if the employment period is less than 24 months, excluding Select + PB segments.",
+                      "Social Security statement for all employees of Non TML companies, regardless of the employment period ."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Business Owners",
+                "section_index": 31,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Business Owners",
+                    "items": [
+                      "Commercial registration.",
+                      "Valid professional license.",
+                      "Bank statement for the last 6 months."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Professionals",
+                "section_index": 32,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Professionals",
+                    "items": [
+                      "Professional practice license.",
+                      "Bank statement for the last 6 months."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Jordanian Expatriates",
+                "section_index": 33,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Jordanian Expatriates",
+                    "items": [
+                      "Salary Transfer Customers : Salary certificate and salary slip for the last 3 months + Bank statement for the last 6 months.",
+                      "Business owners: Recent commercial registration + Financial statements for the last two years.",
+                      "Credit report from the country of residence.",
+                      "QR code authentication may replace official attestation where available.",
+                      "Otherwise, salary certificates and commercial registrations must be certified by the relevant authorities and the Jordanian embassy.",
+                      "IRS tax statement is required for expatriates residing in Canada, the United States, and the United Kingdom."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "18. General Conditions",
+            "section_index": 34,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "After approval and before disbursement",
+                "items": [
+                  "At least 90% of the down payment amount must be deposited into the customer’s account before issuing the vehicle payment cheque for vehicles financed through approved showrooms.",
+                  "For vehicles financed through official dealerships, a payment receipt confirming settlement of the customer’s contribution is sufficient."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "paragraph",
+            "title": "19. Approved Dealers and Agencies",
+            "section_index": 35,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "All dealers and agencies are accepted, except for Chinese vehicles, which must be financed only through approved dealerships and agencies."
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "title": "Car Loan Program with Reduced Requirements",
+        "children": [
+          {
+            "type": "paragraph",
+            "title": "Description",
+            "section_index": 36,
+            "blocks": [
+              {
+                "type": "paragraph",
+                "text": "The bank also offers a simplified car financing program with reduced documentation requirements."
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Eligible Vehicle Types",
+            "section_index": 37,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "The program applies to",
+                "items": [
+                  "German vehicles, American vehicles, British vehicles, Japanese vehicles."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Financing Percentage",
+            "section_index": 38,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Financing Percentage",
+                "items": [
+                  "Up to 50% financing."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Minimum Vehicle Price",
+            "section_index": 39,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Minimum Vehicle Price",
+                "items": [
+                  "Minimum vehicle value: JOD 40,000."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Repayment Period",
+            "section_index": 40,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Repayment Period",
+                "items": [
+                  "Up to 60 months."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Vehicle Age",
+            "section_index": 41,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Vehicle Age",
+                "items": [
+                  "Maximum 4 years old, whether new or used."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Debt Burden Ratio",
+            "section_index": 42,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Debt Burden Ratio",
+                "items": [
+                  "Maximum 55%."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Approved Dealers",
+            "section_index": 43,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Approved Dealers",
+                "items": [
+                  "All approved dealerships and showrooms."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Financing Purpose",
+            "section_index": 44,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Financing Purpose",
+                "items": [
+                  "Personal use only.",
+                  "Vehicles used for ride-hailing and smart applications are not eligible."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Maximum Loan Amount",
+            "section_index": 45,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Maximum Loan Amount",
+                "items": [
+                  "Up to JOD 125,000, subject to the customer segment limit."
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "Simplified Income Verification",
+            "children": [
+              {
+                "type": "paragraph",
+                "title": "Salary Transfer Customers",
+                "section_index": 46,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Social Security statement only."
+                  }
+                ]
+              },
+              {
+                "type": "paragraph",
+                "title": "Business Owners& Professionals",
+                "section_index": 47,
+                "blocks": [
+                  {
+                    "type": "paragraph",
+                    "text": "Commercial registration and valid professional license."
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Jordanian Expatriates",
+                "section_index": 48,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Jordanian Expatriates",
+                    "items": [
+                      "Salary certificate or salary slip.",
+                      "Credit report from country of residence."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "title": "General Conditions for Simplified Program",
+            "children": [
+              {
+                "type": "bullet_list",
+                "title": "Minimum employment period",
+                "section_index": 49,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "Minimum employment period",
+                    "items": [
+                      "6 months for salary transfer customers.",
+                      "24 months for expatriates, business owners, and professionals."
+                    ]
+                  }
+                ]
+              },
+              {
+                "type": "bullet_list",
+                "title": "Before disbursement",
+                "section_index": 50,
+                "blocks": [
+                  {
+                    "type": "bullet_list",
+                    "label": "o At least 90% of the down payment must be deposited into the customer’s account for showroom-financed vehicles. o For dealership-financed vehicles, proof of payment of customer contribution is sufficient. Items",
+                    "items": [
+                      "One vehicle may be registered under the customer’s company name provided that the vehicle is for personal use."
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "type": "bullet_list",
+            "title": "Credit Approval Validity",
+            "section_index": 51,
+            "blocks": [
+              {
+                "type": "bullet_list",
+                "label": "Credit Approval Validity",
+                "items": [
+                  "The credit approval remains valid for 45 days."
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "title": "Car Loan"
+}
